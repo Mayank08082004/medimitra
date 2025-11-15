@@ -1,0 +1,8 @@
+__pycache__/
+uploads/
+*.gguf
+*.pt
+*.bin
+*.log
+*.DS_Store
+.env

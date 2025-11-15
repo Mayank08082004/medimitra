@@ -1,0 +1,14 @@
+flask
+flask-cors
+python-doctr
+torch
+numpy
+pydantic
+llama-cpp-python
+json-repair
+transformers
+tokenizers
+sentencepiece
+pillow
+requests
+tqdm
