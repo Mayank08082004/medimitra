@@ -28,7 +28,7 @@ def init_llm():
             model_path=MODEL_PATH,
             n_ctx=4096,
             n_threads=4,
-            n_gpu_layers=0,  # Metal fails silently >0 on many Macs
+            n_gpu_layers=-1,  # Metal fails silently >0 on many Macs
             verbose=False,
         )
         logging.info("LLM loaded successfully.")
