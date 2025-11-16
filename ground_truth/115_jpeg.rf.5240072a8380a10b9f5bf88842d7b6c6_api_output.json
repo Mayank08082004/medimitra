@@ -1,0 +1,319 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_3f574e6964e646a3b85ba676f302ff22",
+    "success": true
+  },
+  "document_id": "doc_ab6580e330d844f5b950c84c63695b21",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [
+      {
+        "confidence": 0.85,
+        "dosage": null,
+        "duration": null,
+        "form": null,
+        "frequency": null,
+        "instructions": "unit 154 1 A.",
+        "name": "unit",
+        "quantity": null,
+        "refills": null,
+        "route": null,
+        "strength": null
+      },
+      {
+        "confidence": 0.85,
+        "dosage": null,
+        "duration": null,
+        "form": null,
+        "frequency": null,
+        "instructions": "unit 154 1 A.",
+        "name": "unit",
+        "quantity": null,
+        "refills": null,
+        "route": null,
+        "strength": null
+      }
+    ],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": "Turn power",
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "Front left HUE H\nDoctor, Mostuta Zaman\nvine\nShut the\nunit 154 1 A.\nTurn power down to 9W\n+ Tol A2e plus 9V\nP12 vacuum 2\n1 Eso0r Dextac Muscle\n# broken\n2 Txd kilowatt\nY\nTable\nVesigil\n>\nPHois long\n1 - dE\n\u00e0\nAv\n2E18600 CV\nOTu FEKOpEN\n07\notot) 20\n7\nDoctor, Mostuta Zaman\nvine\nShut the\nunit 154 1 A.\nTurn power down to 9W\n+ Tol A2e plus 9V\nP12 vacuum 2\n1 Esoor Dextac Muscle\n# broken\n2 Txd kilowatt\nY\nTable\nVigil\n>\nPhois long\n1 - dE\n\u00e0\nAv\n2E18600 CV\nOTu FEKOpEN\n07\notot) 20\n7"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [
+          {
+            "confidence": 0.85,
+            "dosage": null,
+            "duration": null,
+            "form": null,
+            "frequency": null,
+            "instructions": "unit 154 1 A.",
+            "name": "unit",
+            "quantity": null,
+            "refills": null,
+            "route": null,
+            "strength": null
+          },
+          {
+            "confidence": 0.85,
+            "dosage": null,
+            "duration": null,
+            "form": null,
+            "frequency": null,
+            "instructions": "unit 154 1 A.",
+            "name": "unit",
+            "quantity": null,
+            "refills": null,
+            "route": null,
+            "strength": null
+          }
+        ],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": "Turn power",
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "Front left HUE H\nDoctor, Mostuta Zaman\nvine\nShut the\nunit 154 1 A.\nTurn power down to 9W\n+ Tol A2e plus 9V\nP12 vacuum 2\n1 Eso0r Dextac Muscle\n# broken\n2 Txd kilowatt\nY\nTable\nVesigil\n>\nPHois long\n1 - dE\n\u00e0\nAv\n2E18600 CV\nOTu FEKOpEN\n07\notot) 20\n7\nDoctor, Mostuta Zaman\nvine\nShut the\nunit 154 1 A.\nTurn power down to 9W\n+ Tol A2e plus 9V\nP12 vacuum 2\n1 Esoor Dextac Muscle\n# broken\n2 Txd kilowatt\nY\nTable\nVigil\n>\nPhois long\n1 - dE\n\u00e0\nAv\n2E18600 CV\nOTu FEKOpEN\n07\notot) 20\n7"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T08:28:45.337522Z",
+    "total_text_regions": 29
+  },
+  "ocr_confidence": 0.458868,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.3759613235791524,
+        "text": "offnt HUE H"
+      },
+      {
+        "confidence": 0.6394831935564677,
+        "text": "Docion, Mostuta Zaman"
+      },
+      {
+        "confidence": 0.2602018713951111,
+        "text": "-"
+      },
+      {
+        "confidence": 0.2512066066265106,
+        "text": "vin"
+      },
+      {
+        "confidence": 0.2297859638929367,
+        "text": "Shthe"
+      },
+      {
+        "confidence": 0.5125091336667538,
+        "text": "un 154 1 a"
+      },
+      {
+        "confidence": 0.3839031457901001,
+        "text": "."
+      },
+      {
+        "confidence": 0.5405251309275627,
+        "text": "Tull puinox = 9W"
+      },
+      {
+        "confidence": 0.3493127226829529,
+        "text": "71e12"
+      },
+      {
+        "confidence": 0.5855594515800476,
+        "text": "- Tol A2e plus 9V"
+      },
+      {
+        "confidence": 0.3223639080921809,
+        "text": "P12 vap 2"
+      },
+      {
+        "confidence": 0.4429629147052765,
+        "text": "1 Eso0r Dextac Mus"
+      },
+      {
+        "confidence": 0.6955097913742065,
+        "text": "# brot) deng"
+      },
+      {
+        "confidence": 0.34719734887282055,
+        "text": "2 Txd kaldohal"
+      },
+      {
+        "confidence": 0.3176041841506958,
+        "text": "Y"
+      },
+      {
+        "confidence": 0.5824490785598755,
+        "text": "- E"
+      },
+      {
+        "confidence": 0.48281585176785785,
+        "text": "otto 220k OWINAS"
+      },
+      {
+        "confidence": 0.5722594857215881,
+        "text": " Tab"
+      },
+      {
+        "confidence": 0.4985939562320709,
+        "text": "VesHg"
+      },
+      {
+        "confidence": 0.5122841000556946,
+        "text": ">"
+      },
+      {
+        "confidence": 0.30270005017518997,
+        "text": "PHois lonx"
+      },
+      {
+        "confidence": 0.34722167750199634,
+        "text": "1 - dE"
+      },
+      {
+        "confidence": 0.9346619844436646,
+        "text": "\u00e0"
+      },
+      {
+        "confidence": 0.5396866202354431,
+        "text": "Av"
+      },
+      {
+        "confidence": 0.250021368265152,
+        "text": "2E186000"
+      },
+      {
+        "confidence": 0.28701968491077423,
+        "text": "OTu FEKOpEN"
+      },
+      {
+        "confidence": 0.3191429674625397,
+        "text": "07"
+      },
+      {
+        "confidence": 0.4498661905527115,
+        "text": "otot) 20"
+      },
+      {
+        "confidence": 0.974371612071991,
+        "text": "7"
+      }
+    ]
+  },
+  "ocr_text": "offnt HUE H\nDocion, Mostuta Zaman\n-\nvin\nShthe\nun 154 1 a\n.\nTull puinox = 9W\n71e12\n- Tol A2e plus 9V\nP12 vap 2\n1 Eso0r Dextac Mus\n# brot) deng\n2 Txd kaldohal\nY\n- E\notto 220k OWINAS\n Tab\nVesHg\n>\nPHois lonx\n1 - dE\n\u00e0\nAv\n2E186000\nOTu FEKOpEN\n07\notot) 20\n7",
+  "ocr_text_length": 250,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.5,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id"
+    ],
+    "quality_score": 0.458868,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_b3c970f4e42049f7b73079086bd73d7b",
+    "success": true
+  },
+  "document_id": "doc_e2d83059591842808a0c5bba6e3f26ab",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": "Mostota Zaman",
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "YC\nDoctor Mostota Zaman\nVOOR CMI 71D - NA A de\nNGY 17 Date\nFlasomoy TAN\nLOTO\no110 4orr MIr\nTHNS\n2001\nFerDpan\natot7 rare\nTU DEFE\nPEF\na\nof\n3\npankas\nototo D VA\n30r.\nyr\nThergtet\n28166200\nn20A\nD.5ec\negeus\n50v A\n1tot\n4\nRpN\none\nAceti\nTice\nIY\nes\n>rot? GONNO A\nDREPN\nCortpan\nWEU\notot7\n1\nI - COMTE rtHl\na\nDoctor Mostota Zaman\nVOOR CMI 71D - NA A de\nNGY 17 Date\nFlasomoy TAN\nLOTO\no110 4orr MIr\nTHNS\n200e1\nFerDpan\natot7 rare\nTU DEFE\nPEF\na\nof\n3\npankas\nototo D VA\n30r.\nyr\nThergtet\n28166200\nn20A\nD.5ec\negeus\n50v A\n1tot\n4\nRpN\none\nAceti\nTice\nIY\nes\n>rot? GONNO A\nDREPN\nCortpan\nWEU\notot7\n1\nI - COMTE rtHl\na"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": "Mostota Zaman",
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "YC\nDoctor Mostota Zaman\nVOOR CMI 71D - NA A de\nNGY 17 Date\nFlasomoy TAN\nLOTO\no110 4orr MIr\nTHNS\n2001\nFerDpan\natot7 rare\nTU DEFE\nPEF\na\nof\n3\npankas\nototo D VA\n30r.\nyr\nThergtet\n28166200\nn20A\nD.5ec\negeus\n50v A\n1tot\n4\nRpN\none\nAceti\nTice\nIY\nes\n>rot? GONNO A\nDREPN\nCortpan\nWEU\notot7\n1\nI - COMTE rtHl\na\nDoctor Mostota Zaman\nVOOR CMI 71D - NA A de\nNGY 17 Date\nFlasomoy TAN\nLOTO\no110 4orr MIr\nTHNS\n200e1\nFerDpan\natot7 rare\nTU DEFE\nPEF\na\nof\n3\npankas\nototo D VA\n30r.\nyr\nThergtet\n28166200\nn20A\nD.5ec\negeus\n50v A\n1tot\n4\nRpN\none\nAceti\nTice\nIY\nes\n>rot? GONNO A\nDREPN\nCortpan\nWEU\notot7\n1\nI - COMTE rtHl\na"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T08:36:13.690466Z",
+    "total_text_regions": 48
+  },
+  "ocr_confidence": 0.476842,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.45708391070365906,
+        "text": "yc"
+      },
+      {
+        "confidence": 0.7914538582166036,
+        "text": "Doctor Mostota Zaman"
+      },
+      {
+        "confidence": 0.669327437877655,
+        "text": "-"
+      },
+      {
+        "confidence": 0.6630687018235525,
+        "text": "vooR CMI 71D -n A de"
+      },
+      {
+        "confidence": 0.3748280107975006,
+        "text": "-"
+      },
+      {
+        "confidence": 0.819553554058075,
+        "text": "- -"
+      },
+      {
+        "confidence": 0.6549593508243561,
+        "text": "N GY 17 Date"
+      },
+      {
+        "confidence": 0.44596269726753235,
+        "text": "Flasomoy TAN"
+      },
+      {
+        "confidence": 0.5055832862854004,
+        "text": "LOTO"
+      },
+      {
+        "confidence": 0.42473020156224567,
+        "text": "o110 4orr MIr"
+      },
+      {
+        "confidence": 0.33328135311603546,
+        "text": " THNS"
+      },
+      {
+        "confidence": 0.49952933192253113,
+        "text": "2001"
+      },
+      {
+        "confidence": 0.19663675129413605,
+        "text": "FerDpan"
+      },
+      {
+        "confidence": 0.3852599710226059,
+        "text": "atot7 rare"
+      },
+      {
+        "confidence": 0.2989422082901001,
+        "text": "TU DEFE"
+      },
+      {
+        "confidence": 0.41510507464408875,
+        "text": "Pef"
+      },
+      {
+        "confidence": 0.8028528988361359,
+        "text": " a"
+      },
+      {
+        "confidence": 0.454740047454834,
+        "text": "of"
+      },
+      {
+        "confidence": 0.21375885605812073,
+        "text": "3"
+      },
+      {
+        "confidence": 0.2182106226682663,
+        "text": "pankas"
+      },
+      {
+        "confidence": 0.3784523357947667,
+        "text": "ototo D VA"
+      },
+      {
+        "confidence": 0.537036120891571,
+        "text": "30r."
+      },
+      {
+        "confidence": 0.7937619686126709,
+        "text": "yr"
+      },
+      {
+        "confidence": 0.402431458234787,
+        "text": "Thergtet"
+      },
+      {
+        "confidence": 0.32074737548828125,
+        "text": "28166200"
+      },
+      {
+        "confidence": 0.2371613085269928,
+        "text": "n20A"
+      },
+      {
+        "confidence": 0.5890600681304932,
+        "text": "D.5ec"
+      },
+      {
+        "confidence": 0.3606716990470886,
+        "text": "egeus"
+      },
+      {
+        "confidence": 0.2719041705131531,
+        "text": "50v A"
+      },
+      {
+        "confidence": 0.28930115699768066,
+        "text": "1tot"
+      },
+      {
+        "confidence": 0.6270694136619568,
+        "text": "4"
+      },
+      {
+        "confidence": 0.4495152533054352,
+        "text": "RpN"
+      },
+      {
+        "confidence": 0.5018132925033569,
+        "text": "one"
+      },
+      {
+        "confidence": 0.6583791375160217,
+        "text": "Aceti"
+      },
+      {
+        "confidence": 0.5082324743270874,
+        "text": "-"
+      },
+      {
+        "confidence": 0.2920135259628296,
+        "text": "Tice"
+      },
+      {
+        "confidence": 0.2417287975549698,
+        "text": "IY"
+      },
+      {
+        "confidence": 0.747857928276062,
+        "text": "es"
+      },
+      {
+        "confidence": 0.4735644559065501,
+        "text": ">rot? GONNO A"
+      },
+      {
+        "confidence": 0.2978651821613312,
+        "text": "DREPN"
+      },
+      {
+        "confidence": 0.5074709057807922,
+        "text": "Cortpan"
+      },
+      {
+        "confidence": 0.26041969656944275,
+        "text": "WEU"
+      },
+      {
+        "confidence": 0.4836312234401703,
+        "text": "otot7"
+      },
+      {
+        "confidence": 0.5516519546508789,
+        "text": "1"
+      },
+      {
+        "confidence": 0.7215757469336191,
+        "text": "- - IT"
+      },
+      {
+        "confidence": 0.4791272208094597,
+        "text": "I - COMTE rtHl"
+      },
+      {
+        "confidence": 0.29533421993255615,
+        "text": "a"
+      },
+      {
+        "confidence": 0.9857519268989563,
+        "text": "-"
+      }
+    ]
+  },
+  "ocr_text": "yc\nDoctor Mostota Zaman\n-\nvooR CMI 71D -n A de\n-\n- -\nN GY 17 Date\nFlasomoy TAN\nLOTO\no110 4orr MIr\n THNS\n2001\nFerDpan\natot7 rare\nTU DEFE\nPef\n a\nof\n3\npankas\nototo D VA\n30r.\nyr\nThergtet\n28166200\nn20A\nD.5ec\negeus\n50v A\n1tot\n4\nRpN\none\nAceti\n-\nTice\nIY\nes\n>rot? GONNO A\nDREPN\nCortpan\nWEU\notot7\n1\n- - IT\nI - COMTE rtHl\na\n-",
+  "ocr_text_length": 314,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.25,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "medications"
+    ],
+    "quality_score": 0.476842,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

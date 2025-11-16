@@ -1,0 +1,381 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_a0805fc0e1384e40937d51759fcd243b",
+    "success": true
+  },
+  "document_id": "doc_ec5d0ef1087d43a38c17f8164dfbc196",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": "u",
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": "MD BILLAL HOSSAIN",
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "CHTE REPORT CAPITALES\nA de Fhhm\nAiiten man 1 lgn\nDoctor MD BILLAL HOSSAIN\nAsiento de siee\nHora\nHuertin leentoatin the\nCATEL E - Le 31:\nMano\nAy Tigwg Venoso\nEtates MMAMantane -139 Ohae\n9 Matrcauins\nm19\non\nDae\na V vww\nO-Tab, Nopeow loom\ncatofs\nQimb Kernal\nDoom\n2-tu to\npmb Sme-Zine\nCP -\nQCAP perae\nYY\net\n1 omi Kioelon\n0m4\notots\nNUS\naSpP Cryonameu\nOORO\nLiph poP\nWYA\n3fs 4 espr\n1as05\noea\nante amb A wir\novate 0944b\nomd UOPTTN, ite\nas roe 00952 B vs\ndifine 4 su 1 - - -\n### response\nCHTE REPORT CAPITALES\nA de Fhhm\nAiiten man 1 lgn\nDoctor MD BILLAL HOSSAIN\nAsiento de siee\nHora\nHuertin leentoatin the\nCATEL E - Le 31:\nMano\nAy Tigwg Venoso\nEtates MMAMantane -139 Ohae\n9 Matrcauins\nm19\non\nDae\na V vww\nO-Tab, Nopeow loom\ncatofs\nQimb Kernal\nDoom\n2-tu to\npmb Sme-Zine\nCP -\nQCAP perae\nYY\net\n1 omi Kioelon\n0m4\notots\nNUS\naSpP Cryonameu\nOORO\nLiph poP\nWYA\n3fs 4 espr\n1as05\noea\nante amb A wir\novate 0944b\nomd UOPTTN, ite\nas roe 0e952 B vs\ndifine 4 su 1 - - -\n(Note: The cleaned text may still contain OCR errors, but no obvious mistakes have been corrected based on the given rules.)"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": "u",
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": "MD BILLAL HOSSAIN",
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "CHTE REPORT CAPITALES\nA de Fhhm\nAiiten man 1 lgn\nDoctor MD BILLAL HOSSAIN\nAsiento de siee\nHora\nHuertin leentoatin the\nCATEL E - Le 31:\nMano\nAy Tigwg Venoso\nEtates MMAMantane -139 Ohae\n9 Matrcauins\nm19\non\nDae\na V vww\nO-Tab, Nopeow loom\ncatofs\nQimb Kernal\nDoom\n2-tu to\npmb Sme-Zine\nCP -\nQCAP perae\nYY\net\n1 omi Kioelon\n0m4\notots\nNUS\naSpP Cryonameu\nOORO\nLiph poP\nWYA\n3fs 4 espr\n1as05\noea\nante amb A wir\novate 0944b\nomd UOPTTN, ite\nas roe 00952 B vs\ndifine 4 su 1 - - -\n### response\nCHTE REPORT CAPITALES\nA de Fhhm\nAiiten man 1 lgn\nDoctor MD BILLAL HOSSAIN\nAsiento de siee\nHora\nHuertin leentoatin the\nCATEL E - Le 31:\nMano\nAy Tigwg Venoso\nEtates MMAMantane -139 Ohae\n9 Matrcauins\nm19\non\nDae\na V vww\nO-Tab, Nopeow loom\ncatofs\nQimb Kernal\nDoom\n2-tu to\npmb Sme-Zine\nCP -\nQCAP perae\nYY\net\n1 omi Kioelon\n0m4\notots\nNUS\naSpP Cryonameu\nOORO\nLiph poP\nWYA\n3fs 4 espr\n1as05\noea\nante amb A wir\novate 0944b\nomd UOPTTN, ite\nas roe 0e952 B vs\ndifine 4 su 1 - - -\n(Note: The cleaned text may still contain OCR errors, but no obvious mistakes have been corrected based on the given rules.)"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T08:50:02.886362Z",
+    "total_text_regions": 58
+  },
+  "ocr_confidence": 0.432157,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.41780389845371246,
+        "text": "-. CHTE REPT CAPIAT"
+      },
+      {
+        "confidence": 0.3800456300377846,
+        "text": " a de Fhhm"
+      },
+      {
+        "confidence": 0.34307096153497696,
+        "text": "aiiiten man 1 lgn"
+      },
+      {
+        "confidence": 0.789897546172142,
+        "text": "Doctor MD BILLAL HOSSAIN"
+      },
+      {
+        "confidence": 0.32122865319252014,
+        "text": "n asmnti siee"
+      },
+      {
+        "confidence": 0.5819607228040695,
+        "text": "- HOUR"
+      },
+      {
+        "confidence": 0.35293004910151166,
+        "text": "Hutan leentoatin the"
+      },
+      {
+        "confidence": 0.5542176365852356,
+        "text": "-"
+      },
+      {
+        "confidence": 0.9218888878822327,
+        "text": "-"
+      },
+      {
+        "confidence": 0.590789920091629,
+        "text": "- CATEL E - Le"
+      },
+      {
+        "confidence": 0.2529550641775131,
+        "text": "31 :"
+      },
+      {
+        "confidence": 0.2343423217535019,
+        "text": "Mn"
+      },
+      {
+        "confidence": 0.47109341621398926,
+        "text": " Hand"
+      },
+      {
+        "confidence": 0.4548119604587555,
+        "text": "."
+      },
+      {
+        "confidence": 0.4848202665646871,
+        "text": "ay Tigwg Venous"
+      },
+      {
+        "confidence": 0.49004340171813965,
+        "text": "E ates"
+      },
+      {
+        "confidence": 0.30324708422025043,
+        "text": "MMAMantane -139 Ohae"
+      },
+      {
+        "confidence": 0.22295443216959634,
+        "text": "9 M aTrACauins"
+      },
+      {
+        "confidence": 0.4072839021682739,
+        "text": "m19"
+      },
+      {
+        "confidence": 0.38375601172447205,
+        "text": "on"
+      },
+      {
+        "confidence": 0.4273919463157654,
+        "text": "Dae"
+      },
+      {
+        "confidence": 0.6435676515102386,
+        "text": "a V vww"
+      },
+      {
+        "confidence": 0.6563026706377665,
+        "text": "O-Tab, Nopeow loom"
+      },
+      {
+        "confidence": 0.43798087537288666,
+        "text": "\u00e0 -"
+      },
+      {
+        "confidence": 0.26636964082717896,
+        "text": "catofs"
+      },
+      {
+        "confidence": 0.3335426151752472,
+        "text": "Qimb Kernal"
+      },
+      {
+        "confidence": 0.7648829817771912,
+        "text": "Doom"
+      },
+      {
+        "confidence": 0.8042595386505127,
+        "text": "2-tu to"
+      },
+      {
+        "confidence": 0.21513567864894867,
+        "text": "\u00e0"
+      },
+      {
+        "confidence": 0.5229341983795166,
+        "text": "pmb Sme-Zine"
+      },
+      {
+        "confidence": 0.7879067063331604,
+        "text": "-"
+      },
+      {
+        "confidence": 0.7362276464700699,
+        "text": "CP -"
+      },
+      {
+        "confidence": 0.5212760865688324,
+        "text": "QCAP perae"
+      },
+      {
+        "confidence": 0.3163860961794853,
+        "text": " YY"
+      },
+      {
+        "confidence": 0.38007989525794983,
+        "text": "et"
+      },
+      {
+        "confidence": 0.3766895532608032,
+        "text": "1"
+      },
+      {
+        "confidence": 0.5232430398464203,
+        "text": "om Kioelon"
+      },
+      {
+        "confidence": 0.35563328862190247,
+        "text": "0m4"
+      },
+      {
+        "confidence": 0.4292958676815033,
+        "text": "o-tots"
+      },
+      {
+        "confidence": 0.33716821670532227,
+        "text": "NUS"
+      },
+      {
+        "confidence": 0.26438963413238525,
+        "text": "-"
+      },
+      {
+        "confidence": 0.31837068498134613,
+        "text": "aSpP Cryon"
+      },
+      {
+        "confidence": 0.5009667277336121,
+        "text": "ameu"
+      },
+      {
+        "confidence": 0.2021867334842682,
+        "text": "OORO"
+      },
+      {
+        "confidence": 0.3321639150381088,
+        "text": "Liph poP"
+      },
+      {
+        "confidence": 0.288440465927124,
+        "text": "WYA"
+      },
+      {
+        "confidence": 0.4695635437965393,
+        "text": "-"
+      },
+      {
+        "confidence": 0.576071098446846,
+        "text": "3fs 4"
+      },
+      {
+        "confidence": 0.34914010763168335,
+        "text": "espr"
+      },
+      {
+        "confidence": 0.25446027517318726,
+        "text": "1as05"
+      },
+      {
+        "confidence": 0.14025093615055084,
+        "text": "oea"
+      },
+      {
+        "confidence": 0.35664177313447,
+        "text": "- - - A0"
+      },
+      {
+        "confidence": 0.3248301923274994,
+        "text": "nte ape amb A wir"
+      },
+      {
+        "confidence": 0.3291890025138855,
+        "text": "ovate 0944b"
+      },
+      {
+        "confidence": 0.23942885299523672,
+        "text": "omd UOPTTN, ite"
+      },
+      {
+        "confidence": 0.3681058079004288,
+        "text": "as roe 00952 B vs"
+      },
+      {
+        "confidence": 0.40167154371738434,
+        "text": "difine 5m"
+      },
+      {
+        "confidence": 0.5538079390923182,
+        "text": "4 su 1 - - -"
+      }
+    ]
+  },
+  "ocr_text": "-. CHTE REPT CAPIAT\n a de Fhhm\naiiiten man 1 lgn\nDoctor MD BILLAL HOSSAIN\nn asmnti siee\n- HOUR\nHutan leentoatin the\n-\n-\n- CATEL E - Le\n31 :\nMn\n Hand\n.\nay Tigwg Venous\nE ates\nMMAMantane -139 Ohae\n9 M aTrACauins\nm19\non\nDae\na V vww\nO-Tab, Nopeow loom\n\u00e0 -\ncatofs\nQimb Kernal\nDoom\n2-tu to\n\u00e0\npmb Sme-Zine\n-\nCP -\nQCAP perae\n YY\net\n1\nom Kioelon\n0m4\no-tots\nNUS\n-\naSpP Cryon\nameu\nOORO\nLiph poP\nWYA\n-\n3fs 4\nespr\n1as05\noea\n- - - A0\nnte ape amb A wir\novate 0944b\nomd UOPTTN, ite\nas roe 00952 B vs\ndifine 5m\n4 su 1 - - -",
+  "ocr_text_length": 506,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.5,
+    "missing_critical_fields": [
+      "patient.id",
+      "medications"
+    ],
+    "quality_score": 0.432157,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

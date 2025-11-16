@@ -405,43 +405,49 @@ class UniversalExtractor:
         return pharmacy
 
     def extract_all(self, text: str) -> Dict[str, Any]:
-        """Perform complete extraction (Regex + optional LLM refinement)."""
-        try:
-            ml_entities: List[Dict] = []
+            """Perform complete extraction using Refine-then-Extract."""
+            try:
+                ml_entities: List[Dict] = []
+                
+                # --- 1️⃣ LLM REFINEMENT (THE FIX) ---
+                # Run the LLM to clean the raw text *first*.
+                logging.info("🧠 Passing raw text to LLM refiner...")
+                refined_text = refine_text_with_llm(text)
+                
+                if not refined_text:
+                    logging.warning("LLM refinement failed or returned empty, falling back to raw text.")
+                    refined_text = text
 
-            # --- 1️⃣ Regex-only extraction baseline ---
-            patient = self.extract_patient(text, ml_entities)
-            prescriber = self.extract_prescriber(text, ml_entities)
-            medications = self.extract_medications(text, ml_entities)
-            clinical = self.extract_clinical_info(text, ml_entities)
-            metadata = self.extract_metadata(text)
-            pharmacy = self.extract_pharmacy(text)
+                # --- 2️⃣ Regex-only extraction baseline ---
+                # Now, run all regex extractors on the *clean, refined* text.
+                logging.info("⚙️ Running regex engine on refined text...")
+                patient = self.extract_patient(refined_text, ml_entities)
+                prescriber = self.extract_prescriber(refined_text, ml_entities)
+                medications = self.extract_medications(refined_text, ml_entities)
+                clinical = self.extract_clinical_info(refined_text, ml_entities)
+                metadata = self.extract_metadata(refined_text)
+                pharmacy = self.extract_pharmacy(refined_text)
 
-            metadata_dict = asdict(metadata)
-            if isinstance(metadata_dict.get("prescription_type"), PrescriptionType):
-                metadata_dict["prescription_type"] = metadata_dict["prescription_type"].value
+                metadata_dict = asdict(metadata)
+                if isinstance(metadata_dict.get("prescription_type"), PrescriptionType):
+                    metadata_dict["prescription_type"] = metadata_dict["prescription_type"].value
 
-            regex_result: Dict[str, Any] = {
-                "patient": asdict(patient),
-                "prescriber": asdict(prescriber),
-                "medications": [asdict(m) for m in medications],
-                "clinical_info": asdict(clinical),
-                "metadata": metadata_dict,
-                "pharmacy": asdict(pharmacy),
-                "ml_entities_count": 0,
-            }
+                final_result: Dict[str, Any] = {
+                    "patient": asdict(patient),
+                    "prescriber": asdict(prescriber),
+                    "medications": [asdict(m) for m in medications],
+                    "clinical_info": asdict(clinical),
+                    "metadata": metadata_dict,
+                    "pharmacy": asdict(pharmacy),
+                    "ml_entities_count": 0,
+                    "refined_text": refined_text,  # Keep this for debugging
+                }
 
-
-            logging.info("🧠 Passing regex extraction to LLM refiner...")
-            refined = refine_text_with_llm(text)
-            regex_result["refined_text"] = refined
-
-            return regex_result
-            # --- 3️⃣ Defensive merge (LLM may omit keys) ---
-            
-        except Exception as e:
-            logging.error(f"Extraction error: {e}", exc_info=True)
-            return {"error": str(e)}
+                return final_result
+                
+            except Exception as e:
+                logging.error(f"Extraction error: {e}", exc_info=True)
+                return {"error": str(e)}
 
 
 # -------- DEVICE / OCR HELPERS --------

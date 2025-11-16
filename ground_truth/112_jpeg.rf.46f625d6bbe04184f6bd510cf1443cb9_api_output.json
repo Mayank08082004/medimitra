@@ -1,0 +1,290 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_ef228dfc030a4c488199ae97b796abfc",
+    "success": true
+  },
+  "document_id": "doc_832744d26270478bad5aaa4df3ead574",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": "AX",
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": null,
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "National Institute of Cardiovascular Diseases No. 1207 & Hospital\nTREATMENT SHEET\nrenve KE . -\ntarut\nN\n:r\nAT\nde\nOmeppe Name\nAX (comf\nTiel Ape cand Cm\n1a6 Bemnice 5\n2 Monacwy Cromp\n3 1 Reur\nmecely\nValte\nGest\n2\nEcayt mondeu \u00e0\nB mRP X\nmHe Pletaivo\nTapiol DCT\nOril Dng\nDabat\n9\nV\n1o\nRES\n20257\nNational Institute of Cardiovascular Diseases No. 1207 & Hospital\nTreatment Sheet\nrenve KE . -\ntarut\nN\n:r\nAT\nde\nOmeppe Name\nAX (comf\nTiel Ape cand Cm\n1a6 Bemnice 5\n2 Monacwy Cromp\n3 1 Reur\nmecely\nValte\nGest\n2\nEcayt mondeu \u00e0\nB mRP X\nmHe Pletaivo\nTapiol DCT\nOril Dng\nDabat\n9\nV\n1o\nRES\n20257"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": "AX",
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": null,
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "National Institute of Cardiovascular Diseases No. 1207 & Hospital\nTREATMENT SHEET\nrenve KE . -\ntarut\nN\n:r\nAT\nde\nOmeppe Name\nAX (comf\nTiel Ape cand Cm\n1a6 Bemnice 5\n2 Monacwy Cromp\n3 1 Reur\nmecely\nValte\nGest\n2\nEcayt mondeu \u00e0\nB mRP X\nmHe Pletaivo\nTapiol DCT\nOril Dng\nDabat\n9\nV\n1o\nRES\n20257\nNational Institute of Cardiovascular Diseases No. 1207 & Hospital\nTreatment Sheet\nrenve KE . -\ntarut\nN\n:r\nAT\nde\nOmeppe Name\nAX (comf\nTiel Ape cand Cm\n1a6 Bemnice 5\n2 Monacwy Cromp\n3 1 Reur\nmecely\nValte\nGest\n2\nEcayt mondeu \u00e0\nB mRP X\nmHe Pletaivo\nTapiol DCT\nOril Dng\nDabat\n9\nV\n1o\nRES\n20257"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T08:51:06.190340Z",
+    "total_text_regions": 35
+  },
+  "ocr_confidence": 0.51248,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.7563354969024658,
+        "text": "National"
+      },
+      {
+        "confidence": 0.7028847138086954,
+        "text": "Instituter of Cardiovesculart"
+      },
+      {
+        "confidence": 0.5565819181501865,
+        "text": "Surt hengla NapE nnaa Diseases 1207 & Hospital"
+      },
+      {
+        "confidence": 0.924065887928009,
+        "text": ""
+      },
+      {
+        "confidence": 0.9871104061603546,
+        "text": "TREATMENT SHEET"
+      },
+      {
+        "confidence": 0.43681828677654266,
+        "text": "- 157"
+      },
+      {
+        "confidence": 0.5817186534404755,
+        "text": "renve KE . -"
+      },
+      {
+        "confidence": 0.4806828498840332,
+        "text": "tarut"
+      },
+      {
+        "confidence": 0.20671601593494415,
+        "text": "N"
+      },
+      {
+        "confidence": 0.26087072491645813,
+        "text": ":r"
+      },
+      {
+        "confidence": 0.6922858953475952,
+        "text": "AT"
+      },
+      {
+        "confidence": 0.5951948761940002,
+        "text": "de"
+      },
+      {
+        "confidence": 0.3824832886457443,
+        "text": "Omeppe Nome"
+      },
+      {
+        "confidence": 0.594009280204773,
+        "text": "AX (comf"
+      },
+      {
+        "confidence": 0.3698977828025818,
+        "text": "Tiel Ape cand Cm"
+      },
+      {
+        "confidence": 0.2750794490178426,
+        "text": "1a6 Bemnice 5"
+      },
+      {
+        "confidence": 0.5239536662896475,
+        "text": "2 Monacwy Cromp"
+      },
+      {
+        "confidence": 0.36771578590075177,
+        "text": "3 1 Reur"
+      },
+      {
+        "confidence": 0.6512166857719421,
+        "text": "mecely"
+      },
+      {
+        "confidence": 0.39906635880470276,
+        "text": "Valte"
+      },
+      {
+        "confidence": 0.5242630839347839,
+        "text": "Gest"
+      },
+      {
+        "confidence": 0.34985047578811646,
+        "text": "2"
+      },
+      {
+        "confidence": 0.4487393995126088,
+        "text": "Ecayt mondeu \u00e0"
+      },
+      {
+        "confidence": 0.2968018800020218,
+        "text": "B mRP X"
+      },
+      {
+        "confidence": 0.3497906029224396,
+        "text": "mHe Pletaivo"
+      },
+      {
+        "confidence": 0.2963746637105942,
+        "text": "- Rabee"
+      },
+      {
+        "confidence": 0.6046955287456512,
+        "text": "Tapiol DCT"
+      },
+      {
+        "confidence": 0.6619121730327606,
+        "text": "Oril Dng"
+      },
+      {
+        "confidence": 0.49327927827835083,
+        "text": "Dabat"
+      },
+      {
+        "confidence": 0.881834089756012,
+        "text": "9"
+      },
+      {
+        "confidence": 0.4556231051683426,
+        "text": "- ime"
+      },
+      {
+        "confidence": 0.3783131241798401,
+        "text": "V"
+      },
+      {
+        "confidence": 0.3830114006996155,
+        "text": "1o"
+      },
+      {
+        "confidence": 0.5173758268356323,
+        "text": "RES"
+      },
+      {
+        "confidence": 0.5502355694770813,
+        "text": "20257"
+      }
+    ]
+  },
+  "ocr_text": "National\nInstituter of Cardiovesculart\nSurt hengla NapE nnaa Diseases 1207 & Hospital\n\nTREATMENT SHEET\n- 157\nrenve KE . -\ntarut\nN\n:r\nAT\nde\nOmeppe Nome\nAX (comf\nTiel Ape cand Cm\n1a6 Bemnice 5\n2 Monacwy Cromp\n3 1 Reur\nmecely\nValte\nGest\n2\nEcayt mondeu \u00e0\nB mRP X\nmHe Pletaivo\n- Rabee\nTapiol DCT\nOril Dng\nDabat\n9\n- ime\nV\n1o\nRES\n20257",
+  "ocr_text_length": 328,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.25,
+    "missing_critical_fields": [
+      "patient.id",
+      "prescriber.name",
+      "medications"
+    ],
+    "quality_score": 0.51248,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

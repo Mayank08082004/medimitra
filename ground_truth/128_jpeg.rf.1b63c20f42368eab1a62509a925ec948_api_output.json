@@ -1,0 +1,238 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_06417fcbd82a4cb78aba6ccaf0ec4047",
+    "success": true
+  },
+  "document_id": "doc_5ab6b1d537094c05b37a4cb81bdc8b3f",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": "Mostofa Zaman",
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "H. SIPAT UTHI:\nDoctor Mostofa Zaman\nMall 10 Ne\n15 Flasonox THV\nph0td ron da\nAlgna L\n3017\nCLNP Peifac 2010\n0\n210t) 30\nTHU Nopo Ropid\nMN\nDoctor Mostofa Zaman\nMall 10 Ne\n15 Flasonox THV\nph0td ron da\nAlgna L\n3017\nCLNP Peifac 2010\n0\n210t) 30\nTHU Nopo Ropid\nMN\nNote: The cleaned text retains the original content without adding or altering information. The OCR errors have been corrected as follows:\nThe rest of the text appears to be correctly OCR'd and does not require correction."
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": "Mostofa Zaman",
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "H. SIPAT UTHI:\nDoctor Mostofa Zaman\nMall 10 Ne\n15 Flasonox THV\nph0td ron da\nAlgna L\n3017\nCLNP Peifac 2010\n0\n210t) 30\nTHU Nopo Ropid\nMN\nDoctor Mostofa Zaman\nMall 10 Ne\n15 Flasonox THV\nph0td ron da\nAlgna L\n3017\nCLNP Peifac 2010\n0\n210t) 30\nTHU Nopo Ropid\nMN\nNote: The cleaned text retains the original content without adding or altering information. The OCR errors have been corrected as follows:\nThe rest of the text appears to be correctly OCR'd and does not require correction."
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T09:11:19.036004Z",
+    "total_text_regions": 22
+  },
+  "ocr_confidence": 0.469854,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.5374050587415695,
+        "text": "- - H. SIPAT UTHI:"
+      },
+      {
+        "confidence": 0.7236326138178507,
+        "text": "Doctot Mostofa Zaman"
+      },
+      {
+        "confidence": 0.4223365883032481,
+        "text": "matmall 10 ne"
+      },
+      {
+        "confidence": 0.40529462695121765,
+        "text": "une"
+      },
+      {
+        "confidence": 0.39327891170978546,
+        "text": "- 22MH Date"
+      },
+      {
+        "confidence": 0.348214715719223,
+        "text": "15 Flasonox THV"
+      },
+      {
+        "confidence": 0.43199024597803753,
+        "text": "ph0td ron da"
+      },
+      {
+        "confidence": 0.7113564014434814,
+        "text": "a"
+      },
+      {
+        "confidence": 0.5130054354667664,
+        "text": "Algna"
+      },
+      {
+        "confidence": 0.5001991987228394,
+        "text": "L"
+      },
+      {
+        "confidence": 0.6058763265609741,
+        "text": ""
+      },
+      {
+        "confidence": 0.6301078200340271,
+        "text": "-"
+      },
+      {
+        "confidence": 0.4521029094854991,
+        "text": "L : peFlacant"
+      },
+      {
+        "confidence": 0.21665655076503754,
+        "text": "3017"
+      },
+      {
+        "confidence": 0.5163509845733643,
+        "text": "-"
+      },
+      {
+        "confidence": 0.340568150083224,
+        "text": "CLNP Peifac 2010"
+      },
+      {
+        "confidence": 0.34543371200561523,
+        "text": "0"
+      },
+      {
+        "confidence": 0.37457866221666336,
+        "text": "210t) 30"
+      },
+      {
+        "confidence": 0.4572816491127014,
+        "text": "THU Nopo Ropid"
+      },
+      {
+        "confidence": 0.44576314091682434,
+        "text": "F"
+      },
+      {
+        "confidence": 0.23018878698349,
+        "text": "MN"
+      },
+      {
+        "confidence": 0.7351546287536621,
+        "text": "-"
+      }
+    ]
+  },
+  "ocr_text": "- - H. SIPAT UTHI:\nDoctot Mostofa Zaman\nmatmall 10 ne\nune\n- 22MH Date\n15 Flasonox THV\nph0td ron da\na\nAlgna\nL\n\n-\nL : peFlacant\n3017\n-\nCLNP Peifac 2010\n0\n210t) 30\nTHU Nopo Ropid\nF\nMN\n-",
+  "ocr_text_length": 182,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.25,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "medications"
+    ],
+    "quality_score": 0.469854,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

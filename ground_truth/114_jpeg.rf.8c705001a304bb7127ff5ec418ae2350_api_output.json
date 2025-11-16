@@ -1,0 +1,354 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_1176318beabb49c880b01c77de29d8b7",
+    "success": true
+  },
+  "document_id": "doc_399faa5be9b14edabeb9aae91b47d274",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": "01711-183832"
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": "01711-183832"
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": "Chartered Accountant",
+      "npi": null,
+      "phone": "01711-183832",
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "Chartered Accountant\nMD\nWasmuth/Fischer\nKhulnani\na VT\nDMDTICIN ledical Ins\nONEI\ndT CUrGIT\nMobile: 01711-183832\nEmail: 01911-163832\nE a eo\nErth tentie\n163/B3\n6\nRPI\nKem for\nOC\nPeir\nCop, ADO RA -SUD\n2f0P) mo\nHistory:\ntoe.\nPros:\nHTN\nToReOx\nDM\nofo e 0\nCardiag a\n20n\nFevel\ncO PROLPUY\nOthers\nAu\n200\nCORIOMET -060\nDE\nPo2 0 ae\ninvestigation\n08.25\nA\n3\nMr TIOR\nRa 334 arede HIRSMZ\n== response == Written by:\nChartered Accountant\nMD\nWasmuth/Fischer\nKhulnani\na VT\nDMDTICIN ledical Ins\nONEI\ndT CUrGIT\nMobile: 01711-183832\nEmail: 01911-163832\nE a eo\nErth tentie\n163/B3\n6\nRPI\nKem for\nOC\nPeir\nCop, ADO RA -SUD\n2f0P) mo\nHistory:\ntoe.\nPros:\nHTN\nToReOx\nDM\nofo e 0\nCardiag a\n20n\nFevel\ncO PROLPUY\nOthers\nAu\n200\nCORIOMET -060\nDE\nPo2 0 ae\ninvestigation\n08.25\nA\n3\nMr TIOR\nRa 334 arede HIRSMZ\nNote: The text appears to be a list or record of professional details, possibly for a medical or legal professional. The OCR errors have been corrected as per the given rules. No additional information, diagnoses, procedures, or interpretations have been added. Medications and other specifics were not present to correct. The original meaning has been preserved."
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": "01711-183832"
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": "01711-183832"
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": "Chartered Accountant",
+          "npi": null,
+          "phone": "01711-183832",
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "Chartered Accountant\nMD\nWasmuth/Fischer\nKhulnani\na VT\nDMDTICIN ledical Ins\nONEI\ndT CUrGIT\nMobile: 01711-183832\nEmail: 01911-163832\nE a eo\nErth tentie\n163/B3\n6\nRPI\nKem for\nOC\nPeir\nCop, ADO RA -SUD\n2f0P) mo\nHistory:\ntoe.\nPros:\nHTN\nToReOx\nDM\nofo e 0\nCardiag a\n20n\nFevel\ncO PROLPUY\nOthers\nAu\n200\nCORIOMET -060\nDE\nPo2 0 ae\ninvestigation\n08.25\nA\n3\nMr TIOR\nRa 334 arede HIRSMZ\n== response == Written by:\nChartered Accountant\nMD\nWasmuth/Fischer\nKhulnani\na VT\nDMDTICIN ledical Ins\nONEI\ndT CUrGIT\nMobile: 01711-183832\nEmail: 01911-163832\nE a eo\nErth tentie\n163/B3\n6\nRPI\nKem for\nOC\nPeir\nCop, ADO RA -SUD\n2f0P) mo\nHistory:\ntoe.\nPros:\nHTN\nToReOx\nDM\nofo e 0\nCardiag a\n20n\nFevel\ncO PROLPUY\nOthers\nAu\n200\nCORIOMET -060\nDE\nPo2 0 ae\ninvestigation\n08.25\nA\n3\nMr TIOR\nRa 334 arede HIRSMZ\nNote: The text appears to be a list or record of professional details, possibly for a medical or legal professional. The OCR errors have been corrected as per the given rules. No additional information, diagnoses, procedures, or interpretations have been added. Medications and other specifics were not present to correct. The original meaning has been preserved."
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T09:02:59.937644Z",
+    "total_text_regions": 51
+  },
+  "ocr_confidence": 0.55655,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.435959925254186,
+        "text": "CHIE ateerT ATeT"
+      },
+      {
+        "confidence": 0.5512544512748718,
+        "text": "Md"
+      },
+      {
+        "confidence": 0.5166271328926086,
+        "text": "Wasmufk/fiait"
+      },
+      {
+        "confidence": 0.7939033508300781,
+        "text": "Khulnal"
+      },
+      {
+        "confidence": 0.4310663342475891,
+        "text": "-4"
+      },
+      {
+        "confidence": 0.33316386491060257,
+        "text": "a VT"
+      },
+      {
+        "confidence": 0.652358482281367,
+        "text": "DMDTICIN ledical Ins"
+      },
+      {
+        "confidence": 0.45412540435791016,
+        "text": "ONEI"
+      },
+      {
+        "confidence": 0.14972150325775146,
+        "text": "-"
+      },
+      {
+        "confidence": 0.25252532958984375,
+        "text": "-"
+      },
+      {
+        "confidence": 0.35970453917980194,
+        "text": "dT CUrGIT"
+      },
+      {
+        "confidence": 0.7410451173782349,
+        "text": "Mobi 01711-183832"
+      },
+      {
+        "confidence": 0.43760109941164654,
+        "text": " . -"
+      },
+      {
+        "confidence": 0.40597397834062576,
+        "text": "aa mimd Mmit a4 on a"
+      },
+      {
+        "confidence": 0.892223596572876,
+        "text": "01911-163832"
+      },
+      {
+        "confidence": 0.4689483841260274,
+        "text": "E a eo"
+      },
+      {
+        "confidence": 0.29480040073394775,
+        "text": "ERH tentie"
+      },
+      {
+        "confidence": 0.5892077684402466,
+        "text": "163/B3"
+      },
+      {
+        "confidence": 0.3843249976634979,
+        "text": "6"
+      },
+      {
+        "confidence": 0.1897236704826355,
+        "text": "RPI"
+      },
+      {
+        "confidence": 0.49632880091667175,
+        "text": "Kem for"
+      },
+      {
+        "confidence": 0.7517353892326355,
+        "text": "OC"
+      },
+      {
+        "confidence": 0.49084416031837463,
+        "text": "Peir"
+      },
+      {
+        "confidence": 0.746017262339592,
+        "text": "Cop, ADO RA -SUD"
+      },
+      {
+        "confidence": 0.4069274812936783,
+        "text": "2f0P) mo"
+      },
+      {
+        "confidence": 0.9268462061882019,
+        "text": "History:"
+      },
+      {
+        "confidence": 0.4136749505996704,
+        "text": "toe."
+      },
+      {
+        "confidence": 0.4762018173933029,
+        "text": "Pros -"
+      },
+      {
+        "confidence": 0.9978904128074646,
+        "text": "HTN"
+      },
+      {
+        "confidence": 0.5436965823173523,
+        "text": "ToReOx"
+      },
+      {
+        "confidence": 0.9937030673027039,
+        "text": "DM"
+      },
+      {
+        "confidence": 0.5871906876564026,
+        "text": "ofo e 0"
+      },
+      {
+        "confidence": 0.8021756112575531,
+        "text": "Cardiag a"
+      },
+      {
+        "confidence": 0.42791932821273804,
+        "text": "- "
+      },
+      {
+        "confidence": 0.25165337324142456,
+        "text": "20n"
+      },
+      {
+        "confidence": 0.8855977058410645,
+        "text": "Fevel"
+      },
+      {
+        "confidence": 0.6160404682159424,
+        "text": "cO PROLPUY"
+      },
+      {
+        "confidence": 0.9535854458808899,
+        "text": "Others"
+      },
+      {
+        "confidence": 0.5578668713569641,
+        "text": "Au"
+      },
+      {
+        "confidence": 0.4592421352863312,
+        "text": "200"
+      },
+      {
+        "confidence": 0.4746643900871277,
+        "text": "-"
+      },
+      {
+        "confidence": 0.4153123199939728,
+        "text": "CORIOMET -060"
+      },
+      {
+        "confidence": 0.8298763632774353,
+        "text": "DE"
+      },
+      {
+        "confidence": 0.4453708827495575,
+        "text": "Po2 0 ae"
+      },
+      {
+        "confidence": 0.624538004398346,
+        "text": "investigation"
+      },
+      {
+        "confidence": 0.7203525304794312,
+        "text": "- -"
+      },
+      {
+        "confidence": 0.2857204079627991,
+        "text": "08.25"
+      },
+      {
+        "confidence": 0.6516630053520203,
+        "text": "A"
+      },
+      {
+        "confidence": 0.9912322163581848,
+        "text": "3"
+      },
+      {
+        "confidence": 0.47611573338508606,
+        "text": "Mr TIOR"
+      },
+      {
+        "confidence": 0.3497897833585739,
+        "text": "Ra 334 arede HIRSMZ"
+      }
+    ]
+  },
+  "ocr_text": "CHIE ateerT ATeT\nMd\nWasmufk/fiait\nKhulnal\n-4\na VT\nDMDTICIN ledical Ins\nONEI\n-\n-\ndT CUrGIT\nMobi 01711-183832\n . -\naa mimd Mmit a4 on a\n01911-163832\nE a eo\nERH tentie\n163/B3\n6\nRPI\nKem for\nOC\nPeir\nCop, ADO RA -SUD\n2f0P) mo\nHistory:\ntoe.\nPros -\nHTN\nToReOx\nDM\nofo e 0\nCardiag a\n- \n20n\nFevel\ncO PROLPUY\nOthers\nAu\n200\n-\nCORIOMET -060\nDE\nPo2 0 ae\ninvestigation\n- -\n08.25\nA\n3\nMr TIOR\nRa 334 arede HIRSMZ",
+  "ocr_text_length": 394,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.25,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "medications"
+    ],
+    "quality_score": 0.55655,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

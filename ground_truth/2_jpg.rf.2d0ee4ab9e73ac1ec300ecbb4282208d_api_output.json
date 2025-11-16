@@ -1,0 +1,483 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "hospital_discharge"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_b781195a108d471dbb2dea0b127bc866",
+    "success": true
+  },
+  "document_id": "doc_cb2215ec7a3d421fb5fc638efd9873a8",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [
+      {
+        "confidence": 0.85,
+        "dosage": null,
+        "duration": null,
+        "form": "suspension",
+        "frequency": null,
+        "instructions": "Gavisol's Suspension",
+        "name": "Gavisol",
+        "quantity": null,
+        "refills": null,
+        "route": null,
+        "strength": null
+      },
+      {
+        "confidence": 0.85,
+        "dosage": null,
+        "duration": null,
+        "form": "suspension",
+        "frequency": null,
+        "instructions": "Gavisol's Suspension",
+        "name": "Gavisol",
+        "quantity": null,
+        "refills": null,
+        "route": null,
+        "strength": null
+      }
+    ],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "hospital_discharge"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": "Female",
+      "id": null,
+      "insurance": null,
+      "name": "of Operation",
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": null,
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "Operation\nNote:\nBaby Note\nDates:\n20 -\nAnesthesia\nTime:\nFemale WI\n66\nserum\n00B\nSurgeon:\nDB\nL0\nAssistant Surgeon:\nAssistant 2\nTreatment on Discharge\ndiagnosis\nSi\n181\n5\nTala. Gejohn\nA\n6hd\nincision\nPfannen\nRocket - 21212-\nTaal.\nE\nName of Operation:\nUS\nTalla. Remembrance\n210 et2o\nFE\nProcedure & Findings:\nOrdle,\nRalas PA\nT\ndesphis\n4X 28\nTela osheced\nprecautions LUCK was there\nN-bim 10\nOHIK\n2n i A d\nTAb, lany!\nVolbhha\npa a m\n1C PLR SAs\nR AS\nGavisol's Suspension\na\n( TE a 1 a\nF1\nElazou\na\n7ae\nVRA\nEm\n== response ==\nOperation\nNote:\nBaby Note\nDates:\n20 -\nAnesthesia\nTime:\nFemale WI\n66\nserum\n00B\nSurgeon:\nDB\nL0\nAssistant Surgeon:\nAssistant 2\nTreatment on Discharge\ndiagnosis\nSi\n181\n5\nTala. Gejohn\nA\n6hd\nincision\nPfannen\nRocket - 21212-\nTaal.\nE\nName of Operation:\nUS\nTalla. Remembrance\n210 et2o\nFE\nProcedure & Findings:\nOrdle,\nRalas PA\nT\ndesphis\n4X 28\nTela osheced\nprecautions LUCK was there\nN-bim 10\nOHIK\n2n i A d\nTAb, lany!\nVolbhha\npa a m\n1C PLR SAs\nR AS\nGavisol's Suspension\na\n( TE a 1 a\nF1\nElazou\na\n7ae\nVRA\nEm"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [
+          {
+            "confidence": 0.85,
+            "dosage": null,
+            "duration": null,
+            "form": "suspension",
+            "frequency": null,
+            "instructions": "Gavisol's Suspension",
+            "name": "Gavisol",
+            "quantity": null,
+            "refills": null,
+            "route": null,
+            "strength": null
+          },
+          {
+            "confidence": 0.85,
+            "dosage": null,
+            "duration": null,
+            "form": "suspension",
+            "frequency": null,
+            "instructions": "Gavisol's Suspension",
+            "name": "Gavisol",
+            "quantity": null,
+            "refills": null,
+            "route": null,
+            "strength": null
+          }
+        ],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "hospital_discharge"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": "Female",
+          "id": null,
+          "insurance": null,
+          "name": "of Operation",
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": null,
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "Operation\nNote:\nBaby Note\nDates:\n20 -\nAnesthesia\nTime:\nFemale WI\n66\nserum\n00B\nSurgeon:\nDB\nL0\nAssistant Surgeon:\nAssistant 2\nTreatment on Discharge\ndiagnosis\nSi\n181\n5\nTala. Gejohn\nA\n6hd\nincision\nPfannen\nRocket - 21212-\nTaal.\nE\nName of Operation:\nUS\nTalla. Remembrance\n210 et2o\nFE\nProcedure & Findings:\nOrdle,\nRalas PA\nT\ndesphis\n4X 28\nTela osheced\nprecautions LUCK was there\nN-bim 10\nOHIK\n2n i A d\nTAb, lany!\nVolbhha\npa a m\n1C PLR SAs\nR AS\nGavisol's Suspension\na\n( TE a 1 a\nF1\nElazou\na\n7ae\nVRA\nEm\n== response ==\nOperation\nNote:\nBaby Note\nDates:\n20 -\nAnesthesia\nTime:\nFemale WI\n66\nserum\n00B\nSurgeon:\nDB\nL0\nAssistant Surgeon:\nAssistant 2\nTreatment on Discharge\ndiagnosis\nSi\n181\n5\nTala. Gejohn\nA\n6hd\nincision\nPfannen\nRocket - 21212-\nTaal.\nE\nName of Operation:\nUS\nTalla. Remembrance\n210 et2o\nFE\nProcedure & Findings:\nOrdle,\nRalas PA\nT\ndesphis\n4X 28\nTela osheced\nprecautions LUCK was there\nN-bim 10\nOHIK\n2n i A d\nTAb, lany!\nVolbhha\npa a m\n1C PLR SAs\nR AS\nGavisol's Suspension\na\n( TE a 1 a\nF1\nElazou\na\n7ae\nVRA\nEm"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T09:06:42.306877Z",
+    "total_text_regions": 70
+  },
+  "ocr_confidence": 0.518769,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.999169111251831,
+        "text": "Opperation"
+      },
+      {
+        "confidence": 0.9989319443702698,
+        "text": "Note:"
+      },
+      {
+        "confidence": 0.9835592210292816,
+        "text": "Baby Note"
+      },
+      {
+        "confidence": 0.4311977028846741,
+        "text": "Dates"
+      },
+      {
+        "confidence": 0.9401466548442841,
+        "text": "20 -"
+      },
+      {
+        "confidence": 0.48721984028816223,
+        "text": "Anaesthesa"
+      },
+      {
+        "confidence": 0.7321743965148926,
+        "text": "Time:"
+      },
+      {
+        "confidence": 0.41886936128139496,
+        "text": "Female WI"
+      },
+      {
+        "confidence": 0.4971277415752411,
+        "text": "66"
+      },
+      {
+        "confidence": 0.4000277817249298,
+        "text": "ser"
+      },
+      {
+        "confidence": 0.4743409752845764,
+        "text": "00B"
+      },
+      {
+        "confidence": 0.6867910623550415,
+        "text": "Surgeon"
+      },
+      {
+        "confidence": 0.392443984746933,
+        "text": "DB"
+      },
+      {
+        "confidence": 0.4549199938774109,
+        "text": "L0"
+      },
+      {
+        "confidence": 0.26437968015670776,
+        "text": "AI-"
+      },
+      {
+        "confidence": 0.4344481825828552,
+        "text": "Anaesthetist"
+      },
+      {
+        "confidence": 0.3642025589942932,
+        "text": "D6 Sn H"
+      },
+      {
+        "confidence": 0.47902122139930725,
+        "text": "-"
+      },
+      {
+        "confidence": 0.45345622301101685,
+        "text": "Hashg"
+      },
+      {
+        "confidence": 0.4161505103111267,
+        "text": "L"
+      },
+      {
+        "confidence": 0.7448427478472391,
+        "text": "Baby Hlood Goup:"
+      },
+      {
+        "confidence": 0.733065128326416,
+        "text": "Asst. Surgeonan"
+      },
+      {
+        "confidence": 0.7358741760253906,
+        "text": "Assistant 2"
+      },
+      {
+        "confidence": 0.8683608174324036,
+        "text": "-"
+      },
+      {
+        "confidence": 0.7693876127401987,
+        "text": "Treatment on Diacharge"
+      },
+      {
+        "confidence": 0.6498807668685913,
+        "text": "ladication"
+      },
+      {
+        "confidence": 0.2076265960931778,
+        "text": "Si"
+      },
+      {
+        "confidence": 0.9363071322441101,
+        "text": "181"
+      },
+      {
+        "confidence": 0.24646802246570587,
+        "text": "5"
+      },
+      {
+        "confidence": 0.36182548105716705,
+        "text": "Tala. Gejoselnad"
+      },
+      {
+        "confidence": 0.5809176564216614,
+        "text": "A"
+      },
+      {
+        "confidence": 0.5450299084186554,
+        "text": "- > Sihs"
+      },
+      {
+        "confidence": 0.2966878116130829,
+        "text": "- Elua(sn."
+      },
+      {
+        "confidence": 0.29463833570480347,
+        "text": "6hd"
+      },
+      {
+        "confidence": 0.5611965656280518,
+        "text": "incision"
+      },
+      {
+        "confidence": 0.3845655918121338,
+        "text": "Pfannentiel"
+      },
+      {
+        "confidence": 0.3273467818895976,
+        "text": "Roketfto - 21212-"
+      },
+      {
+        "confidence": 0.3511672019958496,
+        "text": "Taa."
+      },
+      {
+        "confidence": 0.522322952747345,
+        "text": "E"
+      },
+      {
+        "confidence": 0.9843572775522867,
+        "text": "Name of Opperation"
+      },
+      {
+        "confidence": 0.4772360026836395,
+        "text": "US"
+      },
+      {
+        "confidence": 0.5889899656176567,
+        "text": "TAla. Remmb long "
+      },
+      {
+        "confidence": 0.6218948811292648,
+        "text": "210 et2o"
+      },
+      {
+        "confidence": 0.19595478475093842,
+        "text": "FE"
+      },
+      {
+        "confidence": 0.9222847819328308,
+        "text": "Procedure & Findings:"
+      },
+      {
+        "confidence": 0.3718305826187134,
+        "text": "Ordle,"
+      },
+      {
+        "confidence": 0.4040318429470062,
+        "text": "Ralas PA"
+      },
+      {
+        "confidence": 0.7488109469413757,
+        "text": "T"
+      },
+      {
+        "confidence": 0.297891765832901,
+        "text": "desphis"
+      },
+      {
+        "confidence": 0.4182615429162979,
+        "text": "4X 28"
+      },
+      {
+        "confidence": 0.38138990104198456,
+        "text": "Teula osheced"
+      },
+      {
+        "confidence": 0.25607575848698616,
+        "text": "precautsan LUCK wsa dae"
+      },
+      {
+        "confidence": 0.7947531044483185,
+        "text": "N-bim 10"
+      },
+      {
+        "confidence": 0.38681718707084656,
+        "text": "OHIK"
+      },
+      {
+        "confidence": 0.2081299126148224,
+        "text": "T"
+      },
+      {
+        "confidence": 0.533843320608139,
+        "text": "2n i  A d"
+      },
+      {
+        "confidence": 0.5859564542770386,
+        "text": "TAb, lany!"
+      },
+      {
+        "confidence": 0.29121336340904236,
+        "text": "Volbhha"
+      },
+      {
+        "confidence": 0.3041314681371053,
+        "text": "pa a m"
+      },
+      {
+        "confidence": 0.5651675462722778,
+        "text": "1C PLR SAs"
+      },
+      {
+        "confidence": 0.5723185241222382,
+        "text": "R AS"
+      },
+      {
+        "confidence": 0.7295504808425903,
+        "text": "GAVISOL'Suspension"
+      },
+      {
+        "confidence": 0.691070556640625,
+        "text": "a"
+      },
+      {
+        "confidence": 0.5424221873283386,
+        "text": "( TE a 1 a"
+      },
+      {
+        "confidence": 0.5877686142921448,
+        "text": "F1"
+      },
+      {
+        "confidence": 0.34952637553215027,
+        "text": "Elazou"
+      },
+      {
+        "confidence": 0.2697356045246124,
+        "text": "a"
+      },
+      {
+        "confidence": 0.22025279700756073,
+        "text": "7ae"
+      },
+      {
+        "confidence": 0.217543825507164,
+        "text": "VRA"
+      },
+      {
+        "confidence": 0.36851948499679565,
+        "text": "Em"
+      }
+    ]
+  },
+  "ocr_text": "Opperation\nNote:\nBaby Note\nDates\n20 -\nAnaesthesa\nTime:\nFemale WI\n66\nser\n00B\nSurgeon\nDB\nL0\nAI-\nAnaesthetist\nD6 Sn H\n-\nHashg\nL\nBaby Hlood Goup:\nAsst. Surgeonan\nAssistant 2\n-\nTreatment on Diacharge\nladication\nSi\n181\n5\nTala. Gejoselnad\nA\n- > Sihs\n- Elua(sn.\n6hd\nincision\nPfannentiel\nRoketfto - 21212-\nTaa.\nE\nName of Opperation\nUS\nTAla. Remmb long \n210 et2o\nFE\nProcedure & Findings:\nOrdle,\nRalas PA\nT\ndesphis\n4X 28\nTeula osheced\nprecautsan LUCK wsa dae\nN-bim 10\nOHIK\nT\n2n i  A d\nTAb, lany!\nVolbhha\npa a m\n1C PLR SAs\nR AS\nGAVISOL'Suspension\na\n( TE a 1 a\nF1\nElazou\na\n7ae\nVRA\nEm",
+  "ocr_text_length": 570,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.5,
+    "missing_critical_fields": [
+      "patient.id",
+      "prescriber.name"
+    ],
+    "quality_score": 0.518769,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

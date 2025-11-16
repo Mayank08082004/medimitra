@@ -1,0 +1,330 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_59f2cc5f30d3475397f9b78d1de6b3d8",
+    "success": true
+  },
+  "document_id": "doc_e2c9dbf793aa4956afeb8ee4772b44cc",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": "13-9.28",
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": "no",
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "Case 146\nAvenue National Institute of CardiovasculDiseases & Hospital\nShar-Edangal Nagare Dhata-1707 heel\nTreatment Sheet\nHalf-Clarke\n4 -\nNant 3\nladCaber\nin 1326H5\nI used a mMh\nUue\n15) POD\nF/o 13-9.28 iam\nDic - Auunab,\nhen\nthe VA a\nNew Medication E\nFachex stopped\nKaun 500-1 omp no\nNapa\nan t\n10\nA (20-1) gm\nlab potand 257\nlab- Belalier\nTabl Feik (2)\nWe Wamin d\nTab Nommenn\nb Cre (0s0-a)\nTab.ovotal\n410\nDmupa 3\nHA\nNebulicahon C Knale\nitont 3\nthot Phystodkemeet\n/ o\neoon\n### Response\nCase 146\nAvenue National Institute of Cardiovascular Diseases & Hospital\nShar-Edangal Nagare Dhata-1707 heel\nTreatment Sheet\nHalf-Clarke\n4 -\nNant 3\nladCaber\nin 1326H5\nI used a mMh\nUue\n15) POD\nF/o 13-9.28 iam\nDic - Auunab,\nhen\nthe VA a\nNew Medication E\nFachex stopped\nKaun 500-1 omp no\nNapa\nan t\n10\nA (20-1) gm\nlab potand 257\nlab- Belalier\nTabl Feik (2)\nWe Wamin d\nTab Nommenn\nb Cre (0s0-a)\nTab.ovotal\n410\nDmupa 3\nHA\nNebulicahon C Knale\nitont 3\nthot Phystodkemeet\n/ o\neoon\n(Note: The cleaned text retains the original OCR errors as per the given rules. No new information, medications, diagnoses, procedures, or interpretations were added.)"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": "13-9.28",
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": "no",
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "Case 146\nAvenue National Institute of CardiovasculDiseases & Hospital\nShar-Edangal Nagare Dhata-1707 heel\nTreatment Sheet\nHalf-Clarke\n4 -\nNant 3\nladCaber\nin 1326H5\nI used a mMh\nUue\n15) POD\nF/o 13-9.28 iam\nDic - Auunab,\nhen\nthe VA a\nNew Medication E\nFachex stopped\nKaun 500-1 omp no\nNapa\nan t\n10\nA (20-1) gm\nlab potand 257\nlab- Belalier\nTabl Feik (2)\nWe Wamin d\nTab Nommenn\nb Cre (0s0-a)\nTab.ovotal\n410\nDmupa 3\nHA\nNebulicahon C Knale\nitont 3\nthot Phystodkemeet\n/ o\neoon\n### Response\nCase 146\nAvenue National Institute of Cardiovascular Diseases & Hospital\nShar-Edangal Nagare Dhata-1707 heel\nTreatment Sheet\nHalf-Clarke\n4 -\nNant 3\nladCaber\nin 1326H5\nI used a mMh\nUue\n15) POD\nF/o 13-9.28 iam\nDic - Auunab,\nhen\nthe VA a\nNew Medication E\nFachex stopped\nKaun 500-1 omp no\nNapa\nan t\n10\nA (20-1) gm\nlab potand 257\nlab- Belalier\nTabl Feik (2)\nWe Wamin d\nTab Nommenn\nb Cre (0s0-a)\nTab.ovotal\n410\nDmupa 3\nHA\nNebulicahon C Knale\nitont 3\nthot Phystodkemeet\n/ o\neoon\n(Note: The cleaned text retains the original OCR errors as per the given rules. No new information, medications, diagnoses, procedures, or interpretations were added.)"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T08:29:25.269843Z",
+    "total_text_regions": 45
+  },
+  "ocr_confidence": 0.48933,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.5310921669006348,
+        "text": "a"
+      },
+      {
+        "confidence": 0.8486986756324768,
+        "text": "case 146"
+      },
+      {
+        "confidence": 0.4864526689052582,
+        "text": "ave"
+      },
+      {
+        "confidence": 0.7908773933138166,
+        "text": "National Institute of Cardiovascularl Diseases & Hospital"
+      },
+      {
+        "confidence": 0.49917165040969846,
+        "text": "Shar-Edangal Nagare Dhata-1707 heel Ihe"
+      },
+      {
+        "confidence": 0.9948166906833649,
+        "text": "TREATMENT SHEET"
+      },
+      {
+        "confidence": 0.44020796815554303,
+        "text": "Hae Rumal AKlarc"
+      },
+      {
+        "confidence": 0.4164154380559921,
+        "text": "4 -"
+      },
+      {
+        "confidence": 0.4549732208251953,
+        "text": "Nant 3"
+      },
+      {
+        "confidence": 0.33717674016952515,
+        "text": "ladCaber"
+      },
+      {
+        "confidence": 0.40152882039546967,
+        "text": "in 1326H5"
+      },
+      {
+        "confidence": 0.46310276389122007,
+        "text": "i usL a m mh"
+      },
+      {
+        "confidence": 0.2521035373210907,
+        "text": "uue"
+      },
+      {
+        "confidence": 0.5364832282066345,
+        "text": "-"
+      },
+      {
+        "confidence": 0.7113441824913025,
+        "text": "15) POD"
+      },
+      {
+        "confidence": 0.5211051603158315,
+        "text": "F/o 13-9.28 iam"
+      },
+      {
+        "confidence": 0.3455525239308675,
+        "text": "Dic - Auunab,"
+      },
+      {
+        "confidence": 0.24995608627796173,
+        "text": "hen"
+      },
+      {
+        "confidence": 0.36543943484624225,
+        "text": "theving DVA a"
+      },
+      {
+        "confidence": 0.5033903121948242,
+        "text": "Nupmem E"
+      },
+      {
+        "confidence": 0.5400562286376953,
+        "text": "Fhachex stont"
+      },
+      {
+        "confidence": 0.4917607977986336,
+        "text": "Kaun 500-1 omp no"
+      },
+      {
+        "confidence": 0.6079360842704773,
+        "text": "Napa"
+      },
+      {
+        "confidence": 0.39024122804403305,
+        "text": "an t"
+      },
+      {
+        "confidence": 0.3100892901420593,
+        "text": "10"
+      },
+      {
+        "confidence": 0.6903648972511292,
+        "text": "A (20-1) gm"
+      },
+      {
+        "confidence": 0.7154194712638855,
+        "text": "lab piotand 257"
+      },
+      {
+        "confidence": 0.42820434272289276,
+        "text": "lab- Belalier"
+      },
+      {
+        "confidence": 0.37541069587071735,
+        "text": "Tabl Feik (2)"
+      },
+      {
+        "confidence": 0.7697484493255615,
+        "text": "We Wamin d"
+      },
+      {
+        "confidence": 0.6845285296440125,
+        "text": ""
+      },
+      {
+        "confidence": 0.30244116485118866,
+        "text": "Tab Nommenn"
+      },
+      {
+        "confidence": 0.33732913931210834,
+        "text": "b Cre (0s0-a)"
+      },
+      {
+        "confidence": 0.23797912895679474,
+        "text": "Tab.ovotal"
+      },
+      {
+        "confidence": 0.4423104524612427,
+        "text": "410"
+      },
+      {
+        "confidence": 0.577233225107193,
+        "text": "Dmupa 3"
+      },
+      {
+        "confidence": 0.3199492394924164,
+        "text": "HA"
+      },
+      {
+        "confidence": 0.41719726224740344,
+        "text": "Nebulicahon C Knale"
+      },
+      {
+        "confidence": 0.6646480361620585,
+        "text": " itont 3"
+      },
+      {
+        "confidence": 0.3165773004293442,
+        "text": "thot Phystodkemeet"
+      },
+      {
+        "confidence": 0.5249448418617249,
+        "text": ""
+      },
+      {
+        "confidence": 0.5940552353858948,
+        "text": "/ o"
+      },
+      {
+        "confidence": 0.11495238542556763,
+        "text": "eoon"
+      },
+      {
+        "confidence": 0.40706387162208557,
+        "text": ""
+      },
+      {
+        "confidence": 0.6095204427838326,
+        "text": "- -"
+      }
+    ]
+  },
+  "ocr_text": "a\ncase 146\nave\nNational Institute of Cardiovascularl Diseases & Hospital\nShar-Edangal Nagare Dhata-1707 heel Ihe\nTREATMENT SHEET\nHae Rumal AKlarc\n4 -\nNant 3\nladCaber\nin 1326H5\ni usL a m mh\nuue\n-\n15) POD\nF/o 13-9.28 iam\nDic - Auunab,\nhen\ntheving DVA a\nNupmem E\nFhachex stont\nKaun 500-1 omp no\nNapa\nan t\n10\nA (20-1) gm\nlab piotand 257\nlab- Belalier\nTabl Feik (2)\nWe Wamin d\n\nTab Nommenn\nb Cre (0s0-a)\nTab.ovotal\n410\nDmupa 3\nHA\nNebulicahon C Knale\n itont 3\nthot Phystodkemeet\n\n/ o\neoon\n\n- -",
+  "ocr_text_length": 487,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.25,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "medications"
+    ],
+    "quality_score": 0.48933,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_5f85ab3f21f445d5a4833952842d034d",
+    "success": true
+  },
+  "document_id": "doc_057c661a3eb94cf888309319d69d8ba8",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [
+        "infection"
+      ],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": "Mostola Zaman",
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "Inner ear infection\nDoctor Mostola Zaman\nLeave a review, DUNE WN\nMans TML PID De . VUR mae\nTernd\nw4t\nI\n -\nVune\nmvl MAR/r\nA01 \nDHN\nasov\nme\nPheriven\n1HP unnd \ncrC\nA 3\nTin Mn\nTull RalesMl\nwwwdo\n a\nto 190\nPT\n2sm\nmethigie\n10\n\u00e0\n2 wp \u00e0\nce >tg\nPrP\n>h\nCHP Dextac\na\nOroX 3m9\nOri\nDoctor Mostola Zaman\nLeave a review, DUNE WN\nMans TML PID De . VUR mae\nTernd\nw4t\nI\n -\nVune\nmvl MAR/r\nA01\nDHN\nasov\nme\nPheriven\n1HP und \ncrC\nA 3\nTin Mn\nTull RalesMl\nwwwdo\na\nto 190\nPT\n2sm\nmethigie\n10\n\u00e0\n2 wp \u00e0\nce >tg\nPrP\n>h\nCHP Dextac\na\nOroX 3m9\nOri"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [
+            "infection"
+          ],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": "Mostola Zaman",
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "Inner ear infection\nDoctor Mostola Zaman\nLeave a review, DUNE WN\nMans TML PID De . VUR mae\nTernd\nw4t\nI\n -\nVune\nmvl MAR/r\nA01 \nDHN\nasov\nme\nPheriven\n1HP unnd \ncrC\nA 3\nTin Mn\nTull RalesMl\nwwwdo\n a\nto 190\nPT\n2sm\nmethigie\n10\n\u00e0\n2 wp \u00e0\nce >tg\nPrP\n>h\nCHP Dextac\na\nOroX 3m9\nOri\nDoctor Mostola Zaman\nLeave a review, DUNE WN\nMans TML PID De . VUR mae\nTernd\nw4t\nI\n -\nVune\nmvl MAR/r\nA01\nDHN\nasov\nme\nPheriven\n1HP und \ncrC\nA 3\nTin Mn\nTull RalesMl\nwwwdo\na\nto 190\nPT\n2sm\nmethigie\n10\n\u00e0\n2 wp \u00e0\nce >tg\nPrP\n>h\nCHP Dextac\na\nOroX 3m9\nOri"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T08:53:51.524425Z",
+    "total_text_regions": 41
+  },
+  "ocr_confidence": 0.40379,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.3746248334646225,
+        "text": "intunnel myshoae"
+      },
+      {
+        "confidence": 0.6151137053966522,
+        "text": "Doctori Mostola Zaman"
+      },
+      {
+        "confidence": 0.3095831833779812,
+        "text": "lefereue a, DUNE wn"
+      },
+      {
+        "confidence": 0.44688887894153595,
+        "text": "Mans TML PID De . VUR mae"
+      },
+      {
+        "confidence": 0.2588592767715454,
+        "text": "TeRND"
+      },
+      {
+        "confidence": 0.23264385759830475,
+        "text": "w4t"
+      },
+      {
+        "confidence": 0.4158816933631897,
+        "text": "- AVE"
+      },
+      {
+        "confidence": 0.6002791523933411,
+        "text": "-"
+      },
+      {
+        "confidence": 0.8460482656955719,
+        "text": "- I"
+      },
+      {
+        "confidence": 0.5631242245435715,
+        "text": " -"
+      },
+      {
+        "confidence": 0.17326036095619202,
+        "text": "Vune"
+      },
+      {
+        "confidence": 0.39181308448314667,
+        "text": "mvl MAR/r"
+      },
+      {
+        "confidence": 0.4307187348604202,
+        "text": "A01 "
+      },
+      {
+        "confidence": 0.2165616899728775,
+        "text": "DHN"
+      },
+      {
+        "confidence": 0.12139949202537537,
+        "text": "asov"
+      },
+      {
+        "confidence": 0.302684485912323,
+        "text": "me"
+      },
+      {
+        "confidence": 0.41672584414482117,
+        "text": "Pheriven"
+      },
+      {
+        "confidence": 0.42536674936612445,
+        "text": "1HP unnd "
+      },
+      {
+        "confidence": 0.2045539915561676,
+        "text": "crC"
+      },
+      {
+        "confidence": 0.4274597615003586,
+        "text": "A 3"
+      },
+      {
+        "confidence": 0.197001613676548,
+        "text": "Tin Mn"
+      },
+      {
+        "confidence": 0.49643445014953613,
+        "text": "Tull RalesMl"
+      },
+      {
+        "confidence": 0.17052918672561646,
+        "text": "wwwdo"
+      },
+      {
+        "confidence": 0.4142473042011261,
+        "text": " a"
+      },
+      {
+        "confidence": 0.4372907280921936,
+        "text": "to 190"
+      },
+      {
+        "confidence": 0.38370153307914734,
+        "text": "PT"
+      },
+      {
+        "confidence": 0.2667350172996521,
+        "text": "2sm"
+      },
+      {
+        "confidence": 0.5471000671386719,
+        "text": "methigie"
+      },
+      {
+        "confidence": 0.39105841517448425,
+        "text": "10"
+      },
+      {
+        "confidence": 0.3037759065628052,
+        "text": "\u00e0"
+      },
+      {
+        "confidence": 0.2959163387616475,
+        "text": "2 wp \u00e0"
+      },
+      {
+        "confidence": 0.8025727868080139,
+        "text": ""
+      },
+      {
+        "confidence": 0.8493677377700806,
+        "text": ""
+      },
+      {
+        "confidence": 0.592089831829071,
+        "text": "ce >tg"
+      },
+      {
+        "confidence": 0.17721648514270782,
+        "text": "-"
+      },
+      {
+        "confidence": 0.42864909768104553,
+        "text": "PrP"
+      },
+      {
+        "confidence": 0.3186197876930237,
+        "text": ">h"
+      },
+      {
+        "confidence": 0.5292256623506546,
+        "text": "CHP Dextac"
+      },
+      {
+        "confidence": 0.7012596130371094,
+        "text": "a"
+      },
+      {
+        "confidence": 0.24744503945112228,
+        "text": "OroX 3m9"
+      },
+      {
+        "confidence": 0.23156298696994781,
+        "text": "Ori"
+      }
+    ]
+  },
+  "ocr_text": "intunnel myshoae\nDoctori Mostola Zaman\nlefereue a, DUNE wn\nMans TML PID De . VUR mae\nTeRND\nw4t\n- AVE\n-\n- I\n -\nVune\nmvl MAR/r\nA01 \nDHN\nasov\nme\nPheriven\n1HP unnd \ncrC\nA 3\nTin Mn\nTull RalesMl\nwwwdo\n a\nto 190\nPT\n2sm\nmethigie\n10\n\u00e0\n2 wp \u00e0\n\n\nce >tg\n-\nPrP\n>h\nCHP Dextac\na\nOroX 3m9\nOri",
+  "ocr_text_length": 276,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.25,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "medications"
+    ],
+    "quality_score": 0.40379,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

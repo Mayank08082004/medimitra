@@ -1,0 +1,342 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_449a017c6cfb4fd386abd0dcca4c47c0",
+    "success": true
+  },
+  "document_id": "doc_5f3377708a224374bc760387c3f5c009",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": "Doctor. Mostofa Zaman",
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "Integrated Physician\nDoctor. Mostofa Zaman\nOlaf M. CTOT R\nIricia FHD (Sin & VD)\nMBBS (CMI sur VD Sers Amany)\nMin\no\nSanor Conrulunt of megratad Madicine\n4 o\nAohinvr\nAgOyTs Datel\nRk\nCC\nOTb Naphyn \nsvosy\n710t7 50 CV\nMatwy rndee\nurhp 2\nnapy\nOTO V3N\n26Y\n2+009 Erayo 12\n0 cup: Dextac\nJone\nDHot>\na\n3omg\nsp/30\nTab Kalcohal\nDX\nPFK\nA\nENTP Z\nTub.\nCONPaN\notots\n7bny\n05\n3 Tab myoson\nSrots\nDSr\n5ong\n8\nRoiy\nrg 0\nDoctor. Mostofa Zaman\nOlaf M. CTOT R\nIricia FHD (Sin & VD)\nMBBS (CMI sur VD Sers Amany)\nMin\no\nSanor Conrulunt of megratad Madicine\n4\nNaphyn\n710t7 500 mg\nMatwy rndee\nurhp 2\nnapy\nOTO V3N\n26Y\n2+0cv 12\n0 cup: Dextac\nJone\nDHot>\na\n3omg\nsp/30\nTab Kalcohal\nDX\nPFK\nA\nENTP Z\nTub.\nCONPaN\notots\n7bny\n05\n3 Tab myoson\nSrots\nDSr\n5ong\n8\nRoiy\nrg 0"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": "Doctor. Mostofa Zaman",
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "Integrated Physician\nDoctor. Mostofa Zaman\nOlaf M. CTOT R\nIricia FHD (Sin & VD)\nMBBS (CMI sur VD Sers Amany)\nMin\no\nSanor Conrulunt of megratad Madicine\n4 o\nAohinvr\nAgOyTs Datel\nRk\nCC\nOTb Naphyn \nsvosy\n710t7 50 CV\nMatwy rndee\nurhp 2\nnapy\nOTO V3N\n26Y\n2+009 Erayo 12\n0 cup: Dextac\nJone\nDHot>\na\n3omg\nsp/30\nTab Kalcohal\nDX\nPFK\nA\nENTP Z\nTub.\nCONPaN\notots\n7bny\n05\n3 Tab myoson\nSrots\nDSr\n5ong\n8\nRoiy\nrg 0\nDoctor. Mostofa Zaman\nOlaf M. CTOT R\nIricia FHD (Sin & VD)\nMBBS (CMI sur VD Sers Amany)\nMin\no\nSanor Conrulunt of megratad Madicine\n4\nNaphyn\n710t7 500 mg\nMatwy rndee\nurhp 2\nnapy\nOTO V3N\n26Y\n2+0cv 12\n0 cup: Dextac\nJone\nDHot>\na\n3omg\nsp/30\nTab Kalcohal\nDX\nPFK\nA\nENTP Z\nTub.\nCONPaN\notots\n7bny\n05\n3 Tab myoson\nSrots\nDSr\n5ong\n8\nRoiy\nrg 0"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T08:58:18.680346Z",
+    "total_text_regions": 48
+  },
+  "ocr_confidence": 0.491115,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.6694848835468292,
+        "text": "integrated Physician"
+      },
+      {
+        "confidence": 0.8954638441403707,
+        "text": "Doctor. Mostofa Zaman"
+      },
+      {
+        "confidence": 0.3453962504863739,
+        "text": "olafm . CTOT R"
+      },
+      {
+        "confidence": 0.5845984518527985,
+        "text": "FhD (Sin & VD) Iricia"
+      },
+      {
+        "confidence": 0.382143497467041,
+        "text": ""
+      },
+      {
+        "confidence": 0.6446353246768316,
+        "text": "MBBS (CMI sur VD Sers Amany"
+      },
+      {
+        "confidence": 0.22279240190982819,
+        "text": "Min"
+      },
+      {
+        "confidence": 0.1642005294561386,
+        "text": "o"
+      },
+      {
+        "confidence": 0.6450613796710968,
+        "text": "Sanor Conrulunt of megratad Madicine"
+      },
+      {
+        "confidence": 0.36830318719148636,
+        "text": "4 o"
+      },
+      {
+        "confidence": 0.3796060383319855,
+        "text": "-"
+      },
+      {
+        "confidence": 0.32451632618904114,
+        "text": "Aohinvr"
+      },
+      {
+        "confidence": 0.3116859719157219,
+        "text": "AgOyTs Datel"
+      },
+      {
+        "confidence": 0.6900777816772461,
+        "text": "Rk"
+      },
+      {
+        "confidence": 0.618833601474762,
+        "text": "CC"
+      },
+      {
+        "confidence": 0.38616499801476795,
+        "text": "OTb Naphyn "
+      },
+      {
+        "confidence": 0.16176052391529083,
+        "text": "svosy"
+      },
+      {
+        "confidence": 0.5982526739438375,
+        "text": "710t7 500 ma"
+      },
+      {
+        "confidence": 0.28968919068574905,
+        "text": "Matwy rndee"
+      },
+      {
+        "confidence": 0.5862661600112915,
+        "text": "urhp 2"
+      },
+      {
+        "confidence": 0.3888342082500458,
+        "text": "napy"
+      },
+      {
+        "confidence": 0.7030753195285797,
+        "text": "OTO V3N"
+      },
+      {
+        "confidence": 0.5964744687080383,
+        "text": "26Y"
+      },
+      {
+        "confidence": 0.41241721312205,
+        "text": "2+009 Erayo 12"
+      },
+      {
+        "confidence": 0.7884461482365926,
+        "text": "0 cup: Dextac"
+      },
+      {
+        "confidence": 0.332341730594635,
+        "text": "Jone"
+      },
+      {
+        "confidence": 0.2095758318901062,
+        "text": "DHot>"
+      },
+      {
+        "confidence": 0.28334158658981323,
+        "text": "a"
+      },
+      {
+        "confidence": 0.537135124206543,
+        "text": "3omg"
+      },
+      {
+        "confidence": 0.2196110337972641,
+        "text": "sp/30"
+      },
+      {
+        "confidence": 0.4083300232887268,
+        "text": "Tab Kalcohal"
+      },
+      {
+        "confidence": 0.873878538608551,
+        "text": "DX"
+      },
+      {
+        "confidence": 0.29983261227607727,
+        "text": "PFK"
+      },
+      {
+        "confidence": 0.6705770492553711,
+        "text": "A"
+      },
+      {
+        "confidence": 0.5497775077819824,
+        "text": "ENTP Z"
+      },
+      {
+        "confidence": 0.7486038208007812,
+        "text": "Tub."
+      },
+      {
+        "confidence": 0.5282996296882629,
+        "text": "CONPaN"
+      },
+      {
+        "confidence": 0.5807505249977112,
+        "text": "otots"
+      },
+      {
+        "confidence": 0.2296861857175827,
+        "text": "7bny"
+      },
+      {
+        "confidence": 0.2557388246059418,
+        "text": "05"
+      },
+      {
+        "confidence": 0.5450637737909952,
+        "text": "3 Tab myoson"
+      },
+      {
+        "confidence": 0.40874335169792175,
+        "text": "Srots"
+      },
+      {
+        "confidence": 0.3629366159439087,
+        "text": "DSr"
+      },
+      {
+        "confidence": 0.8772448897361755,
+        "text": "5ong"
+      },
+      {
+        "confidence": 0.6747607588768005,
+        "text": "- -"
+      },
+      {
+        "confidence": 0.9206051826477051,
+        "text": "8"
+      },
+      {
+        "confidence": 0.16643975675106049,
+        "text": "Roiy"
+      },
+      {
+        "confidence": 0.7320795953273773,
+        "text": "rg 0"
+      }
+    ]
+  },
+  "ocr_text": "integrated Physician\nDoctor. Mostofa Zaman\nolafm . CTOT R\nFhD (Sin & VD) Iricia\n\nMBBS (CMI sur VD Sers Amany\nMin\no\nSanor Conrulunt of megratad Madicine\n4 o\n-\nAohinvr\nAgOyTs Datel\nRk\nCC\nOTb Naphyn \nsvosy\n710t7 500 ma\nMatwy rndee\nurhp 2\nnapy\nOTO V3N\n26Y\n2+009 Erayo 12\n0 cup: Dextac\nJone\nDHot>\na\n3omg\nsp/30\nTab Kalcohal\nDX\nPFK\nA\nENTP Z\nTub.\nCONPaN\notots\n7bny\n05\n3 Tab myoson\nSrots\nDSr\n5ong\n- -\n8\nRoiy\nrg 0",
+  "ocr_text_length": 403,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.25,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "medications"
+    ],
+    "quality_score": 0.491115,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

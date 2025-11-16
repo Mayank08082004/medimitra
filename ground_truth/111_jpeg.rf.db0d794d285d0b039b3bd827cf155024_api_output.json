@@ -1,0 +1,206 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_17ae005cd7fe477ca1eb6405eba23840",
+    "success": true
+  },
+  "document_id": "doc_aebbde0031cb40bdbe3d48bfde0d795f",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": "Last Name",
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": null,
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "Emergency Intake Counter\nFirst Name:\nLast Name:\nAKlmb\nR\nGb- Fose clab\n4 - -\nTea CRnO ap\nGb - - Etone lon\n2 - S\n LAn\n0n1\n2-9+0\nFirst Name:\nLast Name: Aklmb\nR\nGb- Fose clab\n4 - -\nTea CRnO ap\nGb - - Etone lon\n2 - S\n Lan\n0n1\n2-9+0"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": "Last Name",
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": null,
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "Emergency Intake Counter\nFirst Name:\nLast Name:\nAKlmb\nR\nGb- Fose clab\n4 - -\nTea CRnO ap\nGb - - Etone lon\n2 - S\n LAn\n0n1\n2-9+0\nFirst Name:\nLast Name: Aklmb\nR\nGb- Fose clab\n4 - -\nTea CRnO ap\nGb - - Etone lon\n2 - S\n Lan\n0n1\n2-9+0"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T09:18:07.829569Z",
+    "total_text_regions": 14
+  },
+  "ocr_confidence": 0.494664,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.40198224782943726,
+        "text": "SNIE"
+      },
+      {
+        "confidence": 0.2855415344238281,
+        "text": "EITSIET CUORT"
+      },
+      {
+        "confidence": 0.3977673538029194,
+        "text": "fifrns e - TOE"
+      },
+      {
+        "confidence": 0.39641472697257996,
+        "text": "AKlmb"
+      },
+      {
+        "confidence": 0.919366717338562,
+        "text": "R"
+      },
+      {
+        "confidence": 0.4982643226782481,
+        "text": "Gb- Fose clab"
+      },
+      {
+        "confidence": 0.455666979153951,
+        "text": "4 - -"
+      },
+      {
+        "confidence": 0.28279823064804077,
+        "text": "tea CRnO ap"
+      },
+      {
+        "confidence": 0.5714964389801025,
+        "text": "Gb - - Etone lon"
+      },
+      {
+        "confidence": 0.8773642778396606,
+        "text": "-"
+      },
+      {
+        "confidence": 0.4662798345088959,
+        "text": "2 - S"
+      },
+      {
+        "confidence": 0.4012480229139328,
+        "text": " LAn"
+      },
+      {
+        "confidence": 0.40444397926330566,
+        "text": "0n1"
+      },
+      {
+        "confidence": 0.566663384437561,
+        "text": "2-9+0"
+      }
+    ]
+  },
+  "ocr_text": "SNIE\nEITSIET CUORT\nfifrns e - TOE\nAKlmb\nR\nGb- Fose clab\n4 - -\ntea CRnO ap\nGb - - Etone lon\n-\n2 - S\n LAn\n0n1\n2-9+0",
+  "ocr_text_length": 113,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.25,
+    "missing_critical_fields": [
+      "patient.id",
+      "prescriber.name",
+      "medications"
+    ],
+    "quality_score": 0.494664,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

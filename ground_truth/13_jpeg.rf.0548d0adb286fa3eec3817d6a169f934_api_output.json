@@ -1,0 +1,294 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_3dac071e10f241cab033f919fd25e120",
+    "success": true
+  },
+  "document_id": "doc_bcd1d846c8404ccabe5b8d27b396e173",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": "Manuela Zaman",
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "Doctor Manuela Zaman\nmember of SCHMT WTWW\nIn a - un E\n.\neta\nmanek\nLapody 2\nPA\nNo\nV7\nwing\nPextacy 20mY\n2rot2 syn\nNattor\nTube\n02\n08\nzonosyn\nelona\na THBE\norag\n1OH\n. -\nomu MTIN  mmE a els sus\nI . -\nenis mel a EF 16 NM we\nun 19308\nDocte\nMnstola\nZaman\nmitfmmer\nS\nCHMT\nWTWW\nun -\nM -\nIna\na - un E\n.\ne\ntae\nMane\nramka\nLapody\n2\nP A\nNo\nV7\nwng\nPextacy\n20mY\ncuP\n2rot2 sny\nNattor\nTub\n0\n02\notto\nsn0\nzotoon\nelona\na THBE\noarg\n1OH\n. -\nomu MTIN  mmE a els sus\nI . -\nun 1e"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": "Manuela Zaman",
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "Doctor Manuela Zaman\nmember of SCHMT WTWW\nIn a - un E\n.\neta\nmanek\nLapody 2\nPA\nNo\nV7\nwing\nPextacy 20mY\n2rot2 syn\nNattor\nTube\n02\n08\nzonosyn\nelona\na THBE\norag\n1OH\n. -\nomu MTIN  mmE a els sus\nI . -\nenis mel a EF 16 NM we\nun 19308\nDocte\nMnstola\nZaman\nmitfmmer\nS\nCHMT\nWTWW\nun -\nM -\nIna\na - un E\n.\ne\ntae\nMane\nramka\nLapody\n2\nP A\nNo\nV7\nwng\nPextacy\n20mY\ncuP\n2rot2 sny\nNattor\nTub\n0\n02\notto\nsn0\nzotoon\nelona\na THBE\noarg\n1OH\n. -\nomu MTIN  mmE a els sus\nI . -\nun 1e"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T08:26:49.510470Z",
+    "total_text_regions": 36
+  },
+  "ocr_confidence": 0.437074,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.6886687576770782,
+        "text": "- I"
+      },
+      {
+        "confidence": 0.5283267696698507,
+        "text": "Doctne Mnstola Zaman"
+      },
+      {
+        "confidence": 0.2628042548894882,
+        "text": "mitfmmer S CHMT WTWW"
+      },
+      {
+        "confidence": 0.572240985929966,
+        "text": "un - M -"
+      },
+      {
+        "confidence": 0.2497885525226593,
+        "text": "Ina"
+      },
+      {
+        "confidence": 0.3479694202542305,
+        "text": "a - un E"
+      },
+      {
+        "confidence": 0.8517007231712341,
+        "text": "."
+      },
+      {
+        "confidence": 0.53914874792099,
+        "text": "e"
+      },
+      {
+        "confidence": 0.6629244089126587,
+        "text": "tae"
+      },
+      {
+        "confidence": 0.3440817594528198,
+        "text": "Mane"
+      },
+      {
+        "confidence": 0.36023110151290894,
+        "text": "ramka"
+      },
+      {
+        "confidence": 0.3590482622385025,
+        "text": "Lapody 2"
+      },
+      {
+        "confidence": 0.4796261787414551,
+        "text": "P A"
+      },
+      {
+        "confidence": 0.3353402018547058,
+        "text": "No"
+      },
+      {
+        "confidence": 0.3709421157836914,
+        "text": "V7"
+      },
+      {
+        "confidence": 0.2927565574645996,
+        "text": "wng"
+      },
+      {
+        "confidence": 0.3470708578824997,
+        "text": "Pextac- 20mY"
+      },
+      {
+        "confidence": 0.2803225815296173,
+        "text": "cuP"
+      },
+      {
+        "confidence": 0.34379248321056366,
+        "text": "2rot2 sny"
+      },
+      {
+        "confidence": 0.28068846464157104,
+        "text": ""
+      },
+      {
+        "confidence": 0.3181806802749634,
+        "text": "Nattor"
+      },
+      {
+        "confidence": 0.680106520652771,
+        "text": "Tub"
+      },
+      {
+        "confidence": 0.4459078311920166,
+        "text": "0"
+      },
+      {
+        "confidence": 0.5615865588188171,
+        "text": "02"
+      },
+      {
+        "confidence": 0.43800798058509827,
+        "text": "otto"
+      },
+      {
+        "confidence": 0.48813894391059875,
+        "text": "sn0"
+      },
+      {
+        "confidence": 0.21212294697761536,
+        "text": "zotoon"
+      },
+      {
+        "confidence": 0.6203724145889282,
+        "text": "elona"
+      },
+      {
+        "confidence": 0.1667182818055153,
+        "text": "a THBE"
+      },
+      {
+        "confidence": 0.6243872046470642,
+        "text": "oarg"
+      },
+      {
+        "confidence": 0.26277464628219604,
+        "text": "1OH"
+      },
+      {
+        "confidence": 0.6241281181573868,
+        "text": ". -"
+      },
+      {
+        "confidence": 0.33543104997703005,
+        "text": "omu MTIN  mmE a els sus"
+      },
+      {
+        "confidence": 0.7158096631368002,
+        "text": "I . -"
+      },
+      {
+        "confidence": 0.39832708425819874,
+        "text": "- enis mel a EF 16 NM we"
+      },
+      {
+        "confidence": 0.3451762944459915,
+        "text": "un 19308"
+      }
+    ]
+  },
+  "ocr_text": "- I\nDoctne Mnstola Zaman\nmitfmmer S CHMT WTWW\nun - M -\nIna\na - un E\n.\ne\ntae\nMane\nramka\nLapody 2\nP A\nNo\nV7\nwng\nPextac- 20mY\ncuP\n2rot2 sny\n\nNattor\nTub\n0\n02\notto\nsn0\nzotoon\nelona\na THBE\noarg\n1OH\n. -\nomu MTIN  mmE a els sus\nI . -\n- enis mel a EF 16 NM we\nun 19308",
+  "ocr_text_length": 259,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.25,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "medications"
+    ],
+    "quality_score": 0.437074,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_06125e09d3fc44b7970932b9fd01e3ce",
+    "success": true
+  },
+  "document_id": "doc_8c1a60af6f66401496a434fc14847037",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": null,
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "ICU Chart\nNational Institute of Cardiovascular Diseases & Hospital\nHarel, a U9T\nTREATMENT SHEET\nA\nnent\nI am pleased:\nParinse\n### Response\nICU Chart\nNational Institute of Cardiovascular Diseases & Hospital\nHarel, a U9T\nTreatment Sheet\nI am pleased:\nParinse"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": null,
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "ICU Chart\nNational Institute of Cardiovascular Diseases & Hospital\nHarel, a U9T\nTREATMENT SHEET\nA\nnent\nI am pleased:\nParinse\n### Response\nICU Chart\nNational Institute of Cardiovascular Diseases & Hospital\nHarel, a U9T\nTreatment Sheet\nI am pleased:\nParinse"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T09:17:29.577220Z",
+    "total_text_regions": 18
+  },
+  "ocr_confidence": 0.590823,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.9380826056003571,
+        "text": "ICU Chart"
+      },
+      {
+        "confidence": 0.8357082307338715,
+        "text": "National Institute of Cardiovascular"
+      },
+      {
+        "confidence": 0.7079737186431885,
+        "text": "Diseai"
+      },
+      {
+        "confidence": 0.7329204295362745,
+        "text": "National Institutr of Canliovincotar Disenses & Hospital"
+      },
+      {
+        "confidence": 0.4102357253432274,
+        "text": "lenale hrel, a u9T"
+      },
+      {
+        "confidence": 0.9415064752101898,
+        "text": "TREATMENT SHEET"
+      },
+      {
+        "confidence": 0.2504684329032898,
+        "text": "A"
+      },
+      {
+        "confidence": 0.31353843212127686,
+        "text": "nent"
+      },
+      {
+        "confidence": 0.5828141967455546,
+        "text": "- a 2"
+      },
+      {
+        "confidence": 0.2787958085536957,
+        "text": ""
+      },
+      {
+        "confidence": 0.3816900700330734,
+        "text": "I apmiee"
+      },
+      {
+        "confidence": 0.36257264018058777,
+        "text": ":"
+      },
+      {
+        "confidence": 0.3902222663164139,
+        "text": "-1 5"
+      },
+      {
+        "confidence": 0.9027902483940125,
+        "text": "Parins"
+      },
+      {
+        "confidence": 0.8700149059295654,
+        "text": "-"
+      },
+      {
+        "confidence": 0.6131628751754761,
+        "text": "- Filser"
+      },
+      {
+        "confidence": 0.6292703747749329,
+        "text": "-"
+      },
+      {
+        "confidence": 0.4930540397763252,
+        "text": "20251074 ire"
+      }
+    ]
+  },
+  "ocr_text": "ICU Chart\nNational Institute of Cardiovascular\nDiseai\nNational Institutr of Canliovincotar Disenses & Hospital\nlenale hrel, a u9T\nTREATMENT SHEET\nA\nnent\n- a 2\n\nI apmiee\n:\n-1 5\nParins\n-\n- Filser\n-\n20251074 ire",
+  "ocr_text_length": 208,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.0,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "prescriber.name",
+      "medications"
+    ],
+    "quality_score": 0.590823,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_146351dac5154979a55fe0769bc4fd48",
+    "success": true
+  },
+  "document_id": "doc_aa37454bf25a4c1c8ce604a786113558",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": "dermitim Zttiour",
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "Gabataurivminish\nDoctor. MD BILLALI HOSSAIN\nCOHIEE\nVens a N A BINOURI\nMia 0rEI9\nMSC (Orbo-Burpryl RUSSIA\nDB eimmaon adi\nE\ndermitim Zttiourpaty\nAPEE ol, a Hial,\nVenas Uiveate a8 ratys\n Tirgi NiwMinbershol 0-F1 Chaka\nReg No ATPRC-1 CV3\ntabat\nOHel\nlime\nmel - - 1\nRe\n6mo-finckas\nOTRb\nwh\na\n11\nmm)\nInt\nInb\nm2\nt\n1g8e5\nSATTP  a a - .\nDoctor. MD BILLALI HOSSAIN\nCOHIEE\nVens a N A BINOURI\nMia 0rEI9\nMSC (Orbo-Burpryl RUSSIA\nDB eimmaon adi\nE\ndermitim Zttiourpaty\nAPEE ol, a Hial,\nVenas Uiveate a8 ratys\nTirgi NiwMinbershol 0-F1 Chaka\nReg No ATPRC-1 CV3\ntabat\nOHel\nlime\nmel - - 1\nRe\n6mo-finckas\nOTRb\nwh\na\n11\nmm)\nInt\nInb\nm2\nt\n1g8e5\nSATTP a a - ."
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": "dermitim Zttiour",
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "Gabataurivminish\nDoctor. MD BILLALI HOSSAIN\nCOHIEE\nVens a N A BINOURI\nMia 0rEI9\nMSC (Orbo-Burpryl RUSSIA\nDB eimmaon adi\nE\ndermitim Zttiourpaty\nAPEE ol, a Hial,\nVenas Uiveate a8 ratys\n Tirgi NiwMinbershol 0-F1 Chaka\nReg No ATPRC-1 CV3\ntabat\nOHel\nlime\nmel - - 1\nRe\n6mo-finckas\nOTRb\nwh\na\n11\nmm)\nInt\nInb\nm2\nt\n1g8e5\nSATTP  a a - .\nDoctor. MD BILLALI HOSSAIN\nCOHIEE\nVens a N A BINOURI\nMia 0rEI9\nMSC (Orbo-Burpryl RUSSIA\nDB eimmaon adi\nE\ndermitim Zttiourpaty\nAPEE ol, a Hial,\nVenas Uiveate a8 ratys\nTirgi NiwMinbershol 0-F1 Chaka\nReg No ATPRC-1 CV3\ntabat\nOHel\nlime\nmel - - 1\nRe\n6mo-finckas\nOTRb\nwh\na\n11\nmm)\nInt\nInb\nm2\nt\n1g8e5\nSATTP a a - ."
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T09:03:20.805551Z",
+    "total_text_regions": 36
+  },
+  "ocr_confidence": 0.468831,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.2551458477973938,
+        "text": "gataurivmnish"
+      },
+      {
+        "confidence": 0.8900177627801895,
+        "text": "Doctor. MD BILLALI HOSSAIN"
+      },
+      {
+        "confidence": 0.9303002953529358,
+        "text": "-"
+      },
+      {
+        "confidence": 0.3300573527812958,
+        "text": "COHIEE"
+      },
+      {
+        "confidence": 0.45689759254455564,
+        "text": "vens a N A BINOURI"
+      },
+      {
+        "confidence": 0.23905210942029953,
+        "text": "Mia 0rEI9"
+      },
+      {
+        "confidence": 0.5130906800429026,
+        "text": "MSC (Orbo-Burpryl RUSSIA"
+      },
+      {
+        "confidence": 0.234175443649292,
+        "text": "DB eimmaon adi"
+      },
+      {
+        "confidence": 0.38258329033851624,
+        "text": "E"
+      },
+      {
+        "confidence": 0.2889978215098381,
+        "text": "dermitim Zttiourpaty"
+      },
+      {
+        "confidence": 0.2555702477693558,
+        "text": "APEE ol, a Hial,"
+      },
+      {
+        "confidence": 0.3554277941584587,
+        "text": "Venas Uiveate a8 ratys"
+      },
+      {
+        "confidence": 0.4619827508926392,
+        "text": " Tirgi NiwMinbershol 0-F1 Chaka"
+      },
+      {
+        "confidence": 0.6557497978210449,
+        "text": "Reg No ATPRC-10385"
+      },
+      {
+        "confidence": 0.3936644196510315,
+        "text": "tabat"
+      },
+      {
+        "confidence": 0.41976428031921387,
+        "text": "OHel"
+      },
+      {
+        "confidence": 0.4835026264190674,
+        "text": "lime"
+      },
+      {
+        "confidence": 0.7274694591760635,
+        "text": "mel - - 1"
+      },
+      {
+        "confidence": 0.959333062171936,
+        "text": "Re"
+      },
+      {
+        "confidence": 0.2824956476688385,
+        "text": "6mo-finckas"
+      },
+      {
+        "confidence": 0.3972764313220978,
+        "text": "OTRb"
+      },
+      {
+        "confidence": 0.19296416640281677,
+        "text": "wh"
+      },
+      {
+        "confidence": 0.6358741124471029,
+        "text": "- - yy"
+      },
+      {
+        "confidence": 0.6996689140796661,
+        "text": "- celek"
+      },
+      {
+        "confidence": 0.29192349314689636,
+        "text": "a"
+      },
+      {
+        "confidence": 0.28981828689575195,
+        "text": "11"
+      },
+      {
+        "confidence": 0.38313353061676025,
+        "text": "mm)"
+      },
+      {
+        "confidence": 0.4231840968132019,
+        "text": "Int"
+      },
+      {
+        "confidence": 0.3687930107116699,
+        "text": "Inb"
+      },
+      {
+        "confidence": 0.5641138553619385,
+        "text": "m2"
+      },
+      {
+        "confidence": 0.4370400011539459,
+        "text": "t"
+      },
+      {
+        "confidence": 0.723882794380188,
+        "text": "1g8e5"
+      },
+      {
+        "confidence": 0.4296394884586334,
+        "text": "-"
+      },
+      {
+        "confidence": 0.34815017879009247,
+        "text": "- Retug"
+      },
+      {
+        "confidence": 0.5257462859153748,
+        "text": "- \u00e0"
+      },
+      {
+        "confidence": 0.6514111409584681,
+        "text": "SATTP  a a - ."
+      }
+    ]
+  },
+  "ocr_text": "gataurivmnish\nDoctor. MD BILLALI HOSSAIN\n-\nCOHIEE\nvens a N A BINOURI\nMia 0rEI9\nMSC (Orbo-Burpryl RUSSIA\nDB eimmaon adi\nE\ndermitim Zttiourpaty\nAPEE ol, a Hial,\nVenas Uiveate a8 ratys\n Tirgi NiwMinbershol 0-F1 Chaka\nReg No ATPRC-10385\ntabat\nOHel\nlime\nmel - - 1\nRe\n6mo-finckas\nOTRb\nwh\n- - yy\n- celek\na\n11\nmm)\nInt\nInb\nm2\nt\n1g8e5\n-\n- Retug\n- \u00e0\nSATTP  a a - .",
+  "ocr_text_length": 353,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.25,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "medications"
+    ],
+    "quality_score": 0.468831,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

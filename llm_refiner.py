@@ -26,7 +26,7 @@ def init_llm():
         logging.info(f"Loading LLM: {MODEL_PATH}")
         llm = Llama(
             model_path=MODEL_PATH,
-            n_ctx=1200,
+            n_ctx=4096,
             n_threads=4,
             n_gpu_layers=0,  # Metal fails silently >0 on many Macs
             verbose=False,
@@ -37,6 +37,8 @@ def init_llm():
         logging.error(f"LLM load failed: {e}")
         return None
 
+
+LLM_INSTANCE = init_llm()
 
 # ----------- STRICT PROMPT -----------
 PROMPT = """
@@ -94,16 +96,15 @@ def sanitize(text: str) -> str:
 
 def refine_text_with_llm(text: str) -> str:
     """Strict OCR cleaning with hallucination-proof fallback."""
-    llm = init_llm()
-    if not llm:
+    if not LLM_INSTANCE:
         return text  # fallback to original
 
     try:
         logging.info("LLM refinement triggered.")
 
-        output = llm(
+        output = LLM_INSTANCE(
             PROMPT.format(text=text),
-            max_tokens=300,
+            max_tokens=2048,
             temperature=0.0,
             top_k=10,
             top_p=0.9,

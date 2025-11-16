@@ -1,0 +1,316 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_12cc47d1b621467d94f4d23a52b78ec2",
+    "success": true
+  },
+  "document_id": "doc_9948af5912b84eefb1db5332dbd00fe6",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [
+      {
+        "confidence": 0.85,
+        "dosage": null,
+        "duration": null,
+        "form": "cap",
+        "frequency": null,
+        "instructions": "cap Pextac-",
+        "name": "cap",
+        "quantity": null,
+        "refills": null,
+        "route": null,
+        "strength": null
+      },
+      {
+        "confidence": 0.85,
+        "dosage": null,
+        "duration": null,
+        "form": "cap",
+        "frequency": null,
+        "instructions": "cap Pextac-",
+        "name": "cap",
+        "quantity": null,
+        "refills": null,
+        "route": null,
+        "strength": null
+      }
+    ],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": null,
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "Doctine Mnstola Zaman\ngorerene . - 1\nmal - -\n:\nMamA\nramba\nnodr 2\nsng e\n201y\ncap Pextac-\n2rot? sy\nNattor\nTuo\nMotto\noT\nsn0\nelona\nGTP\n2a ne\nR\nan I a\nm\n. NOMIR wts\ngorerene . - 1\nmal - -\n:\nMama\nramba\nnodr 2\nsng e\n2e19y\ncap Pextac-\n2rot? sy\nNattor\nTuo\nMotto\noT\nsn0\nelona\nGTP\n2a ne\nR\nan I am\n. NOMIR wts\nNote: The cleaned text may still contain OCR errors, but the corrections are based on the most obvious mistakes."
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [
+          {
+            "confidence": 0.85,
+            "dosage": null,
+            "duration": null,
+            "form": "cap",
+            "frequency": null,
+            "instructions": "cap Pextac-",
+            "name": "cap",
+            "quantity": null,
+            "refills": null,
+            "route": null,
+            "strength": null
+          },
+          {
+            "confidence": 0.85,
+            "dosage": null,
+            "duration": null,
+            "form": "cap",
+            "frequency": null,
+            "instructions": "cap Pextac-",
+            "name": "cap",
+            "quantity": null,
+            "refills": null,
+            "route": null,
+            "strength": null
+          }
+        ],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": null,
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "Doctine Mnstola Zaman\ngorerene . - 1\nmal - -\n:\nMamA\nramba\nnodr 2\nsng e\n201y\ncap Pextac-\n2rot? sy\nNattor\nTuo\nMotto\noT\nsn0\nelona\nGTP\n2a ne\nR\nan I a\nm\n. NOMIR wts\ngorerene . - 1\nmal - -\n:\nMama\nramba\nnodr 2\nsng e\n2e19y\ncap Pextac-\n2rot? sy\nNattor\nTuo\nMotto\noT\nsn0\nelona\nGTP\n2a ne\nR\nan I am\n. NOMIR wts\nNote: The cleaned text may still contain OCR errors, but the corrections are based on the most obvious mistakes."
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T09:08:36.724752Z",
+    "total_text_regions": 28
+  },
+  "ocr_confidence": 0.461475,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.5451719661553701,
+        "text": "Doctne Mnstola Zaman"
+      },
+      {
+        "confidence": 0.475851085036993,
+        "text": "gorerene . - 1"
+      },
+      {
+        "confidence": 0.7129968802134196,
+        "text": "mal - -"
+      },
+      {
+        "confidence": 0.8479581475257874,
+        "text": ":"
+      },
+      {
+        "confidence": 0.1942339539527893,
+        "text": "MamA"
+      },
+      {
+        "confidence": 0.3754592537879944,
+        "text": "ramba"
+      },
+      {
+        "confidence": 0.34173329174518585,
+        "text": "nodr 2"
+      },
+      {
+        "confidence": 0.7026902437210083,
+        "text": "-"
+      },
+      {
+        "confidence": 0.5506084859371185,
+        "text": "sng e"
+      },
+      {
+        "confidence": 0.2775843143463135,
+        "text": "201y"
+      },
+      {
+        "confidence": 0.4378790855407715,
+        "text": "caP Pextac-"
+      },
+      {
+        "confidence": 0.415118470788002,
+        "text": "2rot? sy"
+      },
+      {
+        "confidence": 0.2799414396286011,
+        "text": "-"
+      },
+      {
+        "confidence": 0.45860549807548523,
+        "text": "Nattor"
+      },
+      {
+        "confidence": 0.3410063087940216,
+        "text": "Tuo"
+      },
+      {
+        "confidence": 0.28140053153038025,
+        "text": "M"
+      },
+      {
+        "confidence": 0.3134250044822693,
+        "text": "otto"
+      },
+      {
+        "confidence": 0.6273956298828125,
+        "text": "oT"
+      },
+      {
+        "confidence": 0.26756998896598816,
+        "text": "sn0"
+      },
+      {
+        "confidence": 0.734930694103241,
+        "text": "-"
+      },
+      {
+        "confidence": 0.537481963634491,
+        "text": "elona"
+      },
+      {
+        "confidence": 0.27770307660102844,
+        "text": "GTP"
+      },
+      {
+        "confidence": 0.5979635566473007,
+        "text": "2a ne"
+      },
+      {
+        "confidence": 0.32037103176116943,
+        "text": "R"
+      },
+      {
+        "confidence": 0.46937912702560425,
+        "text": "an I a"
+      },
+      {
+        "confidence": 0.1264072060585022,
+        "text": "m"
+      },
+      {
+        "confidence": 0.9908754825592041,
+        "text": "-"
+      },
+      {
+        "confidence": 0.41956789294878644,
+        "text": ". NOMIR wts"
+      }
+    ]
+  },
+  "ocr_text": "Doctne Mnstola Zaman\ngorerene . - 1\nmal - -\n:\nMamA\nramba\nnodr 2\n-\nsng e\n201y\ncaP Pextac-\n2rot? sy\n-\nNattor\nTuo\nM\notto\noT\nsn0\n-\nelona\nGTP\n2a ne\nR\nan I a\nm\n-\n. NOMIR wts",
+  "ocr_text_length": 167,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.25,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "prescriber.name"
+    ],
+    "quality_score": 0.461475,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

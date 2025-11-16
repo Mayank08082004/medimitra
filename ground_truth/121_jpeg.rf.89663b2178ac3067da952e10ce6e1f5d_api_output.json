@@ -1,0 +1,290 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_7052eb63530d4cc08e49f59d2d4f3104",
+    "success": true
+  },
+  "document_id": "doc_0db5803a93154b318af4c927b7c202b1",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": "Mostota Zaman",
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "Doctor Mostota Zaman\na. APF A\nT Bimpy\nto be aware of Tire Glipafab - 1\nO\npht2\n3 Tab nce plos\norobetes\nanr\n21212\n4N0O a\nOTb Azinac\nCA\ng01\noloto\n76\n0P-12019\nCAY\n3 m0 clowig\n25\np1P\n08 . %\n20 elees\n16\nTH\n379 feczds\nCRTEI RmEe ET PeR - amde et\nA mips mt E 21 - PTR aPrirE\n\u00e0 E - CSM eut -\na\na. APF A\nT Bimpy\nto be aware of Tire Glipafab - 1\nO\npht2\n3 Tab nce plos\norobetes\nanr\n21212\n4N0O a\nOTb Azinac\nCA\ng01\noloto\n76\n0P-1e19\nCAY\n3 m0 clowig\n25\np1P\n08 . %\n20 elees\n16\nTH\n379 feczds\nCRTEI RmEe ET PeR - amde et\nA mips mt E 21 - PTR aPrirE\n\u00e0 E - CSM eut -\na"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": "Mostota Zaman",
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "Doctor Mostota Zaman\na. APF A\nT Bimpy\nto be aware of Tire Glipafab - 1\nO\npht2\n3 Tab nce plos\norobetes\nanr\n21212\n4N0O a\nOTb Azinac\nCA\ng01\noloto\n76\n0P-12019\nCAY\n3 m0 clowig\n25\np1P\n08 . %\n20 elees\n16\nTH\n379 feczds\nCRTEI RmEe ET PeR - amde et\nA mips mt E 21 - PTR aPrirE\n\u00e0 E - CSM eut -\na\na. APF A\nT Bimpy\nto be aware of Tire Glipafab - 1\nO\npht2\n3 Tab nce plos\norobetes\nanr\n21212\n4N0O a\nOTb Azinac\nCA\ng01\noloto\n76\n0P-1e19\nCAY\n3 m0 clowig\n25\np1P\n08 . %\n20 elees\n16\nTH\n379 feczds\nCRTEI RmEe ET PeR - amde et\nA mips mt E 21 - PTR aPrirE\n\u00e0 E - CSM eut -\na"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T09:18:26.026742Z",
+    "total_text_regions": 35
+  },
+  "ocr_confidence": 0.476472,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.8309342662493387,
+        "text": "Doctor Mostota Zaman"
+      },
+      {
+        "confidence": 0.42734821140766144,
+        "text": "a . APF A"
+      },
+      {
+        "confidence": 0.5000206828117371,
+        "text": "wiles"
+      },
+      {
+        "confidence": 0.7641028165817261,
+        "text": "- -"
+      },
+      {
+        "confidence": 0.6221946477890015,
+        "text": "-"
+      },
+      {
+        "confidence": 0.2948185130953789,
+        "text": "T Bimpy"
+      },
+      {
+        "confidence": 0.2487659603357315,
+        "text": "a"
+      },
+      {
+        "confidence": 0.3844127655029297,
+        "text": "to"
+      },
+      {
+        "confidence": 0.480774986743927,
+        "text": "beupe Tire Glipafab - 1"
+      },
+      {
+        "confidence": 0.4605075716972351,
+        "text": "O"
+      },
+      {
+        "confidence": 0.4108186960220337,
+        "text": "pht2"
+      },
+      {
+        "confidence": 0.7183984890580177,
+        "text": "3 Tab nce plos"
+      },
+      {
+        "confidence": 0.49076586961746216,
+        "text": "orobetes"
+      },
+      {
+        "confidence": 0.33464208245277405,
+        "text": "anr"
+      },
+      {
+        "confidence": 0.29339492321014404,
+        "text": "21212"
+      },
+      {
+        "confidence": 0.40238747745752335,
+        "text": "4N0O a"
+      },
+      {
+        "confidence": 0.4116658717393875,
+        "text": "Otb Azinac"
+      },
+      {
+        "confidence": 0.973922073841095,
+        "text": "CA"
+      },
+      {
+        "confidence": 0.3448199927806854,
+        "text": "g01"
+      },
+      {
+        "confidence": 0.7388472557067871,
+        "text": "oloto"
+      },
+      {
+        "confidence": 0.47037509083747864,
+        "text": "76"
+      },
+      {
+        "confidence": 0.3454987108707428,
+        "text": "0P-12019"
+      },
+      {
+        "confidence": 0.5548624992370605,
+        "text": "CAY"
+      },
+      {
+        "confidence": 0.38409726818402606,
+        "text": "3 m0 clowig"
+      },
+      {
+        "confidence": 0.33606353402137756,
+        "text": "25"
+      },
+      {
+        "confidence": 0.23691605031490326,
+        "text": "p1P"
+      },
+      {
+        "confidence": 0.6271302501360575,
+        "text": "08 . %"
+      },
+      {
+        "confidence": 0.5422984212636948,
+        "text": "20 eeles"
+      },
+      {
+        "confidence": 0.5505127906799316,
+        "text": "16"
+      },
+      {
+        "confidence": 0.115725077688694,
+        "text": "TH"
+      },
+      {
+        "confidence": 0.48754464089870453,
+        "text": "379 feczds"
+      },
+      {
+        "confidence": 0.37949598687035696,
+        "text": "CRTEI RmEe ET PeR - amde et"
+      },
+      {
+        "confidence": 0.36675335466861725,
+        "text": "A mips mt E 21 - PTR aPrirE"
+      },
+      {
+        "confidence": 0.4066547205050786,
+        "text": "\u00e0 E - CSM eut -"
+      },
+      {
+        "confidence": 0.7390317320823669,
+        "text": "a"
+      }
+    ]
+  },
+  "ocr_text": "Doctor Mostota Zaman\na . APF A\nwiles\n- -\n-\nT Bimpy\na\nto\nbeupe Tire Glipafab - 1\nO\npht2\n3 Tab nce plos\norobetes\nanr\n21212\n4N0O a\nOtb Azinac\nCA\ng01\noloto\n76\n0P-12019\nCAY\n3 m0 clowig\n25\np1P\n08 . %\n20 eeles\n16\nTH\n379 feczds\nCRTEI RmEe ET PeR - amde et\nA mips mt E 21 - PTR aPrirE\n\u00e0 E - CSM eut -\na",
+  "ocr_text_length": 293,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.25,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "medications"
+    ],
+    "quality_score": 0.476472,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

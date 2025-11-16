@@ -1,0 +1,354 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_f8db134ae1834fb4b4bafe0bad718deb",
+    "success": true
+  },
+  "document_id": "doc_36ed83e4c7d04d9a8a272aba23797c38",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": "unnare",
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "Mostofar Zamant\nDulmue - OUMPL ATATHL\nDoctor\nunnare\nHozon\nAUR \"YES Dae\nokado\n2ern\nTot\nFOFD\n22\nYe\nDektaic Pay\n00p\nDot 309)\n78\nTel\nmethigie\ntospwy\nDHP .\n2847\nMO Tub Tivol\nSFOHO\netoma l\n0 tib\n0.5 A\notot\n*\nveato\n10\notote\nTake Natho\nDHO\n9\nDe kalcosal-c 76\nHI\n1201 wwvcs\nNaas X\naun HeTY (mi aliin\nAH TTE Amh A PUTE  an 3\nBRII - E\n### Response\nMostofar Zamant\nDulmue - OUMPL ATATHL\nDoctor\nunnare\nHozon\nAUR \"YES Dae\nokado\n2ern\nTot\nFOFD\n22\nYe\nDektaic Pay\n00p\nDot 3e9)\n78\nTel\nmethigie\ntospwy\nDHP .\n2847\nMO Tub Tivol\nSFOHO\netoma l\n0 tib\n0.5 A\notot\n*\nveato\n10\notote\nTake Natho\nDHO\n9\nDe kalcosal-c 76\nHI\n1201 wwvcs\nNaas X\naun HeTY (mi aliin\nAH TTE Amh A PUTE  an 3\nBRII - E"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": "unnare",
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "Mostofar Zamant\nDulmue - OUMPL ATATHL\nDoctor\nunnare\nHozon\nAUR \"YES Dae\nokado\n2ern\nTot\nFOFD\n22\nYe\nDektaic Pay\n00p\nDot 309)\n78\nTel\nmethigie\ntospwy\nDHP .\n2847\nMO Tub Tivol\nSFOHO\netoma l\n0 tib\n0.5 A\notot\n*\nveato\n10\notote\nTake Natho\nDHO\n9\nDe kalcosal-c 76\nHI\n1201 wwvcs\nNaas X\naun HeTY (mi aliin\nAH TTE Amh A PUTE  an 3\nBRII - E\n### Response\nMostofar Zamant\nDulmue - OUMPL ATATHL\nDoctor\nunnare\nHozon\nAUR \"YES Dae\nokado\n2ern\nTot\nFOFD\n22\nYe\nDektaic Pay\n00p\nDot 3e9)\n78\nTel\nmethigie\ntospwy\nDHP .\n2847\nMO Tub Tivol\nSFOHO\netoma l\n0 tib\n0.5 A\notot\n*\nveato\n10\notote\nTake Natho\nDHO\n9\nDe kalcosal-c 76\nHI\n1201 wwvcs\nNaas X\naun HeTY (mi aliin\nAH TTE Amh A PUTE  an 3\nBRII - E"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T08:35:52.240446Z",
+    "total_text_regions": 51
+  },
+  "ocr_confidence": 0.449004,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.5767327547073364,
+        "text": "Mostofar Zamant"
+      },
+      {
+        "confidence": 0.34829361364245415,
+        "text": "Diulmue - OUMPL ATATHL"
+      },
+      {
+        "confidence": 0.6283724308013916,
+        "text": "Doctor"
+      },
+      {
+        "confidence": 0.6488860845565796,
+        "text": "- - -"
+      },
+      {
+        "confidence": 0.2559927999973297,
+        "text": "unna"
+      },
+      {
+        "confidence": 0.47764818370342255,
+        "text": "et -"
+      },
+      {
+        "confidence": 0.4294819235801697,
+        "text": ""
+      },
+      {
+        "confidence": 0.4179432690143585,
+        "text": "-"
+      },
+      {
+        "confidence": 0.7809725403785706,
+        "text": "-"
+      },
+      {
+        "confidence": 0.2203039526939392,
+        "text": "nere"
+      },
+      {
+        "confidence": 0.2600468099117279,
+        "text": "Hozon"
+      },
+      {
+        "confidence": 0.4734289000431697,
+        "text": "AUR \"YES Dae"
+      },
+      {
+        "confidence": 0.4063017666339874,
+        "text": "okado"
+      },
+      {
+        "confidence": 0.19897983968257904,
+        "text": "2ern"
+      },
+      {
+        "confidence": 0.48015937209129333,
+        "text": "Tot"
+      },
+      {
+        "confidence": 0.38445544242858887,
+        "text": "FOFD"
+      },
+      {
+        "confidence": 0.4832000434398651,
+        "text": "22"
+      },
+      {
+        "confidence": 0.5916689038276672,
+        "text": "Ye"
+      },
+      {
+        "confidence": 0.3914276212453842,
+        "text": "Dektaic Pay"
+      },
+      {
+        "confidence": 0.18057668209075928,
+        "text": "00p"
+      },
+      {
+        "confidence": 0.31644588708877563,
+        "text": "Dot 309)"
+      },
+      {
+        "confidence": 0.17132645845413208,
+        "text": "78"
+      },
+      {
+        "confidence": 0.42667505145072937,
+        "text": "Tel"
+      },
+      {
+        "confidence": 0.40765705704689026,
+        "text": "methigie"
+      },
+      {
+        "confidence": 0.3100113272666931,
+        "text": "tospwy"
+      },
+      {
+        "confidence": 0.7263445854187012,
+        "text": ""
+      },
+      {
+        "confidence": 0.49185575544834137,
+        "text": "DHP ."
+      },
+      {
+        "confidence": 0.39672067761421204,
+        "text": "2847"
+      },
+      {
+        "confidence": 0.5838658213615417,
+        "text": "MO Tub Tivol"
+      },
+      {
+        "confidence": 0.31394264101982117,
+        "text": "SFOHO"
+      },
+      {
+        "confidence": 0.591951310634613,
+        "text": ""
+      },
+      {
+        "confidence": 0.726006269454956,
+        "text": "etoma l"
+      },
+      {
+        "confidence": 0.5540936589241028,
+        "text": "0 tib"
+      },
+      {
+        "confidence": 0.6459854543209076,
+        "text": "0.5 A"
+      },
+      {
+        "confidence": 0.4441569149494171,
+        "text": "otot"
+      },
+      {
+        "confidence": 0.2922433614730835,
+        "text": "-"
+      },
+      {
+        "confidence": 0.40148448944091797,
+        "text": "*"
+      },
+      {
+        "confidence": 0.6622709035873413,
+        "text": "veato"
+      },
+      {
+        "confidence": 0.280265748500824,
+        "text": "10"
+      },
+      {
+        "confidence": 0.4580284655094147,
+        "text": "otote"
+      },
+      {
+        "confidence": 0.34559255093336105,
+        "text": "Take Natho"
+      },
+      {
+        "confidence": 0.506462812423706,
+        "text": "DHO"
+      },
+      {
+        "confidence": 0.6522001624107361,
+        "text": "9"
+      },
+      {
+        "confidence": 0.47125040491422016,
+        "text": "De kalcosal-c 76"
+      },
+      {
+        "confidence": 0.5347219109535217,
+        "text": "HI"
+      },
+      {
+        "confidence": 0.29959794133901596,
+        "text": "1201 wwvcs"
+      },
+      {
+        "confidence": 0.5199612379074097,
+        "text": "Naas X"
+      },
+      {
+        "confidence": 0.3163510486483574,
+        "text": "aun HeTY (mi aliin"
+      },
+      {
+        "confidence": 0.5879745483398438,
+        "text": "-"
+      },
+      {
+        "confidence": 0.4753001481294632,
+        "text": "AH TTE Amh A PUTE  an 3"
+      },
+      {
+        "confidence": 0.35356828570365906,
+        "text": "BRII - E"
+      }
+    ]
+  },
+  "ocr_text": "Mostofar Zamant\nDiulmue - OUMPL ATATHL\nDoctor\n- - -\nunna\net -\n\n-\n-\nnere\nHozon\nAUR \"YES Dae\nokado\n2ern\nTot\nFOFD\n22\nYe\nDektaic Pay\n00p\nDot 309)\n78\nTel\nmethigie\ntospwy\n\nDHP .\n2847\nMO Tub Tivol\nSFOHO\n\netoma l\n0 tib\n0.5 A\notot\n-\n*\nveato\n10\notote\nTake Natho\nDHO\n9\nDe kalcosal-c 76\nHI\n1201 wwvcs\nNaas X\naun HeTY (mi aliin\n-\nAH TTE Amh A PUTE  an 3\nBRII - E",
+  "ocr_text_length": 349,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.25,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "medications"
+    ],
+    "quality_score": 0.449004,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

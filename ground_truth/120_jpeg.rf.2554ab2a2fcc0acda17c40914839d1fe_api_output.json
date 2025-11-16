@@ -1,0 +1,282 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_c106a58b0c3c4abd854634d1085ab372",
+    "success": true
+  },
+  "document_id": "doc_98331b5e39c5415e96b7974fa0b36108",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": "of Medicine Billal Hosband",
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "Doctor of Medicine Billal Hosband\nA\nE\na\nau rgng . - -\nliau\nRe\nom\noTablet.Alnet\n>n\nD-t\nen\nGrabbepomed\ncom\nOb Sidae\nor\ntot>\nA PC -\nGmb myesovr\n2\n+\nQo Conaleal\no-t2-t0\n3om\nOGP DeThe,\nDtot -\nom Xi\nA\nE\nau Rgng . - -\nliau\nRe\noTablet.Alnet\n>n\nD-t\nen\nGrabbepomed\ncom\nOb Sidae\nor\ntot>\nA PC -\nGmb myesovr\n2\n+\nQo Conaleal\no-t2-t0\n3om\nOGP DeThe,\nDtot -\nom Xi"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": "of Medicine Billal Hosband",
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "Doctor of Medicine Billal Hosband\nA\nE\na\nau rgng . - -\nliau\nRe\nom\noTablet.Alnet\n>n\nD-t\nen\nGrabbepomed\ncom\nOb Sidae\nor\ntot>\nA PC -\nGmb myesovr\n2\n+\nQo Conaleal\no-t2-t0\n3om\nOGP DeThe,\nDtot -\nom Xi\nA\nE\nau Rgng . - -\nliau\nRe\noTablet.Alnet\n>n\nD-t\nen\nGrabbepomed\ncom\nOb Sidae\nor\ntot>\nA PC -\nGmb myesovr\n2\n+\nQo Conaleal\no-t2-t0\n3om\nOGP DeThe,\nDtot -\nom Xi"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T08:45:03.646220Z",
+    "total_text_regions": 33
+  },
+  "ocr_confidence": 0.554997,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.5132561698555946,
+        "text": "e -"
+      },
+      {
+        "confidence": 0.7743585556745529,
+        "text": "Doctor MD BILLAL HOSBAIN"
+      },
+      {
+        "confidence": 0.5872629880905151,
+        "text": "-"
+      },
+      {
+        "confidence": 0.6287409663200378,
+        "text": "a e"
+      },
+      {
+        "confidence": 0.26680418848991394,
+        "text": "E"
+      },
+      {
+        "confidence": 0.6272539496421814,
+        "text": "- a"
+      },
+      {
+        "confidence": 0.5871469140052795,
+        "text": "au rgng . - -"
+      },
+      {
+        "confidence": 0.5902397036552429,
+        "text": ""
+      },
+      {
+        "confidence": 0.9496506452560425,
+        "text": "-"
+      },
+      {
+        "confidence": 0.8436102271080017,
+        "text": "liau"
+      },
+      {
+        "confidence": 0.9120116233825684,
+        "text": "Re"
+      },
+      {
+        "confidence": 0.8279553651809692,
+        "text": "om"
+      },
+      {
+        "confidence": 0.2530212998390198,
+        "text": "oTab.Alnet"
+      },
+      {
+        "confidence": 0.281199187040329,
+        "text": ">n"
+      },
+      {
+        "confidence": 0.29748278856277466,
+        "text": "D-t"
+      },
+      {
+        "confidence": 0.5614826679229736,
+        "text": "en"
+      },
+      {
+        "confidence": 0.5220111608505249,
+        "text": "Grabbepomed"
+      },
+      {
+        "confidence": 0.24276304244995117,
+        "text": ""
+      },
+      {
+        "confidence": 0.9463934302330017,
+        "text": "com"
+      },
+      {
+        "confidence": 0.3866201937198639,
+        "text": "Ob Sidae"
+      },
+      {
+        "confidence": 0.8385725021362305,
+        "text": "or"
+      },
+      {
+        "confidence": 0.6377601623535156,
+        "text": "tot>"
+      },
+      {
+        "confidence": 0.3550839424133301,
+        "text": "A PC -"
+      },
+      {
+        "confidence": 0.4044523239135742,
+        "text": "Gmb myesovr"
+      },
+      {
+        "confidence": 0.40576767921447754,
+        "text": "2"
+      },
+      {
+        "confidence": 0.708756148815155,
+        "text": "+"
+      },
+      {
+        "confidence": 0.4802725911140442,
+        "text": "-"
+      },
+      {
+        "confidence": 0.7211930751800537,
+        "text": "Qo Conaleal"
+      },
+      {
+        "confidence": 0.43318086862564087,
+        "text": "o-t2-t0"
+      },
+      {
+        "confidence": 0.4863203465938568,
+        "text": "3om"
+      },
+      {
+        "confidence": 0.41024544835090637,
+        "text": "OGP DeThe,"
+      },
+      {
+        "confidence": 0.3169170543551445,
+        "text": "Dtot -"
+      },
+      {
+        "confidence": 0.517100602388382,
+        "text": "om Xi"
+      }
+    ]
+  },
+  "ocr_text": "e -\nDoctor MD BILLAL HOSBAIN\n-\na e\nE\n- a\nau rgng . - -\n\n-\nliau\nRe\nom\noTab.Alnet\n>n\nD-t\nen\nGrabbepomed\n\ncom\nOb Sidae\nor\ntot>\nA PC -\nGmb myesovr\n2\n+\n-\nQo Conaleal\no-t2-t0\n3om\nOGP DeThe,\nDtot -\nom Xi",
+  "ocr_text_length": 196,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.25,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "medications"
+    ],
+    "quality_score": 0.554997,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

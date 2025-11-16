@@ -1,0 +1,291 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_650467c9fb0544b28b04a7b5f47166f9",
+    "success": true
+  },
+  "document_id": "doc_ace75d4ad2494ad2a8551534b1b13527",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": null,
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "National Institute of Cardiovascular Diseases and Hospital\nShent-Bange Nag Thate 1217\nTREATMENT SHEET\n:\na\nE\neven\ni 294\na\na\nE E 1\nhour I\nNene\nE TA\nare -\na 1\nKEAL (e\nGmEb\nOwuinezAr e le\nblood pressure\n5\n\u00e0\n2025/9/4 1144\n### Response\nNational Institute of Cardiovascular Diseases and Hospital\nShent-Bange Nag Thate 1217\nTREATMENT SHEET\n:\na\nE\neven\ni 294\na\na\nE E 1\nhour I\nNene\nE TA\nare -\na 1\nKEAL (e\nGmEb\nOwuinezAr e le\nblood pressure\n5\n\u00e0\n2025/9/4 1144"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": null,
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "National Institute of Cardiovascular Diseases and Hospital\nShent-Bange Nag Thate 1217\nTREATMENT SHEET\n:\na\nE\neven\ni 294\na\na\nE E 1\nhour I\nNene\nE TA\nare -\na 1\nKEAL (e\nGmEb\nOwuinezAr e le\nblood pressure\n5\n\u00e0\n2025/9/4 1144\n### Response\nNational Institute of Cardiovascular Diseases and Hospital\nShent-Bange Nag Thate 1217\nTREATMENT SHEET\n:\na\nE\neven\ni 294\na\na\nE E 1\nhour I\nNene\nE TA\nare -\na 1\nKEAL (e\nGmEb\nOwuinezAr e le\nblood pressure\n5\n\u00e0\n2025/9/4 1144"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T08:30:47.950386Z",
+    "total_text_regions": 35
+  },
+  "ocr_confidence": 0.55551,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.5224181413650513,
+        "text": "institute"
+      },
+      {
+        "confidence": 0.8254591226577759,
+        "text": "of"
+      },
+      {
+        "confidence": 0.11708907783031464,
+        "text": "Kobhonoen"
+      },
+      {
+        "confidence": 0.12465690821409225,
+        "text": "Olcses"
+      },
+      {
+        "confidence": 0.734846123627254,
+        "text": "National Institute of Cardiovascutart Disesses & Hosgital"
+      },
+      {
+        "confidence": 0.4053499922156334,
+        "text": "Shent-Bange Nag Thate 1217"
+      },
+      {
+        "confidence": 0.997773677110672,
+        "text": "TREATMENT SHEET"
+      },
+      {
+        "confidence": 0.43265974521636963,
+        "text": ":"
+      },
+      {
+        "confidence": 0.6599682569503784,
+        "text": "a"
+      },
+      {
+        "confidence": 0.7790364623069763,
+        "text": "-"
+      },
+      {
+        "confidence": 0.5930330157279968,
+        "text": "E"
+      },
+      {
+        "confidence": 0.3736400604248047,
+        "text": "euen"
+      },
+      {
+        "confidence": 0.3472336232662201,
+        "text": "i 294"
+      },
+      {
+        "confidence": 0.30218327045440674,
+        "text": "a"
+      },
+      {
+        "confidence": 0.9045424461364746,
+        "text": "a"
+      },
+      {
+        "confidence": 0.7220025857289633,
+        "text": "E E 1"
+      },
+      {
+        "confidence": 0.7003908753395081,
+        "text": "-"
+      },
+      {
+        "confidence": 0.4754233658313751,
+        "text": "hoir Ime I"
+      },
+      {
+        "confidence": 0.4813378155231476,
+        "text": "-"
+      },
+      {
+        "confidence": 0.26659753918647766,
+        "text": "Nene"
+      },
+      {
+        "confidence": 0.9109647274017334,
+        "text": "-"
+      },
+      {
+        "confidence": 0.634427547454834,
+        "text": "E TA"
+      },
+      {
+        "confidence": 0.5150444805622101,
+        "text": "are -"
+      },
+      {
+        "confidence": 0.6194562464952469,
+        "text": "- E 115 w"
+      },
+      {
+        "confidence": 0.5598912239074707,
+        "text": "a 1"
+      },
+      {
+        "confidence": 0.8366826772689819,
+        "text": "-"
+      },
+      {
+        "confidence": 0.2613833397626877,
+        "text": "KEAL (e"
+      },
+      {
+        "confidence": 0.3953225612640381,
+        "text": "GmEb"
+      },
+      {
+        "confidence": 0.3708156645298004,
+        "text": "OwuinezAr e le"
+      },
+      {
+        "confidence": 0.4702525734901428,
+        "text": "-"
+      },
+      {
+        "confidence": 0.5010804682970047,
+        "text": "blhojn E"
+      },
+      {
+        "confidence": 0.7493868470191956,
+        "text": "5"
+      },
+      {
+        "confidence": 0.5891849994659424,
+        "text": "\u00e0"
+      },
+      {
+        "confidence": 0.6007112264633179,
+        "text": "-"
+      },
+      {
+        "confidence": 0.6626194417476654,
+        "text": "2025/9/4 1144"
+      }
+    ]
+  },
+  "ocr_text": "institute\nof\nKobhonoen\nOlcses\nNational Institute of Cardiovascutart Disesses & Hosgital\nShent-Bange Nag Thate 1217\nTREATMENT SHEET\n:\na\n-\nE\neuen\ni 294\na\na\nE E 1\n-\nhoir Ime I\n-\nNene\n-\nE TA\nare -\n- E 115 w\na 1\n-\nKEAL (e\nGmEb\nOwuinezAr e le\n-\nblhojn E\n5\n\u00e0\n-\n2025/9/4 1144",
+  "ocr_text_length": 267,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.0,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "prescriber.name",
+      "medications"
+    ],
+    "quality_score": 0.55551,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

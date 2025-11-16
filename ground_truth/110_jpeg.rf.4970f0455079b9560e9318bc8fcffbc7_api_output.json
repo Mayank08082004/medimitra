@@ -1,0 +1,235 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_a9ac0f22b4404876b9a5d9ffb9f1705e",
+    "success": true
+  },
+  "document_id": "doc_6b29243285fc49e7aef99651ae18f949",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": null,
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "Call all other\nto -\nNama\n/C\nmnd\n19 I\na\nAre:\nGB->Fusoclor (Bouma\nDrtot) RMS PUT\nGB Zestapoin lep\n2Ho43 R/O\nX-Lon (3081\nPune\nap-\n0+0+5 CROTH\nGp-s Xomic 500 -\n0to+2\n2 ry\nto -\nNama\n/C\nmnd\n19 I\na\nAre:\nGB->Fusoclor (Bouma\nDrtot) RMS PUT\nGB Zestapoin lep\n2Ho43 R/O\nX-Lon (3081\nPune\nap-\n0+0+5 CROTH\nGp-s Xomic 500 -\n0to+2\n2 ry"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": null,
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "Call all other\nto -\nNama\n/C\nmnd\n19 I\na\nAre:\nGB->Fusoclor (Bouma\nDrtot) RMS PUT\nGB Zestapoin lep\n2Ho43 R/O\nX-Lon (3081\nPune\nap-\n0+0+5 CROTH\nGp-s Xomic 500 -\n0to+2\n2 ry\nto -\nNama\n/C\nmnd\n19 I\na\nAre:\nGB->Fusoclor (Bouma\nDrtot) RMS PUT\nGB Zestapoin lep\n2Ho43 R/O\nX-Lon (3081\nPune\nap-\n0+0+5 CROTH\nGp-s Xomic 500 -\n0to+2\n2 ry"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T09:08:24.212299Z",
+    "total_text_regions": 21
+  },
+  "ocr_confidence": 0.507453,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.33343662818272907,
+        "text": "CEFGVG: CallS allente"
+      },
+      {
+        "confidence": 0.4128657877445221,
+        "text": "\u00e0 o -"
+      },
+      {
+        "confidence": 0.5366940796375275,
+        "text": "-61 L"
+      },
+      {
+        "confidence": 0.6757441163063049,
+        "text": "Nama"
+      },
+      {
+        "confidence": 0.4965466260910034,
+        "text": "/C"
+      },
+      {
+        "confidence": 0.5994784235954285,
+        "text": "mnd"
+      },
+      {
+        "confidence": 0.7969742119312286,
+        "text": "19 I"
+      },
+      {
+        "confidence": 0.7849856615066528,
+        "text": "a"
+      },
+      {
+        "confidence": 0.28334853053092957,
+        "text": "ArE:"
+      },
+      {
+        "confidence": 0.4363301247358322,
+        "text": "Gb->Fusoclor (Bouma"
+      },
+      {
+        "confidence": 0.368961105744044,
+        "text": "Drtot) RMS PUT"
+      },
+      {
+        "confidence": 0.25541838506857556,
+        "text": "Gb Zestapoin lep"
+      },
+      {
+        "confidence": 0.2940029799938202,
+        "text": "2Ho43 R/O"
+      },
+      {
+        "confidence": 0.5536927580833435,
+        "text": "X-Lon (3081"
+      },
+      {
+        "confidence": 0.5517147779464722,
+        "text": "PUNE"
+      },
+      {
+        "confidence": 0.3891984820365906,
+        "text": "ap-"
+      },
+      {
+        "confidence": 0.2091282680630684,
+        "text": "0+0+5 CROTH"
+      },
+      {
+        "confidence": 0.7095015719532967,
+        "text": "Gp-s Xomic 500 -"
+      },
+      {
+        "confidence": 0.8126500844955444,
+        "text": "0to+2"
+      },
+      {
+        "confidence": 0.5272084549069405,
+        "text": "2 ry"
+      },
+      {
+        "confidence": 0.6286249160766602,
+        "text": "- -"
+      }
+    ]
+  },
+  "ocr_text": "CEFGVG: CallS allente\n\u00e0 o -\n-61 L\nNama\n/C\nmnd\n19 I\na\nArE:\nGb->Fusoclor (Bouma\nDrtot) RMS PUT\nGb Zestapoin lep\n2Ho43 R/O\nX-Lon (3081\nPUNE\nap-\n0+0+5 CROTH\nGp-s Xomic 500 -\n0to+2\n2 ry\n- -",
+  "ocr_text_length": 184,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.0,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "prescriber.name",
+      "medications"
+    ],
+    "quality_score": 0.507453,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

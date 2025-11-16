@@ -1,0 +1,258 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_aa0bebc820cf45759db946d03675e7e7",
+    "success": true
+  },
+  "document_id": "doc_cae6649eb83d445f85b9d60326d4a29a",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": "Mostola -",
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "Doctor Mostola -\na 20VS -\n201\nandamct\nCAF\na\nthis zisra eye\n27-1\nmrethigie\n0 Tub:\n. a\nototo\n\u00e0\nsn9\nDestar\neyonp\n3ar9\nstot7\nCotpteret DRM\nTOTAD ottO AEp \u00e0\n.\n== response ==\nDoctor Mostola -\na 20VS -\n201\nandamct\nCAF\na\nthis zisra eye\n27-1\nmrethigie\n0 Tub:\n. a\nototo\n\u00e0\nsn9\nDestar\neyonp\n3ar9\nstot7\nCotpteret DRM\nTOTAD ottO AEp \u00e0"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": "Mostola -",
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "Doctor Mostola -\na 20VS -\n201\nandamct\nCAF\na\nthis zisra eye\n27-1\nmrethigie\n0 Tub:\n. a\nototo\n\u00e0\nsn9\nDestar\neyonp\n3ar9\nstot7\nCotpteret DRM\nTOTAD ottO AEp \u00e0\n.\n== response ==\nDoctor Mostola -\na 20VS -\n201\nandamct\nCAF\na\nthis zisra eye\n27-1\nmrethigie\n0 Tub:\n. a\nototo\n\u00e0\nsn9\nDestar\neyonp\n3ar9\nstot7\nCotpteret DRM\nTOTAD ottO AEp \u00e0"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T09:11:29.951643Z",
+    "total_text_regions": 27
+  },
+  "ocr_confidence": 0.460553,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.7274143695831299,
+        "text": ":"
+      },
+      {
+        "confidence": 0.5794434249401093,
+        "text": "Doctor Mostola -"
+      },
+      {
+        "confidence": 0.5258377889792124,
+        "text": "- / -"
+      },
+      {
+        "confidence": 0.5033174902200699,
+        "text": "a 20VS -"
+      },
+      {
+        "confidence": 0.2508196234703064,
+        "text": "201"
+      },
+      {
+        "confidence": 0.5057976841926575,
+        "text": "ndamct"
+      },
+      {
+        "confidence": 0.5899168252944946,
+        "text": "CAF"
+      },
+      {
+        "confidence": 0.6200335621833801,
+        "text": "a"
+      },
+      {
+        "confidence": 0.35673773288726807,
+        "text": ""
+      },
+      {
+        "confidence": 0.28985080122947693,
+        "text": "zisra eyne"
+      },
+      {
+        "confidence": 0.3206653296947479,
+        "text": "27-1"
+      },
+      {
+        "confidence": 0.33264243602752686,
+        "text": "mrethigie"
+      },
+      {
+        "confidence": 0.6059150993824005,
+        "text": "0 Tub:"
+      },
+      {
+        "confidence": 0.4662194699048996,
+        "text": ". a"
+      },
+      {
+        "confidence": 0.29334309697151184,
+        "text": "ototo"
+      },
+      {
+        "confidence": 0.56681889295578,
+        "text": "\u00e0"
+      },
+      {
+        "confidence": 0.22002412378787994,
+        "text": "sn9"
+      },
+      {
+        "confidence": 0.25680339336395264,
+        "text": ""
+      },
+      {
+        "confidence": 0.521613597869873,
+        "text": "Destar"
+      },
+      {
+        "confidence": 0.24135759472846985,
+        "text": "eyonp"
+      },
+      {
+        "confidence": 0.4146064817905426,
+        "text": "3ar9"
+      },
+      {
+        "confidence": 0.32820606231689453,
+        "text": "stot7"
+      },
+      {
+        "confidence": 0.36261990666389465,
+        "text": "Cotpteret DRM"
+      },
+      {
+        "confidence": 0.3755350857973099,
+        "text": "TOTAD ottO AEp \u00e0"
+      },
+      {
+        "confidence": 0.3299367427825928,
+        "text": "-"
+      },
+      {
+        "confidence": 0.9174655675888062,
+        "text": ""
+      },
+      {
+        "confidence": 0.9319807887077332,
+        "text": "."
+      }
+    ]
+  },
+  "ocr_text": ":\nDoctor Mostola -\n- / -\na 20VS -\n201\nndamct\nCAF\na\n\nzisra eyne\n27-1\nmrethigie\n0 Tub:\n. a\nototo\n\u00e0\nsn9\n\nDestar\neyonp\n3ar9\nstot7\nCotpteret DRM\nTOTAD ottO AEp \u00e0\n-\n\n.",
+  "ocr_text_length": 161,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.25,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "medications"
+    ],
+    "quality_score": 0.460553,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

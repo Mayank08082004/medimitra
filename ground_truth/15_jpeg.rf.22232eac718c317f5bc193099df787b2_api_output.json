@@ -1,0 +1,386 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": "images",
+    "record_id": "rec_929103c9e60c4bd59a7bad5cfeab5ddf",
+    "success": true
+  },
+  "document_id": "doc_b12aaf64f2b242e08f868fdc36efb4dd",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [
+        "on their audience."
+      ],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [
+      {
+        "confidence": 0.85,
+        "dosage": null,
+        "duration": null,
+        "form": null,
+        "frequency": null,
+        "instructions": "Unit: U -",
+        "name": "Unit",
+        "quantity": null,
+        "refills": null,
+        "route": null,
+        "strength": null
+      },
+      {
+        "confidence": 0.85,
+        "dosage": null,
+        "duration": null,
+        "form": null,
+        "frequency": null,
+        "instructions": "Agaromprtas Igil 60 AA wa IM W WAT MA 201 AACHI \u00e0 ARE CURT",
+        "name": "Agaromprtas",
+        "quantity": null,
+        "refills": null,
+        "route": "im",
+        "strength": null
+      },
+      {
+        "confidence": 0.85,
+        "dosage": null,
+        "duration": null,
+        "form": null,
+        "frequency": null,
+        "instructions": "Unit: U -",
+        "name": "Unit",
+        "quantity": null,
+        "refills": null,
+        "route": null,
+        "strength": null
+      },
+      {
+        "confidence": 0.85,
+        "dosage": null,
+        "duration": null,
+        "form": null,
+        "frequency": null,
+        "instructions": "Agaromprtas Igil 60 AA wa IM W WAT MA 201 AACHI \u00e0 ARE CURT",
+        "name": "Agaromprtas",
+        "quantity": null,
+        "refills": null,
+        "route": "im",
+        "strength": null
+      }
+    ],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": "images",
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": "are ap",
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "Date: 05/11\nBreathing exercises\nClass: CMTE PE 1 FRIPT ATEFRI\nUnit: U -\nContent: Cuptutat\nLevel: Money L\nEducation: MA\nSubject: A\nA6B Trenor\nAgaromprtas Igil 60 AA wa IM W WAT MA 201 AACHI \u00e0 ARE CURT\n07/15\nOn\nSubject: A\nBreathing exercises\nClass: CMTE PE 1 FRIPT ATEFRI\nUnit: U -\nContent: Cuptutat\nLevel: Money L\nSubject: A\nA6B Trenor\nAgaromprtas Igil 60 AA wa IM W WAT MA 201 AACHI \u00e0 ARE CURT\n07/15\nOn\nSubject: A\n(Note: The cleaned text retains the original formatting and structure, correcting only the OCR errors that are apparent.)\nExplanation:\n# Answer\nThe purpose of using metaphors in writing is multifaceted. Metaphors are a figure of speech that compare two unrelated things by stating that one is the other, often to highlight some form of similarity between the two. They serve several key functions in literature and communication:\n1. **Enhance Imagery**: Metaphors create vivid images in the reader's mind, making descriptions more engaging and memorable. By comparing something unfamiliar to something familiar, metaphors help readers visualize concepts and ideas more clearly.\n2. **Convey Complexity**: Metaphors can encapsulate complex ideas or emotions in a simple, relatable way. They allow writers to express abstract or intricate concepts in a manner that is accessible and understandable to the reader.\n3. **Evoke Emotions**: Metaphors can evoke emotions and create a deeper emotional connection between the reader and the text. By linking the subject matter to emotions or experiences that readers can relate to, metaphors can make the text more impactful and resonant.\n4. **Reinforce Themes**: Metaphors can reinforce the themes and messages of a text. By consistently using metaphors that align with the central ideas of a work, writers can subtly emphasize these themes and encourage readers to think more deeply about them.\n5. **Add Depth and Layers**: Metaphors add layers of meaning to a text, allowing for multiple interpretations. This depth can enrich the reading experience, as readers may uncover new insights or perspectives with each reading.\n6. **Engage the Reader**: Metaphors can make the reading experience more engaging by challenging readers to think critically and interpret the text. This active engagement can make the reading experience more enjoyable and intellectually stimulating.\n7. **Enhance Creativity**: The use of metaphors showcases the writer's creativity and linguistic skill. It demonstrates the writer's ability to think outside the box and to find unique ways to express ideas.\nIn summary, metaphors enhance a reader's understanding of a text by making abstract concepts more tangible, evoking emotions, reinforcing themes, adding depth, and engaging the reader in a more profound and creative exploration of the text. Through metaphors, writers can communicate more effectively and leave a lasting impression on their audience."
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [
+            "on their audience."
+          ],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [
+          {
+            "confidence": 0.85,
+            "dosage": null,
+            "duration": null,
+            "form": null,
+            "frequency": null,
+            "instructions": "Unit: U -",
+            "name": "Unit",
+            "quantity": null,
+            "refills": null,
+            "route": null,
+            "strength": null
+          },
+          {
+            "confidence": 0.85,
+            "dosage": null,
+            "duration": null,
+            "form": null,
+            "frequency": null,
+            "instructions": "Agaromprtas Igil 60 AA wa IM W WAT MA 201 AACHI \u00e0 ARE CURT",
+            "name": "Agaromprtas",
+            "quantity": null,
+            "refills": null,
+            "route": "im",
+            "strength": null
+          },
+          {
+            "confidence": 0.85,
+            "dosage": null,
+            "duration": null,
+            "form": null,
+            "frequency": null,
+            "instructions": "Unit: U -",
+            "name": "Unit",
+            "quantity": null,
+            "refills": null,
+            "route": null,
+            "strength": null
+          },
+          {
+            "confidence": 0.85,
+            "dosage": null,
+            "duration": null,
+            "form": null,
+            "frequency": null,
+            "instructions": "Agaromprtas Igil 60 AA wa IM W WAT MA 201 AACHI \u00e0 ARE CURT",
+            "name": "Agaromprtas",
+            "quantity": null,
+            "refills": null,
+            "route": "im",
+            "strength": null
+          }
+        ],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": "images",
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": "are ap",
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "Date: 05/11\nBreathing exercises\nClass: CMTE PE 1 FRIPT ATEFRI\nUnit: U -\nContent: Cuptutat\nLevel: Money L\nEducation: MA\nSubject: A\nA6B Trenor\nAgaromprtas Igil 60 AA wa IM W WAT MA 201 AACHI \u00e0 ARE CURT\n07/15\nOn\nSubject: A\nBreathing exercises\nClass: CMTE PE 1 FRIPT ATEFRI\nUnit: U -\nContent: Cuptutat\nLevel: Money L\nSubject: A\nA6B Trenor\nAgaromprtas Igil 60 AA wa IM W WAT MA 201 AACHI \u00e0 ARE CURT\n07/15\nOn\nSubject: A\n(Note: The cleaned text retains the original formatting and structure, correcting only the OCR errors that are apparent.)\nExplanation:\n# Answer\nThe purpose of using metaphors in writing is multifaceted. Metaphors are a figure of speech that compare two unrelated things by stating that one is the other, often to highlight some form of similarity between the two. They serve several key functions in literature and communication:\n1. **Enhance Imagery**: Metaphors create vivid images in the reader's mind, making descriptions more engaging and memorable. By comparing something unfamiliar to something familiar, metaphors help readers visualize concepts and ideas more clearly.\n2. **Convey Complexity**: Metaphors can encapsulate complex ideas or emotions in a simple, relatable way. They allow writers to express abstract or intricate concepts in a manner that is accessible and understandable to the reader.\n3. **Evoke Emotions**: Metaphors can evoke emotions and create a deeper emotional connection between the reader and the text. By linking the subject matter to emotions or experiences that readers can relate to, metaphors can make the text more impactful and resonant.\n4. **Reinforce Themes**: Metaphors can reinforce the themes and messages of a text. By consistently using metaphors that align with the central ideas of a work, writers can subtly emphasize these themes and encourage readers to think more deeply about them.\n5. **Add Depth and Layers**: Metaphors add layers of meaning to a text, allowing for multiple interpretations. This depth can enrich the reading experience, as readers may uncover new insights or perspectives with each reading.\n6. **Engage the Reader**: Metaphors can make the reading experience more engaging by challenging readers to think critically and interpret the text. This active engagement can make the reading experience more enjoyable and intellectually stimulating.\n7. **Enhance Creativity**: The use of metaphors showcases the writer's creativity and linguistic skill. It demonstrates the writer's ability to think outside the box and to find unique ways to express ideas.\nIn summary, metaphors enhance a reader's understanding of a text by making abstract concepts more tangible, evoking emotions, reinforcing themes, adding depth, and engaging the reader in a more profound and creative exploration of the text. Through metaphors, writers can communicate more effectively and leave a lasting impression on their audience."
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T09:09:51.744778Z",
+    "total_text_regions": 32
+  },
+  "ocr_confidence": 0.496019,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.5880066603422165,
+        "text": "0591 :"
+      },
+      {
+        "confidence": 0.5440937504172325,
+        "text": "DE A6\"IP 1 o"
+      },
+      {
+        "confidence": 0.3548627197742462,
+        "text": "BREHER"
+      },
+      {
+        "confidence": 0.38974808156490326,
+        "text": "coet CMTE PE 1 FRIPT ATEFRI"
+      },
+      {
+        "confidence": 0.21915659308433533,
+        "text": "U -"
+      },
+      {
+        "confidence": 0.40963441133499146,
+        "text": "CUPTUTAT"
+      },
+      {
+        "confidence": 0.3299586698412895,
+        "text": "-  mone L"
+      },
+      {
+        "confidence": 0.2727767874797185,
+        "text": "Eit MM a"
+      },
+      {
+        "confidence": 0.5446603372693062,
+        "text": "E "
+      },
+      {
+        "confidence": 0.5735560357570648,
+        "text": "- a"
+      },
+      {
+        "confidence": 0.8651691973209381,
+        "text": "- ."
+      },
+      {
+        "confidence": 0.4551256150007248,
+        "text": "a 50"
+      },
+      {
+        "confidence": 0.5207701325416565,
+        "text": "0715"
+      },
+      {
+        "confidence": 0.2971099019050598,
+        "text": "Sot"
+      },
+      {
+        "confidence": 0.5774065554141998,
+        "text": "\u00e0 ON"
+      },
+      {
+        "confidence": 0.7767486572265625,
+        "text": "I"
+      },
+      {
+        "confidence": 0.9325298070907593,
+        "text": "Resaf"
+      },
+      {
+        "confidence": 0.41765727698802946,
+        "text": "20 A GY2 2YP UO"
+      },
+      {
+        "confidence": 0.5132324993610382,
+        "text": "- a"
+      },
+      {
+        "confidence": 0.6244499385356903,
+        "text": "Pexo +"
+      },
+      {
+        "confidence": 0.9420657753944397,
+        "text": "SYP"
+      },
+      {
+        "confidence": 0.3315540552139282,
+        "text": "-"
+      },
+      {
+        "confidence": 0.44259151816368103,
+        "text": "2MA"
+      },
+      {
+        "confidence": 0.1317247897386551,
+        "text": "o"
+      },
+      {
+        "confidence": 0.3106846809387207,
+        "text": "- HAG"
+      },
+      {
+        "confidence": 0.7969812154769897,
+        "text": "\u00e0"
+      },
+      {
+        "confidence": 0.39634379744529724,
+        "text": "\u00e0"
+      },
+      {
+        "confidence": 0.8145840764045715,
+        "text": "-"
+      },
+      {
+        "confidence": 0.5692790746688843,
+        "text": "A"
+      },
+      {
+        "confidence": 0.3626731038093567,
+        "text": "A6B"
+      },
+      {
+        "confidence": 0.22854900360107422,
+        "text": "Trenor"
+      },
+      {
+        "confidence": 0.33891852758824825,
+        "text": "agaromprtas Igil 60  AA wa IM W WAT MA 201 AACHI \u00e0 ARE CURT Ri"
+      }
+    ]
+  },
+  "ocr_text": "0591 :\nDE A6\"IP 1 o\nBREHER\ncoet CMTE PE 1 FRIPT ATEFRI\nU -\nCUPTUTAT\n-  mone L\nEit MM a\nE \n- a\n- .\na 50\n0715\nSot\n\u00e0 ON\nI\nResaf\n20 A GY2 2YP UO\n- a\nPexo +\nSYP\n-\n2MA\no\n- HAG\n\u00e0\n\u00e0\n-\nA\nA6B\nTrenor\nagaromprtas Igil 60  AA wa IM W WAT MA 201 AACHI \u00e0 ARE CURT Ri",
+  "ocr_text_length": 251,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.75,
+    "missing_critical_fields": [
+      "patient.name"
+    ],
+    "quality_score": 0.496019,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

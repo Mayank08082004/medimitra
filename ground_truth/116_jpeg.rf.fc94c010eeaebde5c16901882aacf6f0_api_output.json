@@ -1,0 +1,303 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_6a6ca571bfe24e6c91e2ec01b7e1e512",
+    "success": true
+  },
+  "document_id": "doc_8ce00eb3ba994e07a3d4e1a3237431a9",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": null,
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "Mostafa Zaman\nDecton\n1 A or\nTud Flohoway\n40r\n4e a\n5\no12)0\nPAV\na Ta Bllasfin!\nNofol\notot 2oMg\nP8W\ncospef\ndamg-snan\n#o\n9 rb\n26\nwowespSay\nse\nalte 6/N\n200 267 ans 14\nSV\nCUp Rebepsa)\n2t0h love\nSilstos\nLyfed\n9oV\n6 34P\n20440X2-0e\nLa E a inee 4\nAuotre\nDecton\n1 A or\nTud Flohoway\n40r\n4e a\n5\no12)0\nPAV\na Ta Bllasfin!\nNofol\notot 2oMg\nP8W\ncospef\ndamg-snan\n#o\n9 rb\n26\nwowespSay\nse\nalte 6/N\n200 267 ans 14\nSV\nCUp Rebepsa)\n2t0h love\nSilstos\nLyfed\n9oV\n6 34P\n20440X2-04\nLa E a inee 4\nAuotre"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": null,
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "Mostafa Zaman\nDecton\n1 A or\nTud Flohoway\n40r\n4e a\n5\no12)0\nPAV\na Ta Bllasfin!\nNofol\notot 2oMg\nP8W\ncospef\ndamg-snan\n#o\n9 rb\n26\nwowespSay\nse\nalte 6/N\n200 267 ans 14\nSV\nCUp Rebepsa)\n2t0h love\nSilstos\nLyfed\n9oV\n6 34P\n20440X2-0e\nLa E a inee 4\nAuotre\nDecton\n1 A or\nTud Flohoway\n40r\n4e a\n5\no12)0\nPAV\na Ta Bllasfin!\nNofol\notot 2oMg\nP8W\ncospef\ndamg-snan\n#o\n9 rb\n26\nwowespSay\nse\nalte 6/N\n200 267 ans 14\nSV\nCUp Rebepsa)\n2t0h love\nSilstos\nLyfed\n9oV\n6 34P\n20440X2-04\nLa E a inee 4\nAuotre"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T08:54:45.232773Z",
+    "total_text_regions": 38
+  },
+  "ocr_confidence": 0.470124,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.3116280660033226,
+        "text": "MIHT - CHIPPT ATNTT"
+      },
+      {
+        "confidence": 0.5766297976175944,
+        "text": "Decton Mostafa Zaman"
+      },
+      {
+        "confidence": 0.6485301752885183,
+        "text": "= \u00e0 ."
+      },
+      {
+        "confidence": 0.5772703886032104,
+        "text": "-"
+      },
+      {
+        "confidence": 0.5723668932914734,
+        "text": "- -"
+      },
+      {
+        "confidence": 0.23909397423267365,
+        "text": "shapwin"
+      },
+      {
+        "confidence": 0.3722984492778778,
+        "text": "1 A or"
+      },
+      {
+        "confidence": 0.5378807385762533,
+        "text": "Tud Flohoway PRN"
+      },
+      {
+        "confidence": 0.6417031288146973,
+        "text": "40r"
+      },
+      {
+        "confidence": 0.258285790681839,
+        "text": "4e a"
+      },
+      {
+        "confidence": 0.5666294693946838,
+        "text": "5"
+      },
+      {
+        "confidence": 0.6259270310401917,
+        "text": "o12)0"
+      },
+      {
+        "confidence": 0.75389564037323,
+        "text": "PAV"
+      },
+      {
+        "confidence": 0.7371318340301514,
+        "text": "5o -"
+      },
+      {
+        "confidence": 0.264838049809138,
+        "text": "a Ta Bllasfin!"
+      },
+      {
+        "confidence": 0.3708965480327606,
+        "text": "Nofol"
+      },
+      {
+        "confidence": 0.39162853360176086,
+        "text": "otot 2oMg"
+      },
+      {
+        "confidence": 0.21814672648906708,
+        "text": "P8W"
+      },
+      {
+        "confidence": 0.26073938608169556,
+        "text": "cospef"
+      },
+      {
+        "confidence": 0.2111690193414688,
+        "text": "damg-snan"
+      },
+      {
+        "confidence": 0.25929903984069824,
+        "text": "#o"
+      },
+      {
+        "confidence": 0.4581306576728821,
+        "text": "9 rb"
+      },
+      {
+        "confidence": 0.8886330723762512,
+        "text": "-"
+      },
+      {
+        "confidence": 0.4921252131462097,
+        "text": "26"
+      },
+      {
+        "confidence": 0.5949066281318665,
+        "text": "wowespSay"
+      },
+      {
+        "confidence": 0.6461199522018433,
+        "text": "se"
+      },
+      {
+        "confidence": 0.5104036331176758,
+        "text": "alte 6/N"
+      },
+      {
+        "confidence": 0.43487701565027237,
+        "text": "200 267 ans 14"
+      },
+      {
+        "confidence": 0.4703652560710907,
+        "text": "SV"
+      },
+      {
+        "confidence": 0.2864951863884926,
+        "text": "CUp Rebepsa)"
+      },
+      {
+        "confidence": 0.47569525241851807,
+        "text": "2t0h love"
+      },
+      {
+        "confidence": 0.7037649750709534,
+        "text": "Silstos"
+      },
+      {
+        "confidence": 0.7367246747016907,
+        "text": "Lyfed"
+      },
+      {
+        "confidence": 0.20797432959079742,
+        "text": "9oV"
+      },
+      {
+        "confidence": 0.4773668199777603,
+        "text": "6 34P"
+      },
+      {
+        "confidence": 0.34417596459388733,
+        "text": "20440X2-00"
+      },
+      {
+        "confidence": 0.5348118195931116,
+        "text": "- La E a inee 4"
+      },
+      {
+        "confidence": 0.20616962015628815,
+        "text": "Auotre"
+      }
+    ]
+  },
+  "ocr_text": "MIHT - CHIPPT ATNTT\nDecton Mostafa Zaman\n= \u00e0 .\n-\n- -\nshapwin\n1 A or\nTud Flohoway PRN\n40r\n4e a\n5\no12)0\nPAV\n5o -\na Ta Bllasfin!\nNofol\notot 2oMg\nP8W\ncospef\ndamg-snan\n#o\n9 rb\n-\n26\nwowespSay\nse\nalte 6/N\n200 267 ans 14\nSV\nCUp Rebepsa)\n2t0h love\nSilstos\nLyfed\n9oV\n6 34P\n20440X2-00\n- La E a inee 4\nAuotre",
+  "ocr_text_length": 296,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.0,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "prescriber.name",
+      "medications"
+    ],
+    "quality_score": 0.470124,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

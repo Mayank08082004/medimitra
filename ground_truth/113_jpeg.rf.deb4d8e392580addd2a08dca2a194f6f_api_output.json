@@ -1,0 +1,214 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_14c382dec26945a4af0877e4a7cf729c",
+    "success": true
+  },
+  "document_id": "doc_dff3b5a3279b4c6d8466be805b8cfa92",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": "hoto",
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "a\na V\na - a\n1+07>\n\u00e0\nKalca7\n2\n.\n%\n0 Tee TO - -\nhoto\nISPA\nTo\np\n# Answer: a\na V\n1+07>\nKalca7\n.\n%\n0 Tee TO - -\nhoto\nISPA\nTo\np"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": "hoto",
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "a\na V\na - a\n1+07>\n\u00e0\nKalca7\n2\n.\n%\n0 Tee TO - -\nhoto\nISPA\nTo\np\n# Answer: a\na V\n1+07>\nKalca7\n.\n%\n0 Tee TO - -\nhoto\nISPA\nTo\np"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T09:19:20.721155Z",
+    "total_text_regions": 16
+  },
+  "ocr_confidence": 0.501045,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.48510879278182983,
+        "text": "a"
+      },
+      {
+        "confidence": 0.7280296087265015,
+        "text": "- a"
+      },
+      {
+        "confidence": 0.423556923866272,
+        "text": "a V"
+      },
+      {
+        "confidence": 0.5693912903467814,
+        "text": "a - a"
+      },
+      {
+        "confidence": 0.3099382817745209,
+        "text": "1+07>"
+      },
+      {
+        "confidence": 0.35018396377563477,
+        "text": "\u00e0"
+      },
+      {
+        "confidence": 0.4196987450122833,
+        "text": "Kalca7"
+      },
+      {
+        "confidence": 0.8667221665382385,
+        "text": "2"
+      },
+      {
+        "confidence": 0.4359694719314575,
+        "text": "."
+      },
+      {
+        "confidence": 0.35018521547317505,
+        "text": "a"
+      },
+      {
+        "confidence": 0.962659478187561,
+        "text": "%"
+      },
+      {
+        "confidence": 0.5668384790420532,
+        "text": "0 Tee TO - -"
+      },
+      {
+        "confidence": 0.4774196445941925,
+        "text": "hoto"
+      },
+      {
+        "confidence": 0.4525005519390106,
+        "text": "ISPA"
+      },
+      {
+        "confidence": 0.2867203950881958,
+        "text": "To"
+      },
+      {
+        "confidence": 0.3317900002002716,
+        "text": "p"
+      }
+    ]
+  },
+  "ocr_text": "a\n- a\na V\na - a\n1+07>\n\u00e0\nKalca7\n2\n.\na\n%\n0 Tee TO - -\nhoto\nISPA\nTo\np",
+  "ocr_text_length": 66,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.25,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "medications"
+    ],
+    "quality_score": 0.501045,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

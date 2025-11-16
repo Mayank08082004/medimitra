@@ -1,0 +1,287 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_dbf01f79fe0444c0950e01a6e5c0795c",
+    "success": true
+  },
+  "document_id": "doc_36d1f620dd8349dcacaa53785b14f21c",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": null,
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "National Institute of Cardiovascular Diseases & Hospital\nEmergency Room - T2al - the\nTREATMENT SHEET\nY\ny M\na\nsome\n7614 run\nFA\n1/5\nnums 5\nT\nLA : (3m)\nMAA 4r m -\nCMARLE Zwge\nHY\nAE -\nEPRDIMED 0\nouL y\nJ0nT -\no a\n(11\nAetm \u00e0 pHinoTL\n. MTCOET\nL\na\nV1\n### Response\nNational Institute of Cardiovascranic Diseases & Hospital\nEmergency Room - T2al - the\nTREATMENT SHEET\nY\ny M\na\nsome\n7614 run\nFA\n1/5\nnums 5\nT\nLA : (3m)\nMAA 4r m -\nCMARLE Zwge\nHY\nAE -\nEPRDIMED 0\nouL y\nJ0nT -\no a\n(11\nAetm \u00e0 pHinoTL\n. MTCOET\nL\na\nV1"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": null,
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "National Institute of Cardiovascular Diseases & Hospital\nEmergency Room - T2al - the\nTREATMENT SHEET\nY\ny M\na\nsome\n7614 run\nFA\n1/5\nnums 5\nT\nLA : (3m)\nMAA 4r m -\nCMARLE Zwge\nHY\nAE -\nEPRDIMED 0\nouL y\nJ0nT -\no a\n(11\nAetm \u00e0 pHinoTL\n. MTCOET\nL\na\nV1\n### Response\nNational Institute of Cardiovascranic Diseases & Hospital\nEmergency Room - T2al - the\nTREATMENT SHEET\nY\ny M\na\nsome\n7614 run\nFA\n1/5\nnums 5\nT\nLA : (3m)\nMAA 4r m -\nCMARLE Zwge\nHY\nAE -\nEPRDIMED 0\nouL y\nJ0nT -\no a\n(11\nAetm \u00e0 pHinoTL\n. MTCOET\nL\na\nV1"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T08:22:59.974761Z",
+    "total_text_regions": 34
+  },
+  "ocr_confidence": 0.482477,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.7860941546303886,
+        "text": "National institute of Cardiovascular Discases & Hospital"
+      },
+      {
+        "confidence": 0.4116871953010559,
+        "text": "er n Gangle - ) T2al - he"
+      },
+      {
+        "confidence": 0.9197763204574585,
+        "text": "TREATMENT SHEET"
+      },
+      {
+        "confidence": 0.6317344903945923,
+        "text": "Y"
+      },
+      {
+        "confidence": 0.23013842105865479,
+        "text": "-"
+      },
+      {
+        "confidence": 0.7189207524061203,
+        "text": "y M"
+      },
+      {
+        "confidence": 0.31403449177742004,
+        "text": "-"
+      },
+      {
+        "confidence": 0.3906733989715576,
+        "text": "a"
+      },
+      {
+        "confidence": 0.21822771430015564,
+        "text": "some"
+      },
+      {
+        "confidence": 0.4599606692790985,
+        "text": "7614 run"
+      },
+      {
+        "confidence": 0.5002646893262863,
+        "text": "- a"
+      },
+      {
+        "confidence": 0.4091065227985382,
+        "text": "FA"
+      },
+      {
+        "confidence": 0.33028045296669006,
+        "text": "1/5"
+      },
+      {
+        "confidence": 0.42253442108631134,
+        "text": "nums 5"
+      },
+      {
+        "confidence": 0.5499570965766907,
+        "text": "T"
+      },
+      {
+        "confidence": 0.8302736878395081,
+        "text": "-"
+      },
+      {
+        "confidence": 0.5523115197817484,
+        "text": "LA : (3m)"
+      },
+      {
+        "confidence": 0.5006905794143677,
+        "text": "MAA 4r m -"
+      },
+      {
+        "confidence": 0.24458496272563934,
+        "text": "CMARLE Zwge"
+      },
+      {
+        "confidence": 0.42986753582954407,
+        "text": "M"
+      },
+      {
+        "confidence": 0.36301320791244507,
+        "text": "HY"
+      },
+      {
+        "confidence": 0.7519330680370331,
+        "text": "AE -"
+      },
+      {
+        "confidence": 0.419057235121727,
+        "text": "EPRDIMED 0"
+      },
+      {
+        "confidence": 0.26795030385255814,
+        "text": "ouL y"
+      },
+      {
+        "confidence": 0.30073821544647217,
+        "text": "J0nT -"
+      },
+      {
+        "confidence": 0.4755425304174423,
+        "text": "o a"
+      },
+      {
+        "confidence": 0.34023037552833557,
+        "text": "(11"
+      },
+      {
+        "confidence": 0.3392273485660553,
+        "text": "Aeetm \u00e0 pHinoTL"
+      },
+      {
+        "confidence": 0.863535463809967,
+        "text": "-"
+      },
+      {
+        "confidence": 0.6981406658887863,
+        "text": ". MTCOET"
+      },
+      {
+        "confidence": 0.30176013708114624,
+        "text": "L"
+      },
+      {
+        "confidence": 0.7200913429260254,
+        "text": "a"
+      },
+      {
+        "confidence": 0.17308266460895538,
+        "text": "V1"
+      },
+      {
+        "confidence": 0.5388095378875732,
+        "text": "-"
+      }
+    ]
+  },
+  "ocr_text": "National institute of Cardiovascular Discases & Hospital\ner n Gangle - ) T2al - he\nTREATMENT SHEET\nY\n-\ny M\n-\na\nsome\n7614 run\n- a\nFA\n1/5\nnums 5\nT\n-\nLA : (3m)\nMAA 4r m -\nCMARLE Zwge\nM\nHY\nAE -\nEPRDIMED 0\nouL y\nJ0nT -\no a\n(11\nAeetm \u00e0 pHinoTL\n-\n. MTCOET\nL\na\nV1\n-",
+  "ocr_text_length": 257,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.0,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "prescriber.name",
+      "medications"
+    ],
+    "quality_score": 0.482477,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

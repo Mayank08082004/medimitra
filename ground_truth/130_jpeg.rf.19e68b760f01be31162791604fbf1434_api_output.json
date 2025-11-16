@@ -1,0 +1,239 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_9c06ee59fc544fbebbe8698a3f6db5c3",
+    "success": true
+  },
+  "document_id": "doc_6ef12dba68ad4568ac3072ffcc2765ad",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": null,
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "It's sore to the touch.\nContinue:\nRael PgHel\nI\nL 494\nCSPTWT ert\na - a D -\nergte FetnE\n2124\nPI 207T\nPl\nfey fenn\npmd 47 1R5Y\n0/ Xeib\nSYP - IPL -\nn2n4po\nCmb ? 817\nBy\n251051025)\na -\n3933 FEO a0 at\nContinue:\nRael PgHel\nI\nL 494\nCSPTWT ert\na - a D -\nergte FetnE\n2124\nPI 207T\nPl\nfey fenn\npmd 47 1R5Y\n0/ Xeib\nSYP - IPL -\nn2n4po\nCmb ? 817\nBy\n251051025)\na -\n3933 FEO a0 at"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": null,
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "It's sore to the touch.\nContinue:\nRael PgHel\nI\nL 494\nCSPTWT ert\na - a D -\nergte FetnE\n2124\nPI 207T\nPl\nfey fenn\npmd 47 1R5Y\n0/ Xeib\nSYP - IPL -\nn2n4po\nCmb ? 817\nBy\n251051025)\na -\n3933 FEO a0 at\nContinue:\nRael PgHel\nI\nL 494\nCSPTWT ert\na - a D -\nergte FetnE\n2124\nPI 207T\nPl\nfey fenn\npmd 47 1R5Y\n0/ Xeib\nSYP - IPL -\nn2n4po\nCmb ? 817\nBy\n251051025)\na -\n3933 FEO a0 at"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T08:55:43.163151Z",
+    "total_text_regions": 22
+  },
+  "ocr_confidence": 0.468874,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.26084527373313904,
+        "text": "9it SORE 2NE DITDRG"
+      },
+      {
+        "confidence": 0.6450228691101074,
+        "text": "CONIF a"
+      },
+      {
+        "confidence": 0.3631139248609543,
+        "text": "a G PE :"
+      },
+      {
+        "confidence": 0.3266696035861969,
+        "text": "Rael PgHel"
+      },
+      {
+        "confidence": 0.7532088756561279,
+        "text": "I"
+      },
+      {
+        "confidence": 0.22151075303554535,
+        "text": "L 494"
+      },
+      {
+        "confidence": 0.2871101498603821,
+        "text": "CSPTETWT eRt"
+      },
+      {
+        "confidence": 0.7078611731529236,
+        "text": "a - a D -"
+      },
+      {
+        "confidence": 0.19210325926542282,
+        "text": "ergte FetnE"
+      },
+      {
+        "confidence": 0.9755491018295288,
+        "text": "2124"
+      },
+      {
+        "confidence": 0.28621213883161545,
+        "text": "PI 207T"
+      },
+      {
+        "confidence": 0.49630624055862427,
+        "text": "Pl"
+      },
+      {
+        "confidence": 0.5763739943504333,
+        "text": "fey fenn"
+      },
+      {
+        "confidence": 0.4137151738007863,
+        "text": "pmd 47 1R5Y"
+      },
+      {
+        "confidence": 0.7398263514041901,
+        "text": "0/ Xeib"
+      },
+      {
+        "confidence": 0.6334396079182625,
+        "text": "SYP - IPL -"
+      },
+      {
+        "confidence": 0.4728228747844696,
+        "text": "n2n4po"
+      },
+      {
+        "confidence": 0.48430155714352924,
+        "text": "Cmb ? 817"
+      },
+      {
+        "confidence": 0.20522542297840118,
+        "text": " By"
+      },
+      {
+        "confidence": 0.3142613470554352,
+        "text": "251051025)"
+      },
+      {
+        "confidence": 0.7409116625785828,
+        "text": "a -"
+      },
+      {
+        "confidence": 0.21882615610957146,
+        "text": "3933 FEO a0 at"
+      }
+    ]
+  },
+  "ocr_text": "9it SORE 2NE DITDRG\nCONIF a\na G PE :\nRael PgHel\nI\nL 494\nCSPTETWT eRt\na - a D -\nergte FetnE\n2124\nPI 207T\nPl\nfey fenn\npmd 47 1R5Y\n0/ Xeib\nSYP - IPL -\nn2n4po\nCmb ? 817\n By\n251051025)\na -\n3933 FEO a0 at",
+  "ocr_text_length": 198,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.0,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "prescriber.name",
+      "medications"
+    ],
+    "quality_score": 0.468874,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

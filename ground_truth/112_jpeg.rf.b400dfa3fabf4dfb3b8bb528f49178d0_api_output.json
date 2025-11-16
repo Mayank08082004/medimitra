@@ -1,0 +1,306 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "compound"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_44ca8b7f831e4cc1af667a4119f703cc",
+    "success": true
+  },
+  "document_id": "doc_2140394e28654a0eb4a610628ea3110f",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "compound"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": "Omavete Fasteji -",
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "National Institute of Cardiovasculature and Research\nShirdi Sai Baba Nagar, Nathdahenus 6 Hospital\n1207\nS\nTREATMENT SHEET\nA Case\n - 1\na - mah\nDr Omavete Fasteji -\nGarlee allis Ar -\ncune\nnu paxe -\nAXX (compound\nTeb P catoe\nBete/e -D\nTau. Mandart Cromp -\nlae. Als Premtir\nmect\n2 Re \nValtalen A\nChel\na\nPent mudan a\nBMRP \npue Fiele\n4 de Rolona\nOnlong\nOhal\n1\n1ese Lime\n\u00e0\n10b a\nRBS\n2025757\nShirdi Sai Baba Nagar, Nathdahenus 6 Hospital\n1207\nS\nTREATMENT SHEET\nA Case\na - mah\nDr Omavete Fasteji\nGarlee allis Ar\ncune\nAXX (compound\nTeb P catoe\nBete/e -D\nTau. Mandart Cromp -\nlae. Als Premtir\nmect\n2 Re\nValtalen A\nChel\na\nPent mudan a\nBMRP\npue Fiele\n4 de Rolona\nOnlong\nOhal\n1\n1ese Lime\n\u00e0\n10b a\nRBS\n2025757\nShirdi Sai Baba Nagar, Nathdahenus 6 Hospital\n1207\nS\nTREATMENT SHEET\nA Case\na - mah\nDr Omavete Fasteji\nGarlee allis Ar\ncune\nAXX (compound\nTeb P catoe\nBete/e -D\nTau. Mandart Cromp -\nlae. Als Premtir\nmect\n2 Re\nValtalen A\nChel\na\nPent mudan a\nBMRP\npue Fiele\n4 de Rolona\nOnlong\nOhal\n1\n1ese Lime\n\u00e0\n10b a\nRBS\n2025757\nShirdi Sai Baba Nagar, Nathdahenus 6 Hospital\n1207\nS\nTREATMENT SHEET\nA Case\na - mah\nDr Omavete Fasteji\nGarlee allis Ar\ncune\nAXX (compound\nTeb P catoe\nBete/e -D\nTau. Mandart Cromp -\nlae. Als Premtir\nmect\n2 Re\nValtalen A\nChel\na\nPent mudan a\nBMRP\npue Fiele\n4 de Rolona\nOnlong\nOhal\n1\n1ese Lime\n\u00e0\n10b a\nRBS\n2025757\nShirdi Sai Baba Nagar, Nathdahenus 6 Hospital\n1207\nS\nTREATMENT SHEET\nA Case\na - mah\nDr Omavete Fasteji\nGarlee allis Ar\ncune\nAXX (compound\nTeb P catoe\nBete/e -D\nTau. Mandart Cromp -\nlae. Als Premtir\nmect\n2 Re\nValtalen A\nChel\na\nPent mudan a\nBMRP\npue Fiele\n4 de Rolona\nOnlong\nOhal\n1\n1ese Lime\n\u00e0\n10b a\nRBS\n2025757\nShirdi Sai Baba Nagar, Nathdahenus 6 Hospital\n1207\nS\nTREATMENT SHEET\nA Case\na - mah\nDr Omavete Fasteji\nGarlee allis Ar\ncune\nAXX (compound\nTeb P catoe\nBete/e -D\nTau. Mandart Cromp -\nlae. Als Premtir\nmect\n2 Re\nValtalen A\nChel\na\nPent mudan a\nBMRP\npue Fiele\n4 de Rolona\nOnlong\nOhal\n1\n1ese Lime\n\u00e0\n10b a\nRBS\n2025757\nShirdi Sai Baba Nagar, Nathdahenus 6 Hospital\n1207\nS\nTREATMENT SHEET\nA Case\na - mah\nDr Omavete Fasteji\nGarlee allis Ar\ncune\nAXX (compound\nTeb P catoe\nBete/e -D\nTau. Mandart Cromp -\nlae. Als Premtir\nmect\n2 Re\nValtalen A\nChel\na\nPent mudan a\nBMRP\npue Fiele\n4 de Rolona\nOnlong\nOhal\n1\n1ese Lime\n\u00e0\n10b a\nRBS\n2025757\nShirdi Sai Baba Nagar, Nathdahenus 6 Hospital\n1207\nS\nTREATMENT SHEET\nA Case\na - mah\nDr Omavete Fasteji\nGarlee allis Ar\ncune\nAXX (compound\nTeb P catoe\nBete/e -D\nTau. Mandart Cromp -\nlae. Als Premtir\nmect\n2 Re\nValtalen A\nChel\na\nPent mudan a\nBMRP\npue Fiele\n4 de Rolona\nOnlong\nOhal\n1\n1ese Lime\n\u00e0\n10b a\nRBS\n2025757\nShirdi Sai Baba Nagar, Nathdahenus 6 Hospital\n1207\nS\nTREATMENT SHEET\nA Case\na - mah\nDr Omavete Fasteji\nGarlee allis Ar\ncune\nAXX (compound\nTeb P catoe\nBete/e -D\nTau. Mandart Cromp -\nlae. Als Premtir\nmect\n2 Re\nValtalen A\nChel\na\nPent mudan a\nBMRP\npue Fiele\n4 de Rolona\nOnlong\nOhal\n1\n1ese Lime\n\u00e0\n10b a\nRBS\n2025757\nShirdi Sai Baba Nagar, Nathdahenus 6 Hospital\n1207\nS\nTREATMENT SHEET\nA Case\na - mah\nDr Omavete Fasteji\nGarlee allis Ar\ncune\nAXX (compound\nTeb P catoe\nBete/e -D\nTau. Mandart Cromp -\nlae. Als Premtir\nmect\n2 Re\nValtalen A\nChel\na\nPent mudan a\nBMRP\npue Fiele\n4 de Rolona\nShirdi Sai Baba Nagar, Nathdahenus 6 Hospital\nCorrected text: National Institute of Cardiovascular and Responses: National Institute of Cardiovascle OMITTED: National Institute of Cardiovascale: National Institute of Cardiovasc|Omit National Institute of Cardiovascertainment.\n===\nOmitnit\nCorrect.\nCor"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "compound"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": "Omavete Fasteji -",
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "National Institute of Cardiovasculature and Research\nShirdi Sai Baba Nagar, Nathdahenus 6 Hospital\n1207\nS\nTREATMENT SHEET\nA Case\n - 1\na - mah\nDr Omavete Fasteji -\nGarlee allis Ar -\ncune\nnu paxe -\nAXX (compound\nTeb P catoe\nBete/e -D\nTau. Mandart Cromp -\nlae. Als Premtir\nmect\n2 Re \nValtalen A\nChel\na\nPent mudan a\nBMRP \npue Fiele\n4 de Rolona\nOnlong\nOhal\n1\n1ese Lime\n\u00e0\n10b a\nRBS\n2025757\nShirdi Sai Baba Nagar, Nathdahenus 6 Hospital\n1207\nS\nTREATMENT SHEET\nA Case\na - mah\nDr Omavete Fasteji\nGarlee allis Ar\ncune\nAXX (compound\nTeb P catoe\nBete/e -D\nTau. Mandart Cromp -\nlae. Als Premtir\nmect\n2 Re\nValtalen A\nChel\na\nPent mudan a\nBMRP\npue Fiele\n4 de Rolona\nOnlong\nOhal\n1\n1ese Lime\n\u00e0\n10b a\nRBS\n2025757\nShirdi Sai Baba Nagar, Nathdahenus 6 Hospital\n1207\nS\nTREATMENT SHEET\nA Case\na - mah\nDr Omavete Fasteji\nGarlee allis Ar\ncune\nAXX (compound\nTeb P catoe\nBete/e -D\nTau. Mandart Cromp -\nlae. Als Premtir\nmect\n2 Re\nValtalen A\nChel\na\nPent mudan a\nBMRP\npue Fiele\n4 de Rolona\nOnlong\nOhal\n1\n1ese Lime\n\u00e0\n10b a\nRBS\n2025757\nShirdi Sai Baba Nagar, Nathdahenus 6 Hospital\n1207\nS\nTREATMENT SHEET\nA Case\na - mah\nDr Omavete Fasteji\nGarlee allis Ar\ncune\nAXX (compound\nTeb P catoe\nBete/e -D\nTau. Mandart Cromp -\nlae. Als Premtir\nmect\n2 Re\nValtalen A\nChel\na\nPent mudan a\nBMRP\npue Fiele\n4 de Rolona\nOnlong\nOhal\n1\n1ese Lime\n\u00e0\n10b a\nRBS\n2025757\nShirdi Sai Baba Nagar, Nathdahenus 6 Hospital\n1207\nS\nTREATMENT SHEET\nA Case\na - mah\nDr Omavete Fasteji\nGarlee allis Ar\ncune\nAXX (compound\nTeb P catoe\nBete/e -D\nTau. Mandart Cromp -\nlae. Als Premtir\nmect\n2 Re\nValtalen A\nChel\na\nPent mudan a\nBMRP\npue Fiele\n4 de Rolona\nOnlong\nOhal\n1\n1ese Lime\n\u00e0\n10b a\nRBS\n2025757\nShirdi Sai Baba Nagar, Nathdahenus 6 Hospital\n1207\nS\nTREATMENT SHEET\nA Case\na - mah\nDr Omavete Fasteji\nGarlee allis Ar\ncune\nAXX (compound\nTeb P catoe\nBete/e -D\nTau. Mandart Cromp -\nlae. Als Premtir\nmect\n2 Re\nValtalen A\nChel\na\nPent mudan a\nBMRP\npue Fiele\n4 de Rolona\nOnlong\nOhal\n1\n1ese Lime\n\u00e0\n10b a\nRBS\n2025757\nShirdi Sai Baba Nagar, Nathdahenus 6 Hospital\n1207\nS\nTREATMENT SHEET\nA Case\na - mah\nDr Omavete Fasteji\nGarlee allis Ar\ncune\nAXX (compound\nTeb P catoe\nBete/e -D\nTau. Mandart Cromp -\nlae. Als Premtir\nmect\n2 Re\nValtalen A\nChel\na\nPent mudan a\nBMRP\npue Fiele\n4 de Rolona\nOnlong\nOhal\n1\n1ese Lime\n\u00e0\n10b a\nRBS\n2025757\nShirdi Sai Baba Nagar, Nathdahenus 6 Hospital\n1207\nS\nTREATMENT SHEET\nA Case\na - mah\nDr Omavete Fasteji\nGarlee allis Ar\ncune\nAXX (compound\nTeb P catoe\nBete/e -D\nTau. Mandart Cromp -\nlae. Als Premtir\nmect\n2 Re\nValtalen A\nChel\na\nPent mudan a\nBMRP\npue Fiele\n4 de Rolona\nOnlong\nOhal\n1\n1ese Lime\n\u00e0\n10b a\nRBS\n2025757\nShirdi Sai Baba Nagar, Nathdahenus 6 Hospital\n1207\nS\nTREATMENT SHEET\nA Case\na - mah\nDr Omavete Fasteji\nGarlee allis Ar\ncune\nAXX (compound\nTeb P catoe\nBete/e -D\nTau. Mandart Cromp -\nlae. Als Premtir\nmect\n2 Re\nValtalen A\nChel\na\nPent mudan a\nBMRP\npue Fiele\n4 de Rolona\nOnlong\nOhal\n1\n1ese Lime\n\u00e0\n10b a\nRBS\n2025757\nShirdi Sai Baba Nagar, Nathdahenus 6 Hospital\n1207\nS\nTREATMENT SHEET\nA Case\na - mah\nDr Omavete Fasteji\nGarlee allis Ar\ncune\nAXX (compound\nTeb P catoe\nBete/e -D\nTau. Mandart Cromp -\nlae. Als Premtir\nmect\n2 Re\nValtalen A\nChel\na\nPent mudan a\nBMRP\npue Fiele\n4 de Rolona\nShirdi Sai Baba Nagar, Nathdahenus 6 Hospital\nCorrected text: National Institute of Cardiovascular and Responses: National Institute of Cardiovascle OMITTED: National Institute of Cardiovascale: National Institute of Cardiovasc|Omit National Institute of Cardiovascertainment.\n===\nOmitnit\nCorrect.\nCor"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T09:16:13.156954Z",
+    "total_text_regions": 39
+  },
+  "ocr_confidence": 0.527473,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.8367344737052917,
+        "text": "National"
+      },
+      {
+        "confidence": 0.7344785730044047,
+        "text": "Institute of Cardiovasculart"
+      },
+      {
+        "confidence": 0.5675168718610492,
+        "text": "Shert Bangla Negar, Nhata Diseases 6 Hospital"
+      },
+      {
+        "confidence": 0.9578254818916321,
+        "text": "1207"
+      },
+      {
+        "confidence": 0.4228823781013489,
+        "text": "S"
+      },
+      {
+        "confidence": 0.9462416768074036,
+        "text": "TREATMENT SHEET"
+      },
+      {
+        "confidence": 0.21562878787517548,
+        "text": "A Cae"
+      },
+      {
+        "confidence": 0.4119422634442647,
+        "text": " - 1"
+      },
+      {
+        "confidence": 0.7081573903560638,
+        "text": "a - mah"
+      },
+      {
+        "confidence": 0.4730335593223572,
+        "text": "dr OMATVE FAESTE JTIET - - 4 - 14 203"
+      },
+      {
+        "confidence": 0.45048561692237854,
+        "text": "Sarus"
+      },
+      {
+        "confidence": 0.5256853948036829,
+        "text": "piet um -"
+      },
+      {
+        "confidence": 0.3613011948764324,
+        "text": "Garlee allis Ar -"
+      },
+      {
+        "confidence": 0.5386485457420349,
+        "text": "cune"
+      },
+      {
+        "confidence": 0.8777796030044556,
+        "text": "-"
+      },
+      {
+        "confidence": 0.5615522861480713,
+        "text": "nu paxe -"
+      },
+      {
+        "confidence": 0.5517490804195404,
+        "text": "AXX (comp"
+      },
+      {
+        "confidence": 0.464997003475825,
+        "text": "Teb P catoe"
+      },
+      {
+        "confidence": 0.2931661829352379,
+        "text": "Bete/e -D"
+      },
+      {
+        "confidence": 0.5519637018442154,
+        "text": "Tau. Mandrart Cromp -"
+      },
+      {
+        "confidence": 0.33968452612559,
+        "text": "lae. Als Premtir"
+      },
+      {
+        "confidence": 0.4359995722770691,
+        "text": "meceyt"
+      },
+      {
+        "confidence": 0.5226345161596934,
+        "text": "2 Re "
+      },
+      {
+        "confidence": 0.7046806812286377,
+        "text": "Valtaline A"
+      },
+      {
+        "confidence": 0.4100126028060913,
+        "text": "Chel"
+      },
+      {
+        "confidence": 0.4346637427806854,
+        "text": "a"
+      },
+      {
+        "confidence": 0.3901752879222234,
+        "text": "Pent moudaun a"
+      },
+      {
+        "confidence": 0.27435564001401264,
+        "text": "Bi mRP "
+      },
+      {
+        "confidence": 0.3945313170552254,
+        "text": "pue Fliele"
+      },
+      {
+        "confidence": 0.5857571462790171,
+        "text": "4 de Rolaone"
+      },
+      {
+        "confidence": 0.44240320722262066,
+        "text": "- Topid OCT"
+      },
+      {
+        "confidence": 0.7183352112770081,
+        "text": "Onlong"
+      },
+      {
+        "confidence": 0.3902762830257416,
+        "text": "Ohal"
+      },
+      {
+        "confidence": 0.32922089099884033,
+        "text": "1"
+      },
+      {
+        "confidence": 0.26109837740659714,
+        "text": "1ese Lime"
+      },
+      {
+        "confidence": 0.8213406801223755,
+        "text": "\u00e0"
+      },
+      {
+        "confidence": 0.4286947548389435,
+        "text": "10b a"
+      },
+      {
+        "confidence": 0.8103786110877991,
+        "text": "RBS"
+      },
+      {
+        "confidence": 0.42544621229171753,
+        "text": "2025757"
+      }
+    ]
+  },
+  "ocr_text": "National\nInstitute of Cardiovasculart\nShert Bangla Negar, Nhata Diseases 6 Hospital\n1207\nS\nTREATMENT SHEET\nA Cae\n - 1\na - mah\ndr OMATVE FAESTE JTIET - - 4 - 14 203\nSarus\npiet um -\nGarlee allis Ar -\ncune\n-\nnu paxe -\nAXX (comp\nTeb P catoe\nBete/e -D\nTau. Mandrart Cromp -\nlae. Als Premtir\nmeceyt\n2 Re \nValtaline A\nChel\na\nPent moudaun a\nBi mRP \npue Fliele\n4 de Rolaone\n- Topid OCT\nOnlong\nOhal\n1\n1ese Lime\n\u00e0\n10b a\nRBS\n2025757",
+  "ocr_text_length": 420,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": true
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.25,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "medications"
+    ],
+    "quality_score": 0.527473,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

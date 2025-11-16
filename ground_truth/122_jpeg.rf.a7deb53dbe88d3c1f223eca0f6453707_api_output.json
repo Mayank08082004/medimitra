@@ -1,0 +1,290 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_44473a09c7b64784a0e778ba863471db",
+    "success": true
+  },
+  "document_id": "doc_ad69a4fa23224710a0a8b7f633d1ed0a",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": "Mostota Zaman",
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "intagnitad m lian\na SV .\nDocter Mostota Zaman\nsai\nTE\na\nshaheda\nA0E3 moyH Date\nRe.\nFloDONOX 9BN\nOTibi\nA\nopio\nSbiy 09Se S Tubi Pexopen Sun\nshota .220ran\ncup taa Colv 78g\nU\nZodng\notot?\nLokides Coces\n>Sn\nvSe 200\n8V\nwb cosper\nO\nbwA\nDFOP)\nDeatac DAN\nCus\n3omg\n210t)\nTeonh\nrolost\na SV .\nDoctor Mostota Zaman\nsays\nTE\na\nshaheda\nA0E3 moH Date\nRe.\nFloDONOX 9BN\nOTibi\nA\nopio\nSbiy 09Se S Tubi Pexopen Sun\nshota .220ran\ncup taa Colv 78g\nU\nZodng\notot?\nLokides Coces\n>Sn\nvSe 200\n8V\nwb cosper\nO\nbwA\nDFOP)\nDeatac DAN\nCus\n310t)\nTeonh\nrolost"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": "Mostota Zaman",
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "intagnitad m lian\na SV .\nDocter Mostota Zaman\nsai\nTE\na\nshaheda\nA0E3 moyH Date\nRe.\nFloDONOX 9BN\nOTibi\nA\nopio\nSbiy 09Se S Tubi Pexopen Sun\nshota .220ran\ncup taa Colv 78g\nU\nZodng\notot?\nLokides Coces\n>Sn\nvSe 200\n8V\nwb cosper\nO\nbwA\nDFOP)\nDeatac DAN\nCus\n3omg\n210t)\nTeonh\nrolost\na SV .\nDoctor Mostota Zaman\nsays\nTE\na\nshaheda\nA0E3 moH Date\nRe.\nFloDONOX 9BN\nOTibi\nA\nopio\nSbiy 09Se S Tubi Pexopen Sun\nshota .220ran\ncup taa Colv 78g\nU\nZodng\notot?\nLokides Coces\n>Sn\nvSe 200\n8V\nwb cosper\nO\nbwA\nDFOP)\nDeatac DAN\nCus\n310t)\nTeonh\nrolost"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T08:46:57.873292Z",
+    "total_text_regions": 35
+  },
+  "ocr_confidence": 0.521815,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.38397784034411114,
+        "text": "intagnitad m lian"
+      },
+      {
+        "confidence": 0.5266416470209757,
+        "text": "a SV ."
+      },
+      {
+        "confidence": 0.8435110052426656,
+        "text": "Docter Mostota Zaman"
+      },
+      {
+        "confidence": 0.22198478877544403,
+        "text": "sai"
+      },
+      {
+        "confidence": 0.40464261174201965,
+        "text": "TE"
+      },
+      {
+        "confidence": 0.760230541229248,
+        "text": "a"
+      },
+      {
+        "confidence": 0.962345540523529,
+        "text": "-"
+      },
+      {
+        "confidence": 0.7966102361679077,
+        "text": "shaheda"
+      },
+      {
+        "confidence": 0.3108779340982437,
+        "text": "A0E3 moyH Date"
+      },
+      {
+        "confidence": 0.9321900606155396,
+        "text": "Re."
+      },
+      {
+        "confidence": 0.4199102222919464,
+        "text": "FloDONOX 9BN"
+      },
+      {
+        "confidence": 0.35036152601242065,
+        "text": "OTibi"
+      },
+      {
+        "confidence": 0.834076464176178,
+        "text": "A"
+      },
+      {
+        "confidence": 0.5153387188911438,
+        "text": "opio"
+      },
+      {
+        "confidence": 0.5271461382508278,
+        "text": "Sbiy 09Se S Tubi Pexopen Sun"
+      },
+      {
+        "confidence": 0.47792768478393555,
+        "text": "shota .22009"
+      },
+      {
+        "confidence": 0.5582231059670448,
+        "text": "cup taa Colv 78g"
+      },
+      {
+        "confidence": 0.7242821455001831,
+        "text": "U"
+      },
+      {
+        "confidence": 0.37269529700279236,
+        "text": "Zodng"
+      },
+      {
+        "confidence": 0.4838786721229553,
+        "text": "otot?"
+      },
+      {
+        "confidence": 0.2897992581129074,
+        "text": "Lokides Coces"
+      },
+      {
+        "confidence": 0.26877361536026,
+        "text": ">Sn"
+      },
+      {
+        "confidence": 0.6291048526763916,
+        "text": "vSe 200"
+      },
+      {
+        "confidence": 0.5270931124687195,
+        "text": "8V"
+      },
+      {
+        "confidence": 0.589903712272644,
+        "text": "wb cosper"
+      },
+      {
+        "confidence": 0.26666221022605896,
+        "text": "O"
+      },
+      {
+        "confidence": 0.29619890451431274,
+        "text": "bwA"
+      },
+      {
+        "confidence": 0.4980754256248474,
+        "text": "DFOP)"
+      },
+      {
+        "confidence": 0.5649980306625366,
+        "text": "Deatac DAN"
+      },
+      {
+        "confidence": 0.2561407685279846,
+        "text": "Cus"
+      },
+      {
+        "confidence": 0.6270555257797241,
+        "text": ""
+      },
+      {
+        "confidence": 0.7754527926445007,
+        "text": "3omg"
+      },
+      {
+        "confidence": 0.3392719328403473,
+        "text": "210t)"
+      },
+      {
+        "confidence": 0.2542854845523834,
+        "text": "Teonh"
+      },
+      {
+        "confidence": 0.6738664507865906,
+        "text": "rolost"
+      }
+    ]
+  },
+  "ocr_text": "intagnitad m lian\na SV .\nDocter Mostota Zaman\nsai\nTE\na\n-\nshaheda\nA0E3 moyH Date\nRe.\nFloDONOX 9BN\nOTibi\nA\nopio\nSbiy 09Se S Tubi Pexopen Sun\nshota .22009\ncup taa Colv 78g\nU\nZodng\notot?\nLokides Coces\n>Sn\nvSe 200\n8V\nwb cosper\nO\nbwA\nDFOP)\nDeatac DAN\nCus\n\n3omg\n210t)\nTeonh\nrolost",
+  "ocr_text_length": 273,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.25,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "medications"
+    ],
+    "quality_score": 0.521815,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

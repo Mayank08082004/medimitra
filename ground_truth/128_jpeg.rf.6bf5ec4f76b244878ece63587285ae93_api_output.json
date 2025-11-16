@@ -1,0 +1,233 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_9e1e3e1670d347fc9eaf96a5cef628b1",
+    "success": true
+  },
+  "document_id": "doc_d5bb66371e2a465da625be9127e1ab52",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": "Frank My",
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": "Mostola Zaman",
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "Doctor Mostola Zaman\nIn My Immune 101\nHematology\n\u00e0\n2AYH Das\nU TS Flosamox TM\npatient Frank My\nTe Al994\n2020\nol 3 A\n@ Tub partially clogged\n24017 bed\n0 cup Dontac 2s\nr0) 3an3\nA Tu No Por OU\nIn My Immune 101\nHematology\n\u00e0\n2AYH Das\nU TS Flosamox TM\npatient Frank My\nTe Al994\n2020\nol 3 A\n@ Tub partially clogged\n24017 bed\n0 cup Dontac 20%\nA Tu No Por OU"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": "Frank My",
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": "Mostola Zaman",
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "Doctor Mostola Zaman\nIn My Immune 101\nHematology\n\u00e0\n2AYH Das\nU TS Flosamox TM\npatient Frank My\nTe Al994\n2020\nol 3 A\n@ Tub partially clogged\n24017 bed\n0 cup Dontac 2s\nr0) 3an3\nA Tu No Por OU\nIn My Immune 101\nHematology\n\u00e0\n2AYH Das\nU TS Flosamox TM\npatient Frank My\nTe Al994\n2020\nol 3 A\n@ Tub partially clogged\n24017 bed\n0 cup Dontac 20%\nA Tu No Por OU"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T08:59:27.708420Z",
+    "total_text_regions": 21
+  },
+  "ocr_confidence": 0.441079,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.4338700970013936,
+        "text": ". STT WIWPE"
+      },
+      {
+        "confidence": 0.649207353591919,
+        "text": "Doctot Mostola Zaman"
+      },
+      {
+        "confidence": 0.41423163811365765,
+        "text": "n IMI 101"
+      },
+      {
+        "confidence": 0.3420259654521942,
+        "text": "Hme"
+      },
+      {
+        "confidence": 0.38505375385284424,
+        "text": "\u00e0"
+      },
+      {
+        "confidence": 0.35444821417331696,
+        "text": "2AYH Das"
+      },
+      {
+        "confidence": 0.3741009309887886,
+        "text": "U TS Flosamox TM"
+      },
+      {
+        "confidence": 0.4116574327150981,
+        "text": "ptoto fran My"
+      },
+      {
+        "confidence": 0.5072778761386871,
+        "text": "Te Al994"
+      },
+      {
+        "confidence": 0.5919471383094788,
+        "text": "20yy"
+      },
+      {
+        "confidence": 0.23183386027812958,
+        "text": "olo 3 A"
+      },
+      {
+        "confidence": 0.426863561073939,
+        "text": "@ Tub perlecant"
+      },
+      {
+        "confidence": 0.38927480578422546,
+        "text": "24017 bed"
+      },
+      {
+        "confidence": 0.4096076115965843,
+        "text": "0 cup Dontac 20%"
+      },
+      {
+        "confidence": 0.3093777000904083,
+        "text": "r0) 3an3"
+      },
+      {
+        "confidence": 0.35866378247737885,
+        "text": "A Tu Nopor oU"
+      },
+      {
+        "confidence": 0.5002931952476501,
+        "text": ""
+      },
+      {
+        "confidence": 0.3911604881286621,
+        "text": "AN"
+      },
+      {
+        "confidence": 0.4471808224916458,
+        "text": " -"
+      },
+      {
+        "confidence": 0.6078038811683655,
+        "text": "a"
+      },
+      {
+        "confidence": 0.7267855405807495,
+        "text": "- L"
+      }
+    ]
+  },
+  "ocr_text": ". STT WIWPE\nDoctot Mostola Zaman\nn IMI 101\nHme\n\u00e0\n2AYH Das\nU TS Flosamox TM\nptoto fran My\nTe Al994\n20yy\nolo 3 A\n@ Tub perlecant\n24017 bed\n0 cup Dontac 20%\nr0) 3an3\nA Tu Nopor oU\n\nAN\n -\na\n- L",
+  "ocr_text_length": 189,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.5,
+    "missing_critical_fields": [
+      "patient.id",
+      "medications"
+    ],
+    "quality_score": 0.441079,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

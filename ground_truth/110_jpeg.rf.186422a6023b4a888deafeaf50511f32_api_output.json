@@ -1,0 +1,203 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_e5004ec29f7f48a7859c9429679f2c19",
+    "success": true
+  },
+  "document_id": "doc_1443eb000f7d437588ad204f14a5c32a",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": null,
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "51 - .\na\n\u00c0 - - Fustoclot Sodny\nDHot) RM\nZenapein\nDHet\na\nX-Lon\n32 Py\n\u00e0 a\nXomic\n. -\n# Response: 51 - .\na\n\u00c0 - - Fustoclot Sodny\nDHot) RM\nZenapein\nDHet\na\nX-Lon\n32 Py\n\u00e0 a\nXomic\n. -"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": null,
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "51 - .\na\n\u00c0 - - Fustoclot Sodny\nDHot) RM\nZenapein\nDHet\na\nX-Lon\n32 Py\n\u00e0 a\nXomic\n. -\n# Response: 51 - .\na\n\u00c0 - - Fustoclot Sodny\nDHot) RM\nZenapein\nDHet\na\nX-Lon\n32 Py\n\u00e0 a\nXomic\n. -"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T08:45:10.526062Z",
+    "total_text_regions": 13
+  },
+  "ocr_confidence": 0.468391,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.48805563648541767,
+        "text": "51 - ."
+      },
+      {
+        "confidence": 0.7119710445404053,
+        "text": "a"
+      },
+      {
+        "confidence": 0.5747585654258728,
+        "text": "\u00e0 - - Fustoclot Sodny"
+      },
+      {
+        "confidence": 0.22553826868534088,
+        "text": "DHot) RM"
+      },
+      {
+        "confidence": 0.4221988320350647,
+        "text": "Zenapein"
+      },
+      {
+        "confidence": 0.3124578595161438,
+        "text": "DHet"
+      },
+      {
+        "confidence": 0.12000879645347595,
+        "text": "a"
+      },
+      {
+        "confidence": 0.708445131778717,
+        "text": "X-Lon"
+      },
+      {
+        "confidence": 0.44081661105155945,
+        "text": "32 Py"
+      },
+      {
+        "confidence": 0.6175979375839233,
+        "text": "-"
+      },
+      {
+        "confidence": 0.3914300799369812,
+        "text": "\u00e0 a"
+      },
+      {
+        "confidence": 0.4769899249076843,
+        "text": "Xomic"
+      },
+      {
+        "confidence": 0.5988197177648544,
+        "text": ". -"
+      }
+    ]
+  },
+  "ocr_text": "51 - .\na\n\u00e0 - - Fustoclot Sodny\nDHot) RM\nZenapein\nDHet\na\nX-Lon\n32 Py\n-\n\u00e0 a\nXomic\n. -",
+  "ocr_text_length": 83,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.0,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "prescriber.name",
+      "medications"
+    ],
+    "quality_score": 0.468391,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

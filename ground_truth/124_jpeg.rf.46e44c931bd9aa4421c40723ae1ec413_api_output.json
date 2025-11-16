@@ -1,0 +1,234 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_f2ddfc17a7c449ddbd6d4dfd99864b1d",
+    "success": true
+  },
+  "document_id": "doc_5d5f7c85e39a4825b7b751db98c3fe73",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": "Destaday",
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "Detroit Mostala -\nA\n201\nmedication\nacetaminophen\n2e\na\nI\notet\nC\nsAe\nDestaday\neycnp\n3079\n>tot7\nCobelight proTab atto\na\nAn\n== response ==\nDetroit Mostala -\nA\n201\nmedication\nacetaminophen\n2e\na\nI\notet\nC\nsAe\nDestaday\neycnp\n3079\n>tot7\nCobelight proTab atto\na\nAn"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": "Destaday",
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "Detroit Mostala -\nA\n201\nmedication\nacetaminophen\n2e\na\nI\notet\nC\nsAe\nDestaday\neycnp\n3079\n>tot7\nCobelight proTab atto\na\nAn\n== response ==\nDetroit Mostala -\nA\n201\nmedication\nacetaminophen\n2e\na\nI\notet\nC\nsAe\nDestaday\neycnp\n3079\n>tot7\nCobelight proTab atto\na\nAn"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T08:56:30.054778Z",
+    "total_text_regions": 21
+  },
+  "ocr_confidence": 0.470823,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.5614521900812784,
+        "text": "Dectur Mostala -"
+      },
+      {
+        "confidence": 0.9130728840827942,
+        "text": "A"
+      },
+      {
+        "confidence": 0.40514615178108215,
+        "text": "201"
+      },
+      {
+        "confidence": 0.3150719106197357,
+        "text": "mdamct"
+      },
+      {
+        "confidence": 0.7174782752990723,
+        "text": "ar"
+      },
+      {
+        "confidence": 0.452422375480334,
+        "text": "cisra  2e"
+      },
+      {
+        "confidence": 0.39376158515612286,
+        "text": "a  a"
+      },
+      {
+        "confidence": 0.7760077714920044,
+        "text": "-"
+      },
+      {
+        "confidence": 0.6982983350753784,
+        "text": "I -"
+      },
+      {
+        "confidence": 0.3488464057445526,
+        "text": "otet"
+      },
+      {
+        "confidence": 0.9173085689544678,
+        "text": "C"
+      },
+      {
+        "confidence": 0.17178262770175934,
+        "text": "sAe"
+      },
+      {
+        "confidence": 0.608363151550293,
+        "text": ""
+      },
+      {
+        "confidence": 0.34185394644737244,
+        "text": "Destad"
+      },
+      {
+        "confidence": 0.23043985664844513,
+        "text": "eycnp"
+      },
+      {
+        "confidence": 0.422786682844162,
+        "text": "3079"
+      },
+      {
+        "confidence": 0.352070689201355,
+        "text": ">tot7"
+      },
+      {
+        "confidence": 0.2718091756105423,
+        "text": "Cobelweet pTr"
+      },
+      {
+        "confidence": 0.31625741720199585,
+        "text": "roTab atto"
+      },
+      {
+        "confidence": 0.40947362780570984,
+        "text": "a"
+      },
+      {
+        "confidence": 0.26358532905578613,
+        "text": "An"
+      }
+    ]
+  },
+  "ocr_text": "Dectur Mostala -\nA\n201\nmdamct\nar\ncisra  2e\na  a\n-\nI -\notet\nC\nsAe\n\nDestad\neycnp\n3079\n>tot7\nCobelweet pTr\nroTab atto\na\nAn",
+  "ocr_text_length": 119,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.25,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "medications"
+    ],
+    "quality_score": 0.470823,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

@@ -1,0 +1,387 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": "OCT",
+    "record_id": "rec_9ffcf057aea2411dbf20fd675fb01e64",
+    "success": true
+  },
+  "document_id": "doc_de617608ec0447a5883259629ce0bd66",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [
+      {
+        "confidence": 0.85,
+        "dosage": null,
+        "duration": null,
+        "form": null,
+        "frequency": null,
+        "instructions": "National Institute of Cardiovasc Writes National Nangw Diseases & Hospital 1207 ADE TREATMENT SHEET Nag En Et - -at de 3E OTAnVe FRERI \u00e0 Sarur Het a I Onet anc Cmeppe Nomte Ca (comp Tib ipe cane Cimi 1ab Beiele a 7au Mondcat Crome Als Remnur 5 meceyt - -E R Valtanine Oest Ntre A - Pecat B RP L Dne Filovo 0 Me Rolaene - pid OCT Oral Dng Oat \u20ac e Tipe K 1ob RBS 2025757",
+        "name": "National",
+        "quantity": null,
+        "refills": null,
+        "route": "oral",
+        "strength": null
+      },
+      {
+        "confidence": 0.85,
+        "dosage": null,
+        "duration": null,
+        "form": null,
+        "frequency": null,
+        "instructions": "National Institute of Cardiovascular Health and Hospital 1207 ADE Treatment Sheet - En Et - At De 3E OTAnVe FRERI \u00e0 Sarur Het a Onet anc Cmeppe Nomte Ca (comp Tib ipe cane Cimi 1ab Beiele a 7au Mondcat Crome Als Remnur 5 meceyt - -E R Valtanin Oest Ntre A - Pecat B RP L Dne Filovo 0 Me Rolaene - pid OCT Oral Dng Oat \u20ac e Tipe K 1ob RBS 2e25757",
+        "name": "National",
+        "quantity": null,
+        "refills": null,
+        "route": "oral",
+        "strength": null
+      }
+    ],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": "OCT",
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": null,
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "National Institute of Cardiovasc Writes National Nangw Diseases & Hospital 1207 ADE TREATMENT SHEET Nag En Et - -at de 3E OTAnVe FRERI \u00e0 Sarur Het a I Onet anc Cmeppe Nomte Ca (comp Tib ipe cane Cimi 1ab Beiele a 7au Mondcat Crome Als Remnur 5 meceyt - -E R Valtanine Oest Ntre A - Pecat B RP L Dne Filovo 0 Me Rolaene - pid OCT Oral Dng Oat \u20ac e Tipe K 1ob RBS 2025757\n### Response\nNational Institute of Cardiovascular Health and Hospital 1207 ADE Treatment Sheet - En Et - At De 3E OTAnVe FRERI \u00e0 Sarur Het a Onet anc Cmeppe Nomte Ca (comp Tib ipe cane Cimi 1ab Beiele a 7au Mondcat Crome Als Remnur 5 meceyt - -E R Valtanin Oest Ntre A - Pecat B RP L Dne Filovo 0 Me Rolaene - pid OCT Oral Dng Oat \u20ac e Tipe K 1ob RBS 2e25757\n(Note: The cleaned text has minor adjustments for better readability, but it's important to note that without context, some corrections are speculative. The original text seems to contain OCR errors, and the cleaned version attempts to correct those while preserving the original meaning.)"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [
+          {
+            "confidence": 0.85,
+            "dosage": null,
+            "duration": null,
+            "form": null,
+            "frequency": null,
+            "instructions": "National Institute of Cardiovasc Writes National Nangw Diseases & Hospital 1207 ADE TREATMENT SHEET Nag En Et - -at de 3E OTAnVe FRERI \u00e0 Sarur Het a I Onet anc Cmeppe Nomte Ca (comp Tib ipe cane Cimi 1ab Beiele a 7au Mondcat Crome Als Remnur 5 meceyt - -E R Valtanine Oest Ntre A - Pecat B RP L Dne Filovo 0 Me Rolaene - pid OCT Oral Dng Oat \u20ac e Tipe K 1ob RBS 2025757",
+            "name": "National",
+            "quantity": null,
+            "refills": null,
+            "route": "oral",
+            "strength": null
+          },
+          {
+            "confidence": 0.85,
+            "dosage": null,
+            "duration": null,
+            "form": null,
+            "frequency": null,
+            "instructions": "National Institute of Cardiovascular Health and Hospital 1207 ADE Treatment Sheet - En Et - At De 3E OTAnVe FRERI \u00e0 Sarur Het a Onet anc Cmeppe Nomte Ca (comp Tib ipe cane Cimi 1ab Beiele a 7au Mondcat Crome Als Remnur 5 meceyt - -E R Valtanin Oest Ntre A - Pecat B RP L Dne Filovo 0 Me Rolaene - pid OCT Oral Dng Oat \u20ac e Tipe K 1ob RBS 2e25757",
+            "name": "National",
+            "quantity": null,
+            "refills": null,
+            "route": "oral",
+            "strength": null
+          }
+        ],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": "OCT",
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": null,
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "National Institute of Cardiovasc Writes National Nangw Diseases & Hospital 1207 ADE TREATMENT SHEET Nag En Et - -at de 3E OTAnVe FRERI \u00e0 Sarur Het a I Onet anc Cmeppe Nomte Ca (comp Tib ipe cane Cimi 1ab Beiele a 7au Mondcat Crome Als Remnur 5 meceyt - -E R Valtanine Oest Ntre A - Pecat B RP L Dne Filovo 0 Me Rolaene - pid OCT Oral Dng Oat \u20ac e Tipe K 1ob RBS 2025757\n### Response\nNational Institute of Cardiovascular Health and Hospital 1207 ADE Treatment Sheet - En Et - At De 3E OTAnVe FRERI \u00e0 Sarur Het a Onet anc Cmeppe Nomte Ca (comp Tib ipe cane Cimi 1ab Beiele a 7au Mondcat Crome Als Remnur 5 meceyt - -E R Valtanin Oest Ntre A - Pecat B RP L Dne Filovo 0 Me Rolaene - pid OCT Oral Dng Oat \u20ac e Tipe K 1ob RBS 2e25757\n(Note: The cleaned text has minor adjustments for better readability, but it's important to note that without context, some corrections are speculative. The original text seems to contain OCR errors, and the cleaned version attempts to correct those while preserving the original meaning.)"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T09:19:47.038029Z",
+    "total_text_regions": 46
+  },
+  "ocr_confidence": 0.486487,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.5176243782043457,
+        "text": "National"
+      },
+      {
+        "confidence": 0.7302094499270121,
+        "text": "Institute of Cardiowasculart"
+      },
+      {
+        "confidence": 0.6276126163346427,
+        "text": "hrt nangw Negt nha Diseases & Hospital"
+      },
+      {
+        "confidence": 0.8819339871406555,
+        "text": "1207"
+      },
+      {
+        "confidence": 0.19280529022216797,
+        "text": "ADE"
+      },
+      {
+        "confidence": 0.9849202632904053,
+        "text": "TREATMENT SHEET"
+      },
+      {
+        "confidence": 0.2601892948150635,
+        "text": "Nag"
+      },
+      {
+        "confidence": 0.5397264957427979,
+        "text": "En"
+      },
+      {
+        "confidence": 0.5730062946677208,
+        "text": "ET . - -at"
+      },
+      {
+        "confidence": 0.6228460669517517,
+        "text": "de"
+      },
+      {
+        "confidence": 0.27258211374282837,
+        "text": "3E"
+      },
+      {
+        "confidence": 0.3987929125626882,
+        "text": "OTAnVe FRERI -"
+      },
+      {
+        "confidence": 0.5473332405090332,
+        "text": "-"
+      },
+      {
+        "confidence": 0.5935423970222473,
+        "text": "\u00e0"
+      },
+      {
+        "confidence": 0.4289796054363251,
+        "text": "Sarur"
+      },
+      {
+        "confidence": 0.49234263598918915,
+        "text": "Het a"
+      },
+      {
+        "confidence": 0.5330118238925934,
+        "text": "I "
+      },
+      {
+        "confidence": 0.26707879453897476,
+        "text": "\u00e0 Onet"
+      },
+      {
+        "confidence": 0.46940886974334717,
+        "text": "anc"
+      },
+      {
+        "confidence": 0.47929054498672485,
+        "text": "Cmeppe Nomte"
+      },
+      {
+        "confidence": 0.4281492829322815,
+        "text": "Ca (comp"
+      },
+      {
+        "confidence": 0.3109853118658066,
+        "text": "Tib ipe cane Cimi"
+      },
+      {
+        "confidence": 0.5571098402142525,
+        "text": "1ab Beiele  a"
+      },
+      {
+        "confidence": 0.3633333543936412,
+        "text": "7au Mondcat Crom"
+      },
+      {
+        "confidence": 0.49462464451789856,
+        "text": "e Als Remnur"
+      },
+      {
+        "confidence": 0.6535804569721222,
+        "text": "5 meceyt"
+      },
+      {
+        "confidence": 0.3184725344181061,
+        "text": "- -E R"
+      },
+      {
+        "confidence": 0.6039748787879944,
+        "text": "Valtaline"
+      },
+      {
+        "confidence": 0.5715969204902649,
+        "text": "Oest"
+      },
+      {
+        "confidence": 0.47079208493232727,
+        "text": "Ntre"
+      },
+      {
+        "confidence": 0.2696411609649658,
+        "text": "E"
+      },
+      {
+        "confidence": 0.2882256507873535,
+        "text": "a"
+      },
+      {
+        "confidence": 0.48603592813014984,
+        "text": "mndau A"
+      },
+      {
+        "confidence": 0.8675820827484131,
+        "text": "-"
+      },
+      {
+        "confidence": 0.4882246255874634,
+        "text": "Pecat"
+      },
+      {
+        "confidence": 0.30802301565806073,
+        "text": "B RP L"
+      },
+      {
+        "confidence": 0.3081604689359665,
+        "text": "Dne Filovo"
+      },
+      {
+        "confidence": 0.4337879916032155,
+        "text": "0 Me Rolaene"
+      },
+      {
+        "confidence": 0.5726107954978943,
+        "text": "- pid OCT"
+      },
+      {
+        "confidence": 0.7784007489681244,
+        "text": "Oral Dng"
+      },
+      {
+        "confidence": 0.44761767983436584,
+        "text": "Oat"
+      },
+      {
+        "confidence": 0.30587947368621826,
+        "text": "\u20ac"
+      },
+      {
+        "confidence": 0.44627219438552856,
+        "text": "e Tipe"
+      },
+      {
+        "confidence": 0.30847927182912827,
+        "text": "K 1ob"
+      },
+      {
+        "confidence": 0.5276447534561157,
+        "text": "RBS"
+      },
+      {
+        "confidence": 0.3559494912624359,
+        "text": "2025757"
+      }
+    ]
+  },
+  "ocr_text": "National\nInstitute of Cardiowasculart\nhrt nangw Negt nha Diseases & Hospital\n1207\nADE\nTREATMENT SHEET\nNag\nEn\nET . - -at\nde\n3E\nOTAnVe FRERI -\n-\n\u00e0\nSarur\nHet a\nI \n\u00e0 Onet\nanc\nCmeppe Nomte\nCa (comp\nTib ipe cane Cimi\n1ab Beiele  a\n7au Mondcat Crom\ne Als Remnur\n5 meceyt\n- -E R\nValtaline\nOest\nNtre\nE\na\nmndau A\n-\nPecat\nB RP L\nDne Filovo\n0 Me Rolaene\n- pid OCT\nOral Dng\nOat\n\u20ac\ne Tipe\nK 1ob\nRBS\n2025757",
+  "ocr_text_length": 391,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.5,
+    "missing_critical_fields": [
+      "patient.name",
+      "prescriber.name"
+    ],
+    "quality_score": 0.486487,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

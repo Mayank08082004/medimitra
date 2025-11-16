@@ -1,0 +1,466 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": "TAb",
+    "record_id": "rec_d1e146e5d8c6456b985a9d96ae82e11e",
+    "success": true
+  },
+  "document_id": "doc_e4933ada6358427b8f5b13493b06336d",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [
+      {
+        "confidence": 0.85,
+        "dosage": null,
+        "duration": null,
+        "form": "suspension",
+        "frequency": null,
+        "instructions": "Gavisol's Suspension",
+        "name": "Gavisol",
+        "quantity": null,
+        "refills": null,
+        "route": null,
+        "strength": null
+      },
+      {
+        "confidence": 0.85,
+        "dosage": null,
+        "duration": null,
+        "form": "suspension",
+        "frequency": null,
+        "instructions": "Gavisol's Suspension",
+        "name": "Gavisol",
+        "quantity": null,
+        "refills": null,
+        "route": null,
+        "strength": null
+      }
+    ],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": "TAb",
+      "insurance": null,
+      "name": "of Operation",
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": null,
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "Operation\nNote:\nBaby Note\nDute\n2124\nAnesthesia\nTime:\nFemide WI\nA6\nsex\nDOB\nSurgeon\nDB\nLo\nAr\nD - -\nCIA\nAnesthetist\nHashg\nAsst.\nBaby Hlood Group:\nSurgeonan\nAssistant 2\nTreatment on Diacharge:\nIndication\nAri\nTal. Gejmselina\nM\nAP Elua(si\nahd\nIncision\nPfannetiel\nTa. Roketfto \u00e0 21212-2\nName of Operation\n20 - -\nUS\nTala. Remmb tong\n210. 012-0\nHE\nProcedure & Findings:\nOde\nAsephis\nRas.fhniame\nA\nTeula oshacod 4X 2e\nPrecautions LUCK dsa das\nN bm :\nOHIK\nTA2\na    A mmid\nTAb, lany!\nYolbdton\na\ndch PLR SAS\nA 5 A\nGavisol's Suspension\na\n(C 1E a: MR a\nF1\nElazol\n\u00e0\nVRA\ni\nNote:\nBaby Note\nDute\n2124\nAnesthesia\nTime:\nFemide WI\nA6\nsex\nDOB\nSurgeon\nDB\nLo\nAr\nD - -\nCIA\nAnesthetist\nHashg\nAssistant\nBaby Hlood Group:\nSurgeonan\nAssistant 2\nTreatment on Diacharge:\nIndication\nAri\nTal. Gejmselina\nM\nAP Elua(si\nahd\nIncision\nPfannetiel\nTa. Roketfto \u00e0 21212-2\nName of Operation\n20 - -\nUS\nTala. Remmb tong\n210. 012-0\nHE\nProcedure & Findings:\nOde\nAsephis\nRas.fhniame\nA\nTeula oshacod 4X 2e\nPrecautions LUCK dsa das\nN bm :\nOHIK\nTA2\na    A mmid\nTAb, lany!\nYolbdton\na\ndch PLR SAS\nA 5 A\nGavisol's Suspension\na\n(C 1E a: MR a\nF1\nElazol\n\u00e0\nVRA\ni"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [
+          {
+            "confidence": 0.85,
+            "dosage": null,
+            "duration": null,
+            "form": "suspension",
+            "frequency": null,
+            "instructions": "Gavisol's Suspension",
+            "name": "Gavisol",
+            "quantity": null,
+            "refills": null,
+            "route": null,
+            "strength": null
+          },
+          {
+            "confidence": 0.85,
+            "dosage": null,
+            "duration": null,
+            "form": "suspension",
+            "frequency": null,
+            "instructions": "Gavisol's Suspension",
+            "name": "Gavisol",
+            "quantity": null,
+            "refills": null,
+            "route": null,
+            "strength": null
+          }
+        ],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": "TAb",
+          "insurance": null,
+          "name": "of Operation",
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": null,
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "Operation\nNote:\nBaby Note\nDute\n2124\nAnesthesia\nTime:\nFemide WI\nA6\nsex\nDOB\nSurgeon\nDB\nLo\nAr\nD - -\nCIA\nAnesthetist\nHashg\nAsst.\nBaby Hlood Group:\nSurgeonan\nAssistant 2\nTreatment on Diacharge:\nIndication\nAri\nTal. Gejmselina\nM\nAP Elua(si\nahd\nIncision\nPfannetiel\nTa. Roketfto \u00e0 21212-2\nName of Operation\n20 - -\nUS\nTala. Remmb tong\n210. 012-0\nHE\nProcedure & Findings:\nOde\nAsephis\nRas.fhniame\nA\nTeula oshacod 4X 2e\nPrecautions LUCK dsa das\nN bm :\nOHIK\nTA2\na    A mmid\nTAb, lany!\nYolbdton\na\ndch PLR SAS\nA 5 A\nGavisol's Suspension\na\n(C 1E a: MR a\nF1\nElazol\n\u00e0\nVRA\ni\nNote:\nBaby Note\nDute\n2124\nAnesthesia\nTime:\nFemide WI\nA6\nsex\nDOB\nSurgeon\nDB\nLo\nAr\nD - -\nCIA\nAnesthetist\nHashg\nAssistant\nBaby Hlood Group:\nSurgeonan\nAssistant 2\nTreatment on Diacharge:\nIndication\nAri\nTal. Gejmselina\nM\nAP Elua(si\nahd\nIncision\nPfannetiel\nTa. Roketfto \u00e0 21212-2\nName of Operation\n20 - -\nUS\nTala. Remmb tong\n210. 012-0\nHE\nProcedure & Findings:\nOde\nAsephis\nRas.fhniame\nA\nTeula oshacod 4X 2e\nPrecautions LUCK dsa das\nN bm :\nOHIK\nTA2\na    A mmid\nTAb, lany!\nYolbdton\na\ndch PLR SAS\nA 5 A\nGavisol's Suspension\na\n(C 1E a: MR a\nF1\nElazol\n\u00e0\nVRA\ni"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T09:10:42.754629Z",
+    "total_text_regions": 66
+  },
+  "ocr_confidence": 0.55565,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.9891501069068909,
+        "text": "Opperation"
+      },
+      {
+        "confidence": 0.9991565942764282,
+        "text": "Note:"
+      },
+      {
+        "confidence": 0.9546310305595398,
+        "text": "Baby Note"
+      },
+      {
+        "confidence": 0.6871939897537231,
+        "text": "Dute"
+      },
+      {
+        "confidence": 0.49964162707328796,
+        "text": "2124"
+      },
+      {
+        "confidence": 0.3379530906677246,
+        "text": "Anaesthesw"
+      },
+      {
+        "confidence": 0.9335614442825317,
+        "text": "Time:"
+      },
+      {
+        "confidence": 0.47547024488449097,
+        "text": "femide WI"
+      },
+      {
+        "confidence": 0.518505871295929,
+        "text": "A6"
+      },
+      {
+        "confidence": 0.3938019871711731,
+        "text": "sexr"
+      },
+      {
+        "confidence": 0.7237343788146973,
+        "text": "DOB"
+      },
+      {
+        "confidence": 0.7104963064193726,
+        "text": "Surgeon"
+      },
+      {
+        "confidence": 0.3352162539958954,
+        "text": "DB"
+      },
+      {
+        "confidence": 0.42926082015037537,
+        "text": "Lo"
+      },
+      {
+        "confidence": 0.2193286418914795,
+        "text": "Ar"
+      },
+      {
+        "confidence": 0.4506257077058156,
+        "text": "D - -"
+      },
+      {
+        "confidence": 0.7621314525604248,
+        "text": "CIA"
+      },
+      {
+        "confidence": 0.5638489127159119,
+        "text": "Anaesthetist"
+      },
+      {
+        "confidence": 0.4894905388355255,
+        "text": "Hashg"
+      },
+      {
+        "confidence": 0.5773049592971802,
+        "text": "Asst."
+      },
+      {
+        "confidence": 0.7052030762036642,
+        "text": "Baby Hlood Goup:"
+      },
+      {
+        "confidence": 0.8099703192710876,
+        "text": "Surgeonan"
+      },
+      {
+        "confidence": 0.829767256975174,
+        "text": "Assistant 2"
+      },
+      {
+        "confidence": 0.8996718525886536,
+        "text": "-"
+      },
+      {
+        "confidence": 0.6875238617261251,
+        "text": "treatment on Diacharge:"
+      },
+      {
+        "confidence": 0.6942925453186035,
+        "text": "indication"
+      },
+      {
+        "confidence": 0.415383517742157,
+        "text": "ari"
+      },
+      {
+        "confidence": 0.5386477708816528,
+        "text": "-"
+      },
+      {
+        "confidence": 0.4351899325847626,
+        "text": "Tala. Gejmselina"
+      },
+      {
+        "confidence": 0.6214371174573898,
+        "text": "- - \u00e0 gihd"
+      },
+      {
+        "confidence": 0.37236684560775757,
+        "text": "M"
+      },
+      {
+        "confidence": 0.3801952600479126,
+        "text": "AP Elua(si"
+      },
+      {
+        "confidence": 0.3736056685447693,
+        "text": "ahd"
+      },
+      {
+        "confidence": 0.4999966621398926,
+        "text": "incision"
+      },
+      {
+        "confidence": 0.34114816784858704,
+        "text": "Pfannetiel"
+      },
+      {
+        "confidence": 0.3969396501779556,
+        "text": "Ta. Roketfto \u00e0 21212-2"
+      },
+      {
+        "confidence": 0.9714029630025228,
+        "text": "Name of Opperation"
+      },
+      {
+        "confidence": 0.6259988099336624,
+        "text": "20 - - "
+      },
+      {
+        "confidence": 0.3876970112323761,
+        "text": "US"
+      },
+      {
+        "confidence": 0.6744486292203268,
+        "text": "TAla. Remmb tong"
+      },
+      {
+        "confidence": 0.6202112436294556,
+        "text": "210. 012-0"
+      },
+      {
+        "confidence": 0.27640804648399353,
+        "text": "HE"
+      },
+      {
+        "confidence": 0.9053115049997965,
+        "text": "Procedure & Findings:"
+      },
+      {
+        "confidence": 0.44684457778930664,
+        "text": "Ode"
+      },
+      {
+        "confidence": 0.4001728892326355,
+        "text": "Asephis"
+      },
+      {
+        "confidence": 0.35088688135147095,
+        "text": "Ras.fhniame"
+      },
+      {
+        "confidence": 0.31526345014572144,
+        "text": "A"
+      },
+      {
+        "confidence": 0.40956828743219376,
+        "text": "Teula oshacod 4X 219"
+      },
+      {
+        "confidence": 0.2810419984161854,
+        "text": "precautsnn LUCK dsa das"
+      },
+      {
+        "confidence": 0.4399242103099823,
+        "text": "N bm :"
+      },
+      {
+        "confidence": 0.4823887348175049,
+        "text": "OHIK"
+      },
+      {
+        "confidence": 0.4414815306663513,
+        "text": "TA2"
+      },
+      {
+        "confidence": 0.47989917794863385,
+        "text": "a    A mmid"
+      },
+      {
+        "confidence": 0.6252644807100296,
+        "text": "TAb, lany!"
+      },
+      {
+        "confidence": 0.2054157257080078,
+        "text": "Yolbdton"
+      },
+      {
+        "confidence": 0.2683955132961273,
+        "text": "a"
+      },
+      {
+        "confidence": 0.5884210666020712,
+        "text": "dch PLR SAS"
+      },
+      {
+        "confidence": 0.6005098819732666,
+        "text": "A 5 A"
+      },
+      {
+        "confidence": 0.8006569743156433,
+        "text": "GAVISOL'Suspension"
+      },
+      {
+        "confidence": 0.5427680015563965,
+        "text": "a"
+      },
+      {
+        "confidence": 0.42653933763504026,
+        "text": "(C 1E a: MR a"
+      },
+      {
+        "confidence": 0.5309471487998962,
+        "text": "F1"
+      },
+      {
+        "confidence": 0.9992523789405823,
+        "text": "Elazol"
+      },
+      {
+        "confidence": 0.5732485055923462,
+        "text": "\u00e0"
+      },
+      {
+        "confidence": 0.1956961750984192,
+        "text": "VRA"
+      },
+      {
+        "confidence": 0.754997968673706,
+        "text": "i"
+      }
+    ]
+  },
+  "ocr_text": "Opperation\nNote:\nBaby Note\nDute\n2124\nAnaesthesw\nTime:\nfemide WI\nA6\nsexr\nDOB\nSurgeon\nDB\nLo\nAr\nD - -\nCIA\nAnaesthetist\nHashg\nAsst.\nBaby Hlood Goup:\nSurgeonan\nAssistant 2\n-\ntreatment on Diacharge:\nindication\nari\n-\nTala. Gejmselina\n- - \u00e0 gihd\nM\nAP Elua(si\nahd\nincision\nPfannetiel\nTa. Roketfto \u00e0 21212-2\nName of Opperation\n20 - - \nUS\nTAla. Remmb tong\n210. 012-0\nHE\nProcedure & Findings:\nOde\nAsephis\nRas.fhniame\nA\nTeula oshacod 4X 219\nprecautsnn LUCK dsa das\nN bm :\nOHIK\nTA2\na    A mmid\nTAb, lany!\nYolbdton\na\ndch PLR SAS\nA 5 A\nGAVISOL'Suspension\na\n(C 1E a: MR a\nF1\nElazol\n\u00e0\nVRA\ni",
+  "ocr_text_length": 572,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.75,
+    "missing_critical_fields": [
+      "prescriber.name"
+    ],
+    "quality_score": 0.55565,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

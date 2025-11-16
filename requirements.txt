@@ -12,3 +12,7 @@ sentencepiece
 pillow
 requests
 tqdm
+matplotlib
+pandas
+seaborn
+scikit-learn

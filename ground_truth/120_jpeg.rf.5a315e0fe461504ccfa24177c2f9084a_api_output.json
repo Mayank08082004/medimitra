@@ -1,0 +1,305 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": "ae-",
+    "record_id": "rec_30484e9a94aa4595a69150469bec0755",
+    "success": true
+  },
+  "document_id": "doc_1d333918d17e47618ab15e6b24a35ea2",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": "ae-",
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": "o-tot",
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "Doctora MD Billal Hossain\nA\nLumen Transme vee\n:   Daa\nMAhneD\nHau  NFRCE Ra\nRe\nBom\noab.Alnet\noMT\nPO-P\na ger\n.\nGrabbepemed\n> toto\nOmb Sidae-\nDr\no-tot>\ndeom\namb myesor\n2\n2 to +2\nQMo Conaleal\n0-2t0\n3om\nOAP Derhe\nto t>* -\nUD Xic a\na\nA\nLumen Transme vee\n:   Daa\nMAhneD\nHau  NFRCE Ra\nRe\nBom\noab.Alnet\noMT\nPO-P\na ger\n.\nGrabbepemed\n> toto\nOmb Sidae-\nDr\no-tot>\ndeom\namb myesor\n2\n2 to +2\nQMo Conaleal\n0-2t0\n3om\nOAP Derhe\nto t>* -\nUD Xic a\na\n(Note: The provided text appears to be a list or sequence of terms and abbreviations rather than a coherent paragraph. As such, there are no apparent OCR errors to correct. The cleaned version is the same as the input, assuming no OCR mistakes were present.)"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": "ae-",
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": "o-tot",
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "Doctora MD Billal Hossain\nA\nLumen Transme vee\n:   Daa\nMAhneD\nHau  NFRCE Ra\nRe\nBom\noab.Alnet\noMT\nPO-P\na ger\n.\nGrabbepemed\n> toto\nOmb Sidae-\nDr\no-tot>\ndeom\namb myesor\n2\n2 to +2\nQMo Conaleal\n0-2t0\n3om\nOAP Derhe\nto t>* -\nUD Xic a\na\nA\nLumen Transme vee\n:   Daa\nMAhneD\nHau  NFRCE Ra\nRe\nBom\noab.Alnet\noMT\nPO-P\na ger\n.\nGrabbepemed\n> toto\nOmb Sidae-\nDr\no-tot>\ndeom\namb myesor\n2\n2 to +2\nQMo Conaleal\n0-2t0\n3om\nOAP Derhe\nto t>* -\nUD Xic a\na\n(Note: The provided text appears to be a list or sequence of terms and abbreviations rather than a coherent paragraph. As such, there are no apparent OCR errors to correct. The cleaned version is the same as the input, assuming no OCR mistakes were present.)"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T08:59:16.298466Z",
+    "total_text_regions": 39
+  },
+  "ocr_confidence": 0.563582,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.6349206566810608,
+        "text": "- -t"
+      },
+      {
+        "confidence": 0.8615203946828842,
+        "text": "Doctora MD BILLALI HOSSAIN"
+      },
+      {
+        "confidence": 0.8770257830619812,
+        "text": "A"
+      },
+      {
+        "confidence": 0.6587785184383392,
+        "text": "-a -"
+      },
+      {
+        "confidence": 0.145751953125,
+        "text": ""
+      },
+      {
+        "confidence": 0.5727233290672302,
+        "text": "-"
+      },
+      {
+        "confidence": 0.5494745969772339,
+        "text": "\u00e0"
+      },
+      {
+        "confidence": 0.1837378591299057,
+        "text": ""
+      },
+      {
+        "confidence": 0.35457172989845276,
+        "text": "-"
+      },
+      {
+        "confidence": 0.526481419801712,
+        "text": "- -"
+      },
+      {
+        "confidence": 0.2954456110795339,
+        "text": "Lnu Trvme vee"
+      },
+      {
+        "confidence": 0.49825993925333023,
+        "text": ":   Daa"
+      },
+      {
+        "confidence": 0.22672443091869354,
+        "text": "MAhneD"
+      },
+      {
+        "confidence": 0.40930360555648804,
+        "text": "-"
+      },
+      {
+        "confidence": 0.5210058465600014,
+        "text": "Hau  NFRCE Ra"
+      },
+      {
+        "confidence": 0.9815641045570374,
+        "text": "Re"
+      },
+      {
+        "confidence": 0.586232602596283,
+        "text": "Bom"
+      },
+      {
+        "confidence": 0.42555704712867737,
+        "text": "oab.Alnet"
+      },
+      {
+        "confidence": 0.53861004114151,
+        "text": "oMT"
+      },
+      {
+        "confidence": 0.5923794507980347,
+        "text": "PO-P"
+      },
+      {
+        "confidence": 0.6657314598560333,
+        "text": "a ger"
+      },
+      {
+        "confidence": 0.9755557775497437,
+        "text": "."
+      },
+      {
+        "confidence": 0.4806947410106659,
+        "text": "Grabbepemed"
+      },
+      {
+        "confidence": 0.33480748534202576,
+        "text": "> toto"
+      },
+      {
+        "confidence": 0.5165877044200897,
+        "text": "Omb Sidae-"
+      },
+      {
+        "confidence": 0.685895562171936,
+        "text": "Dr"
+      },
+      {
+        "confidence": 0.6233430504798889,
+        "text": "o-tot>"
+      },
+      {
+        "confidence": 0.3542734682559967,
+        "text": "deom"
+      },
+      {
+        "confidence": 0.6805980205535889,
+        "text": "-"
+      },
+      {
+        "confidence": 0.5197592377662659,
+        "text": "amb myesor"
+      },
+      {
+        "confidence": 0.6015755534172058,
+        "text": "2"
+      },
+      {
+        "confidence": 0.8614034255345663,
+        "text": "2 to +2"
+      },
+      {
+        "confidence": 0.8486049175262451,
+        "text": "QMo Conaleal"
+      },
+      {
+        "confidence": 0.47520583868026733,
+        "text": "0-2t0"
+      },
+      {
+        "confidence": 0.7097615003585815,
+        "text": "3om"
+      },
+      {
+        "confidence": 0.36701904237270355,
+        "text": "OAP Derhe"
+      },
+      {
+        "confidence": 0.6334649920463562,
+        "text": "to t>* -"
+      },
+      {
+        "confidence": 0.7443077365557352,
+        "text": "UD Xic a"
+      },
+      {
+        "confidence": 0.4610387682914734,
+        "text": "a"
+      }
+    ]
+  },
+  "ocr_text": "- -t\nDoctora MD BILLALI HOSSAIN\nA\n-a -\n\n-\n\u00e0\n\n-\n- -\nLnu Trvme vee\n:   Daa\nMAhneD\n-\nHau  NFRCE Ra\nRe\nBom\noab.Alnet\noMT\nPO-P\na ger\n.\nGrabbepemed\n> toto\nOmb Sidae-\nDr\no-tot>\ndeom\n-\namb myesor\n2\n2 to +2\nQMo Conaleal\n0-2t0\n3om\nOAP Derhe\nto t>* -\nUD Xic a\na",
+  "ocr_text_length": 250,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.5,
+    "missing_critical_fields": [
+      "patient.name",
+      "medications"
+    ],
+    "quality_score": 0.563582,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

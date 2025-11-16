@@ -1,0 +1,357 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_77f23a76371845afa4e584dada7aa385",
+    "success": true
+  },
+  "document_id": "doc_92e72fe0409d45388d6d1fd2287aafa6",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [
+      {
+        "confidence": 0.85,
+        "dosage": null,
+        "duration": null,
+        "form": null,
+        "frequency": null,
+        "instructions": "*Note: The cleaned text retains the original OCR errors where they are obvious and cannot be corrected without altering the meaning. For example, \"2HF\" is assumed to be \"2 Hours\" and \"7sV\" is assumed to be \"7 seconds\". However, without further context, these assumptions are made to preserve the original text's integrity. Other potential corrections are not made as they could lead to misinterpretation.",
+        "name": "Note",
+        "quantity": null,
+        "refills": null,
+        "route": null,
+        "strength": null
+      }
+    ],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": "Mostola Zaman",
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "Doctor Mostola Zaman\nEMIOR a CHER WRF\nMuGB a\nE\nDie\nunR\nRU T\nLovr\ncok\n22Y\n1 Tub Ti\nI2AY\n2HF\nerep M\n78MV\n4 Cupt Dextac\nBong\n2HF\n7sV\nveahg\nU TuB\n010+3\nimigsa\nCOP\n1tot)\n1ol\n.\nCjoasqin\nA Tud\n)10E)\nE -\nSinastim\nN\n2rot2\n2\nr\nThysox\nTob\n21\nototo\nam TEST 4 - A umon 0\nA ATuS HriT al oT ot TMIL IAINEl\ncche o>p pauus\nEMIOR a CHER WRF\nMuGB a\nE\nDie\nunR\nRU T\nLovr\ncok\n22Y\n1 Tub Ti\nI2AY\n2HF\nerep M\n78MV\n4 Cupt Dextac\nBong\n2HF Written in Roman numerals\n7sV\nveahg\nU TuB\n010+3\nimigsa\nCOP\n1tot\n.\nCjoasqin\nA Tud\n)10E)\nE -\nSinastim\nN\n2rot2\n2\nr\nThysox\nTob\n21\nototo\nam TEST 4 - A umon 0\nA ATuS HriT al oT ot TMIL IAINEl\ncche o>p pauus\n*Note: The cleaned text retains the original OCR errors where they are obvious and cannot be corrected without altering the meaning. For example, \"2HF\" is assumed to be \"2 Hours\" and \"7sV\" is assumed to be \"7 seconds\". However, without further context, these assumptions are made to preserve the original text's integrity. Other potential corrections are not made as they could lead to misinterpretation."
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [
+          {
+            "confidence": 0.85,
+            "dosage": null,
+            "duration": null,
+            "form": null,
+            "frequency": null,
+            "instructions": "*Note: The cleaned text retains the original OCR errors where they are obvious and cannot be corrected without altering the meaning. For example, \"2HF\" is assumed to be \"2 Hours\" and \"7sV\" is assumed to be \"7 seconds\". However, without further context, these assumptions are made to preserve the original text's integrity. Other potential corrections are not made as they could lead to misinterpretation.",
+            "name": "Note",
+            "quantity": null,
+            "refills": null,
+            "route": null,
+            "strength": null
+          }
+        ],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": "Mostola Zaman",
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "Doctor Mostola Zaman\nEMIOR a CHER WRF\nMuGB a\nE\nDie\nunR\nRU T\nLovr\ncok\n22Y\n1 Tub Ti\nI2AY\n2HF\nerep M\n78MV\n4 Cupt Dextac\nBong\n2HF\n7sV\nveahg\nU TuB\n010+3\nimigsa\nCOP\n1tot)\n1ol\n.\nCjoasqin\nA Tud\n)10E)\nE -\nSinastim\nN\n2rot2\n2\nr\nThysox\nTob\n21\nototo\nam TEST 4 - A umon 0\nA ATuS HriT al oT ot TMIL IAINEl\ncche o>p pauus\nEMIOR a CHER WRF\nMuGB a\nE\nDie\nunR\nRU T\nLovr\ncok\n22Y\n1 Tub Ti\nI2AY\n2HF\nerep M\n78MV\n4 Cupt Dextac\nBong\n2HF Written in Roman numerals\n7sV\nveahg\nU TuB\n010+3\nimigsa\nCOP\n1tot\n.\nCjoasqin\nA Tud\n)10E)\nE -\nSinastim\nN\n2rot2\n2\nr\nThysox\nTob\n21\nototo\nam TEST 4 - A umon 0\nA ATuS HriT al oT ot TMIL IAINEl\ncche o>p pauus\n*Note: The cleaned text retains the original OCR errors where they are obvious and cannot be corrected without altering the meaning. For example, \"2HF\" is assumed to be \"2 Hours\" and \"7sV\" is assumed to be \"7 seconds\". However, without further context, these assumptions are made to preserve the original text's integrity. Other potential corrections are not made as they could lead to misinterpretation."
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T08:30:32.549564Z",
+    "total_text_regions": 45
+  },
+  "ocr_confidence": 0.483457,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.894268810749054,
+        "text": "-"
+      },
+      {
+        "confidence": 0.7965905070304871,
+        "text": "Doctor Mostola Zaman"
+      },
+      {
+        "confidence": 0.3508138582110405,
+        "text": "EMIOR a CHER WRF"
+      },
+      {
+        "confidence": 0.29793648421764374,
+        "text": "MuGB a"
+      },
+      {
+        "confidence": 0.4840509593486786,
+        "text": "E"
+      },
+      {
+        "confidence": 0.5165308713912964,
+        "text": "- -"
+      },
+      {
+        "confidence": 0.31946903467178345,
+        "text": "Die"
+      },
+      {
+        "confidence": 0.26544639468193054,
+        "text": "unR"
+      },
+      {
+        "confidence": 0.24798297882080078,
+        "text": "RU T"
+      },
+      {
+        "confidence": 0.26629406213760376,
+        "text": "Lovr"
+      },
+      {
+        "confidence": 0.7714032530784607,
+        "text": "cok"
+      },
+      {
+        "confidence": 0.7066422700881958,
+        "text": "22Y"
+      },
+      {
+        "confidence": 0.3521559735139211,
+        "text": "1 Tub Ti"
+      },
+      {
+        "confidence": 0.3708937466144562,
+        "text": "I2AY"
+      },
+      {
+        "confidence": 0.24450895190238953,
+        "text": "2HF"
+      },
+      {
+        "confidence": 0.2647583931684494,
+        "text": "erep M"
+      },
+      {
+        "confidence": 0.5069229602813721,
+        "text": "78MV"
+      },
+      {
+        "confidence": 0.47823673486709595,
+        "text": "4 Cupt Dextac"
+      },
+      {
+        "confidence": 0.25803855061531067,
+        "text": "Bong"
+      },
+      {
+        "confidence": 0.5659564733505249,
+        "text": "2HF"
+      },
+      {
+        "confidence": 0.364946186542511,
+        "text": "7sV"
+      },
+      {
+        "confidence": 0.6613449454307556,
+        "text": "veahg"
+      },
+      {
+        "confidence": 0.4825576990842819,
+        "text": "U TuB"
+      },
+      {
+        "confidence": 0.7616715431213379,
+        "text": "010+3"
+      },
+      {
+        "confidence": 0.44480982422828674,
+        "text": "imigsa"
+      },
+      {
+        "confidence": 0.6906120777130127,
+        "text": "COP"
+      },
+      {
+        "confidence": 0.44888266921043396,
+        "text": "1tot)"
+      },
+      {
+        "confidence": 0.4307733178138733,
+        "text": "1ol"
+      },
+      {
+        "confidence": 0.46841901540756226,
+        "text": "."
+      },
+      {
+        "confidence": 0.4455372393131256,
+        "text": "Cjoasqin"
+      },
+      {
+        "confidence": 0.3724338263273239,
+        "text": "A Tud"
+      },
+      {
+        "confidence": 0.21502381563186646,
+        "text": ")10E)"
+      },
+      {
+        "confidence": 0.554547592997551,
+        "text": "E -"
+      },
+      {
+        "confidence": 0.4722660183906555,
+        "text": "Sinastim"
+      },
+      {
+        "confidence": 0.7215978503227234,
+        "text": "N"
+      },
+      {
+        "confidence": 0.6070144176483154,
+        "text": "2rot2"
+      },
+      {
+        "confidence": 0.46531951427459717,
+        "text": "2"
+      },
+      {
+        "confidence": 0.2683780789375305,
+        "text": "r"
+      },
+      {
+        "confidence": 0.5285346508026123,
+        "text": "Thysox"
+      },
+      {
+        "confidence": 0.7590398192405701,
+        "text": "Tob"
+      },
+      {
+        "confidence": 0.9766323566436768,
+        "text": "21"
+      },
+      {
+        "confidence": 0.49562254548072815,
+        "text": "ototo"
+      },
+      {
+        "confidence": 0.4601790692125048,
+        "text": "am TEST 4 - A umon 0"
+      },
+      {
+        "confidence": 0.36164828203618526,
+        "text": "A ATuS HriT al oT ot TMIL IAINEl"
+      },
+      {
+        "confidence": 0.3388659656047821,
+        "text": "cche o>p pauus"
+      }
+    ]
+  },
+  "ocr_text": "-\nDoctor Mostola Zaman\nEMIOR a CHER WRF\nMuGB a\nE\n- -\nDie\nunR\nRU T\nLovr\ncok\n22Y\n1 Tub Ti\nI2AY\n2HF\nerep M\n78MV\n4 Cupt Dextac\nBong\n2HF\n7sV\nveahg\nU TuB\n010+3\nimigsa\nCOP\n1tot)\n1ol\n.\nCjoasqin\nA Tud\n)10E)\nE -\nSinastim\nN\n2rot2\n2\nr\nThysox\nTob\n21\nototo\nam TEST 4 - A umon 0\nA ATuS HriT al oT ot TMIL IAINEl\ncche o>p pauus",
+  "ocr_text_length": 311,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.5,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id"
+    ],
+    "quality_score": 0.483457,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

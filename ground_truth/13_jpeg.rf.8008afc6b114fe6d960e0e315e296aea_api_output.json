@@ -1,0 +1,330 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_7c07df8fbd61459abc1b133246c0faf6",
+    "success": true
+  },
+  "document_id": "doc_a34cc38d228c4663af606b42df90c622",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": "EDS",
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "National Institute of Cardiovasculature Diseases & Hospital\nSher-E-llangla Nagan, Dhaka-1207\nTREATMENT SHEET\nTreatment:\nMard HCU\nRoom No. 9 -\nSection C\nOperation:\nCE 2 -\nOperation No.\n1\nDate of operation:\n317/25\n1% Mepen (e\nVia Via\nPP  Relaxin 30\nAllocation: (20m)\nVil Yexehl\nA>P\nLead time:\n1 day\nPLEV-MA\n\u00e0\ncoke\napprise\nFuduun\n\u00e0\ntale\nV todl\nVoLGL or Psiry\nA\nTAX\nEDS\nMolodoral tuLe\nDre\n24\nPatient:\n02577 4 11240\n### Response\nNational Institute of Cardiovascular Diseases & Hospital\nSher-E-Langla Nagan, Dhaka-1207\nTREATMENT SHEET\nTreatment:\nMard HCU\nRoom No. 9 -\nSection C\nOperation:\nCE 2 -\nOperation No. 1\nDate of operation: 317/25\n1% Mepen (e\nVia Via\nPP  Relaxin 30\nAllocation: (20m)\nVil Yexehl\nA>P\nLead time: 1 day\nPLEV-MA\ncoke\napprise\nFuduun\n\u00e0\ntale\nV todl\nVoLGL or Psiry\nA\nTAX\nEDS\nMolodoral tuLe\nDre\n24\nPatient: 02577 4 11240"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": "EDS",
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "National Institute of Cardiovasculature Diseases & Hospital\nSher-E-llangla Nagan, Dhaka-1207\nTREATMENT SHEET\nTreatment:\nMard HCU\nRoom No. 9 -\nSection C\nOperation:\nCE 2 -\nOperation No.\n1\nDate of operation:\n317/25\n1% Mepen (e\nVia Via\nPP  Relaxin 30\nAllocation: (20m)\nVil Yexehl\nA>P\nLead time:\n1 day\nPLEV-MA\n\u00e0\ncoke\napprise\nFuduun\n\u00e0\ntale\nV todl\nVoLGL or Psiry\nA\nTAX\nEDS\nMolodoral tuLe\nDre\n24\nPatient:\n02577 4 11240\n### Response\nNational Institute of Cardiovascular Diseases & Hospital\nSher-E-Langla Nagan, Dhaka-1207\nTREATMENT SHEET\nTreatment:\nMard HCU\nRoom No. 9 -\nSection C\nOperation:\nCE 2 -\nOperation No. 1\nDate of operation: 317/25\n1% Mepen (e\nVia Via\nPP  Relaxin 30\nAllocation: (20m)\nVil Yexehl\nA>P\nLead time: 1 day\nPLEV-MA\ncoke\napprise\nFuduun\n\u00e0\ntale\nV todl\nVoLGL or Psiry\nA\nTAX\nEDS\nMolodoral tuLe\nDre\n24\nPatient: 02577 4 11240"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T09:14:22.998426Z",
+    "total_text_regions": 45
+  },
+  "ocr_confidence": 0.467285,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.9582170333181109,
+        "text": "National Institute of Cardiovasculart Diseases & Hospital"
+      },
+      {
+        "confidence": 0.41807107130686444,
+        "text": "Sher-E-llangla Nagan, Dhaka-1207"
+      },
+      {
+        "confidence": 0.9442254602909088,
+        "text": "TREATMENT SHEET"
+      },
+      {
+        "confidence": 0.6696996092796326,
+        "text": "tame"
+      },
+      {
+        "confidence": 0.2498554289340973,
+        "text": "Rtema"
+      },
+      {
+        "confidence": 0.28852444887161255,
+        "text": "ge:"
+      },
+      {
+        "confidence": 0.34050194919109344,
+        "text": "Mard HCu"
+      },
+      {
+        "confidence": 0.3016503266990185,
+        "text": "RetCaint e/9 . "
+      },
+      {
+        "confidence": 0.2584654539823532,
+        "text": "* 9"
+      },
+      {
+        "confidence": 0.4203785598278046,
+        "text": "f ot a OUPIE T"
+      },
+      {
+        "confidence": 0.20944510400295258,
+        "text": "sgn"
+      },
+      {
+        "confidence": 0.5948343873023987,
+        "text": "TE"
+      },
+      {
+        "confidence": 0.4388994723558426,
+        "text": "posk-operraliva cider"
+      },
+      {
+        "confidence": 0.5206515789031982,
+        "text": "CE 2 -"
+      },
+      {
+        "confidence": 0.5954829454421997,
+        "text": "Opealum "
+      },
+      {
+        "confidence": 0.43203970789909363,
+        "text": "Nto"
+      },
+      {
+        "confidence": 0.4826561361551285,
+        "text": "E 1"
+      },
+      {
+        "confidence": 0.5190894901752472,
+        "text": "Dal 317/25"
+      },
+      {
+        "confidence": 0.5227632025877634,
+        "text": "1% Mepen (e"
+      },
+      {
+        "confidence": 0.5913421988487244,
+        "text": "ViA V  * in"
+      },
+      {
+        "confidence": 0.44411468505859375,
+        "text": "to lutarryt"
+      },
+      {
+        "confidence": 0.6856434717774391,
+        "text": "PP  RiLac 30"
+      },
+      {
+        "confidence": 0.335839182138443,
+        "text": "ae lroke"
+      },
+      {
+        "confidence": 0.4413740038871765,
+        "text": "a (20m) Vil Yexehl"
+      },
+      {
+        "confidence": 0.6363461017608643,
+        "text": "A>P"
+      },
+      {
+        "confidence": 0.3858243077993393,
+        "text": "Loyeclt dun"
+      },
+      {
+        "confidence": 0.22397764027118683,
+        "text": "wdiet PLEVE-Ma"
+      },
+      {
+        "confidence": 0.7064509391784668,
+        "text": "VLA"
+      },
+      {
+        "confidence": 0.28214555978775024,
+        "text": "\u00e0"
+      },
+      {
+        "confidence": 0.4640751779079437,
+        "text": ""
+      },
+      {
+        "confidence": 0.4439394474029541,
+        "text": "cokeh"
+      },
+      {
+        "confidence": 0.41840869188308716,
+        "text": "aprri"
+      },
+      {
+        "confidence": 0.3647781014442444,
+        "text": "Fuduun"
+      },
+      {
+        "confidence": 0.3397062420845032,
+        "text": "\u00e0"
+      },
+      {
+        "confidence": 0.42343178391456604,
+        "text": "tale"
+      },
+      {
+        "confidence": 0.6846405416727066,
+        "text": "V todl"
+      },
+      {
+        "confidence": 0.4487626651922862,
+        "text": "VoLGL or Psiry"
+      },
+      {
+        "confidence": 0.8625481724739075,
+        "text": "A"
+      },
+      {
+        "confidence": 0.40917056798934937,
+        "text": "TAX"
+      },
+      {
+        "confidence": 0.47702670097351074,
+        "text": "EDS"
+      },
+      {
+        "confidence": 0.49962879717350006,
+        "text": "Madoloral tuLe"
+      },
+      {
+        "confidence": 0.2599445879459381,
+        "text": "Dre"
+      },
+      {
+        "confidence": 0.40013012290000916,
+        "text": "24"
+      },
+      {
+        "confidence": 0.27393947541713715,
+        "text": "P vad"
+      },
+      {
+        "confidence": 0.35919517278671265,
+        "text": "02577 4 11240"
+      }
+    ]
+  },
+  "ocr_text": "National Institute of Cardiovasculart Diseases & Hospital\nSher-E-llangla Nagan, Dhaka-1207\nTREATMENT SHEET\ntame\nRtema\nge:\nMard HCu\nRetCaint e/9 . \n* 9\nf ot a OUPIE T\nsgn\nTE\nposk-operraliva cider\nCE 2 -\nOpealum \nNto\nE 1\nDal 317/25\n1% Mepen (e\nViA V  * in\nto lutarryt\nPP  RiLac 30\nae lroke\na (20m) Vil Yexehl\nA>P\nLoyeclt dun\nwdiet PLEVE-Ma\nVLA\n\u00e0\n\ncokeh\naprri\nFuduun\n\u00e0\ntale\nV todl\nVoLGL or Psiry\nA\nTAX\nEDS\nMadoloral tuLe\nDre\n24\nP vad\n02577 4 11240",
+  "ocr_text_length": 444,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.25,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "medications"
+    ],
+    "quality_score": 0.467285,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

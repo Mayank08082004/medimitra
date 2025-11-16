@@ -1,0 +1,231 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_a47d5e19eef94de684f0fc6a762ff83c",
+    "success": true
+  },
+  "document_id": "doc_77935fd7c9b642539b7876491d13fb1d",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": null,
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "National Institute of Cardiovascular Diseases and Hospital\nTetregninal onale 170X\nTREATMENT SHEET\n1 -\nham11E1\nene\nHEJT\nE .\n4\nvebuatria\nT\nLI :7\na a\n2025/9/4\n### Response\nNational Institute of Cardiovascular Diseases and Hospital\nTetregninal onale 170X\nTREATMENT SHEET\n1 -\nham11E1\nene\nHEJT\nE .\n4\nvebuatria\nT\nLI :7\na a\n2025/9/4"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": null,
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "National Institute of Cardiovascular Diseases and Hospital\nTetregninal onale 170X\nTREATMENT SHEET\n1 -\nham11E1\nene\nHEJT\nE .\n4\nvebuatria\nT\nLI :7\na a\n2025/9/4\n### Response\nNational Institute of Cardiovascular Diseases and Hospital\nTetregninal onale 170X\nTREATMENT SHEET\n1 -\nham11E1\nene\nHEJT\nE .\n4\nvebuatria\nT\nLI :7\na a\n2025/9/4"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T08:28:29.205351Z",
+    "total_text_regions": 20
+  },
+  "ocr_confidence": 0.568294,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.6620381219046456,
+        "text": "National ientitute of Cardiovescular Diseaies & Hospital"
+      },
+      {
+        "confidence": 0.4165760695934296,
+        "text": "tet Regir nbpe onale 170X"
+      },
+      {
+        "confidence": 0.9173498451709747,
+        "text": "TREATMENT SHEET"
+      },
+      {
+        "confidence": 0.5872561782598495,
+        "text": "1 -"
+      },
+      {
+        "confidence": 0.2988235056400299,
+        "text": "h"
+      },
+      {
+        "confidence": 0.7737336158752441,
+        "text": "a"
+      },
+      {
+        "confidence": 0.34797200560569763,
+        "text": "m"
+      },
+      {
+        "confidence": 0.16864417493343353,
+        "text": "11E1"
+      },
+      {
+        "confidence": 0.5014443695545197,
+        "text": "e ene"
+      },
+      {
+        "confidence": 0.4991784393787384,
+        "text": ""
+      },
+      {
+        "confidence": 0.8904134035110474,
+        "text": "-"
+      },
+      {
+        "confidence": 0.4312686324119568,
+        "text": "HEJT"
+      },
+      {
+        "confidence": 0.5163719207048416,
+        "text": "E ."
+      },
+      {
+        "confidence": 0.42478808760643005,
+        "text": "4"
+      },
+      {
+        "confidence": 0.9951173067092896,
+        "text": "h"
+      },
+      {
+        "confidence": 0.24079255759716034,
+        "text": "VEBUERATIA"
+      },
+      {
+        "confidence": 0.7969779968261719,
+        "text": "T"
+      },
+      {
+        "confidence": 0.49411001801490784,
+        "text": "LI :7"
+      },
+      {
+        "confidence": 0.4056820422410965,
+        "text": "a a"
+      },
+      {
+        "confidence": 0.9973504543304443,
+        "text": "2025/9/4"
+      }
+    ]
+  },
+  "ocr_text": "National ientitute of Cardiovescular Diseaies & Hospital\ntet Regir nbpe onale 170X\nTREATMENT SHEET\n1 -\nh\na\nm\n11E1\ne ene\n\n-\nHEJT\nE .\n4\nh\nVEBUERATIA\nT\nLI :7\na a\n2025/9/4",
+  "ocr_text_length": 167,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.0,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "prescriber.name",
+      "medications"
+    ],
+    "quality_score": 0.568294,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

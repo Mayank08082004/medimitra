@@ -1,0 +1,380 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": "ing",
+    "record_id": "rec_f9014025b809450bb455e0c32ba7a33e",
+    "success": true
+  },
+  "document_id": "doc_a72eb5258338490d8db878cc5ce2b8d4",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [
+      {
+        "confidence": 0.85,
+        "dosage": null,
+        "duration": null,
+        "form": null,
+        "frequency": "daily",
+        "instructions": "National Institute of Cardiovasc Written in the 19th century, the novel \"War and Peace\" by Leo Tolstoy explores the impact of the Napoleonic Wars on Russian society. The story follows a diverse group of characters, including the aristocratic families of the Bezukhovs, Bolkonskys, and Rostovs, as they navigate the tumultuous period of the French invasion of Russia in 1812. Tolstoy delves into themes of fate, free will, and the search for meaning in life, while also providing a detailed depiction of Russian military campaigns and the daily lives of people during wartime. The novel is renowned for its realistic portrayal of historical events and its philosophical insights into human nature and society.",
+        "name": "National",
+        "quantity": null,
+        "refills": null,
+        "route": null,
+        "strength": null
+      }
+    ],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": "ing",
+      "insurance": null,
+      "name": null,
+      "phone": "24011102"
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": "24011102"
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": "Yousuf",
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "Go to\nVisit the\nNational Institute of Cardiovascular Diseases and Hospital\nAddress: 0haka-1207, M/Wa Lane, Treatment Sheet No. 26E, Max E04, Bed/10, ST1, Ward 1, POC Cardiology\nPhone: 24011102\nYours sincerely,\nMr. Mohammad Yousuf\nDepartment of Cardiology\nonk\nVisit the\nNational Institute of Cardiovasc Written in the 19th century, the novel \"War and Peace\" by Leo Tolstoy explores the impact of the Napoleonic Wars on Russian society. The story follows a diverse group of characters, including the aristocratic families of the Bezukhovs, Bolkonskys, and Rostovs, as they navigate the tumultuous period of the French invasion of Russia in 1812. Tolstoy delves into themes of fate, free will, and the search for meaning in life, while also providing a detailed depiction of Russian military campaigns and the daily lives of people during wartime. The novel is renowned for its realistic portrayal of historical events and its philosophical insights into human nature and society."
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [
+          {
+            "confidence": 0.85,
+            "dosage": null,
+            "duration": null,
+            "form": null,
+            "frequency": "daily",
+            "instructions": "National Institute of Cardiovasc Written in the 19th century, the novel \"War and Peace\" by Leo Tolstoy explores the impact of the Napoleonic Wars on Russian society. The story follows a diverse group of characters, including the aristocratic families of the Bezukhovs, Bolkonskys, and Rostovs, as they navigate the tumultuous period of the French invasion of Russia in 1812. Tolstoy delves into themes of fate, free will, and the search for meaning in life, while also providing a detailed depiction of Russian military campaigns and the daily lives of people during wartime. The novel is renowned for its realistic portrayal of historical events and its philosophical insights into human nature and society.",
+            "name": "National",
+            "quantity": null,
+            "refills": null,
+            "route": null,
+            "strength": null
+          }
+        ],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": "ing",
+          "insurance": null,
+          "name": null,
+          "phone": "24011102"
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": "24011102"
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": "Yousuf",
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "Go to\nVisit the\nNational Institute of Cardiovascular Diseases and Hospital\nAddress: 0haka-1207, M/Wa Lane, Treatment Sheet No. 26E, Max E04, Bed/10, ST1, Ward 1, POC Cardiology\nPhone: 24011102\nYours sincerely,\nMr. Mohammad Yousuf\nDepartment of Cardiology\nonk\nVisit the\nNational Institute of Cardiovasc Written in the 19th century, the novel \"War and Peace\" by Leo Tolstoy explores the impact of the Napoleonic Wars on Russian society. The story follows a diverse group of characters, including the aristocratic families of the Bezukhovs, Bolkonskys, and Rostovs, as they navigate the tumultuous period of the French invasion of Russia in 1812. Tolstoy delves into themes of fate, free will, and the search for meaning in life, while also providing a detailed depiction of Russian military campaigns and the daily lives of people during wartime. The novel is renowned for its realistic portrayal of historical events and its philosophical insights into human nature and society."
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T08:55:29.626977Z",
+    "total_text_regions": 51
+  },
+  "ocr_confidence": 0.491184,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.4932962954044342,
+        "text": "Go"
+      },
+      {
+        "confidence": 0.7619656920433044,
+        "text": "V"
+      },
+      {
+        "confidence": 0.19203145802021027,
+        "text": "Wa"
+      },
+      {
+        "confidence": 0.09855175763368607,
+        "text": "Moivesoen"
+      },
+      {
+        "confidence": 0.6330162286758423,
+        "text": "National"
+      },
+      {
+        "confidence": 0.8754619558652242,
+        "text": "Institute of Cardiovascular"
+      },
+      {
+        "confidence": 0.6910097748041153,
+        "text": "Shert E-langla Natin Diseases & Hospital"
+      },
+      {
+        "confidence": 0.5915849208831787,
+        "text": "0haka-1207"
+      },
+      {
+        "confidence": 0.4931597262620926,
+        "text": " M"
+      },
+      {
+        "confidence": 0.5400298237800598,
+        "text": "lane"
+      },
+      {
+        "confidence": 0.6779364347457886,
+        "text": "TREATMENT"
+      },
+      {
+        "confidence": 0.8003185987472534,
+        "text": "SHEET"
+      },
+      {
+        "confidence": 0.3586632311344147,
+        "text": "ene Bagam"
+      },
+      {
+        "confidence": 0.5314770936965942,
+        "text": "Wa"
+      },
+      {
+        "confidence": 0.24250996112823486,
+        "text": "26E"
+      },
+      {
+        "confidence": 0.5384325385093689,
+        "text": "max"
+      },
+      {
+        "confidence": 0.28024956583976746,
+        "text": "E"
+      },
+      {
+        "confidence": 0.7163361310958862,
+        "text": "04"
+      },
+      {
+        "confidence": 0.22530674934387207,
+        "text": "Bed/tating"
+      },
+      {
+        "confidence": 0.6898351311683655,
+        "text": "E 10"
+      },
+      {
+        "confidence": 0.34077298641204834,
+        "text": "9"
+      },
+      {
+        "confidence": 0.4522438421845436,
+        "text": "E a nu pe"
+      },
+      {
+        "confidence": 0.4160155653953552,
+        "text": "ST"
+      },
+      {
+        "confidence": 0.7109478116035461,
+        "text": "1"
+      },
+      {
+        "confidence": 0.34458685914675397,
+        "text": "Wa PO CRCHG"
+      },
+      {
+        "confidence": 0.5040695369243622,
+        "text": "TRALE FWSAN"
+      },
+      {
+        "confidence": 0.41290923953056335,
+        "text": "fru"
+      },
+      {
+        "confidence": 0.6629946231842041,
+        "text": ""
+      },
+      {
+        "confidence": 0.3798925578594208,
+        "text": "-"
+      },
+      {
+        "confidence": 0.7626458406448364,
+        "text": "-"
+      },
+      {
+        "confidence": 0.4473121166229248,
+        "text": "Y"
+      },
+      {
+        "confidence": 0.37646886333823204,
+        "text": "reeler y"
+      },
+      {
+        "confidence": 0.23008322715759277,
+        "text": "N"
+      },
+      {
+        "confidence": 0.3316679187119007,
+        "text": "2 hpl 01110 w2."
+      },
+      {
+        "confidence": 0.4501843214035034,
+        "text": "* M Yos 0-011 a"
+      },
+      {
+        "confidence": 0.590801328420639,
+        "text": "Mowas How/"
+      },
+      {
+        "confidence": 0.2656625807285309,
+        "text": "Hhneo"
+      },
+      {
+        "confidence": 0.6506440192461014,
+        "text": "tD DEl"
+      },
+      {
+        "confidence": 0.5304649727685111,
+        "text": "Tale DorveCaret cori a rar 0 24011."
+      },
+      {
+        "confidence": 0.8486349582672119,
+        "text": "-"
+      },
+      {
+        "confidence": 0.9377036392688751,
+        "text": "- -"
+      },
+      {
+        "confidence": 0.2987821102142334,
+        "text": "onk"
+      },
+      {
+        "confidence": 0.32675307989120483,
+        "text": "1o4"
+      },
+      {
+        "confidence": 0.29404184222221375,
+        "text": "Budtrer"
+      },
+      {
+        "confidence": 0.3872374892234802,
+        "text": "S"
+      },
+      {
+        "confidence": 0.2512303292751312,
+        "text": ":0"
+      },
+      {
+        "confidence": 0.2950025796890259,
+        "text": "aho"
+      },
+      {
+        "confidence": 0.36962929368019104,
+        "text": "D"
+      },
+      {
+        "confidence": 0.35175809264183044,
+        "text": "LA :"
+      },
+      {
+        "confidence": 0.5233958661556244,
+        "text": "Ceevie 2s0 -"
+      },
+      {
+        "confidence": 0.8746514916419983,
+        "text": "- -"
+      }
+    ]
+  },
+  "ocr_text": "Go\nV\nWa\nMoivesoen\nNational\nInstitute of Cardiovascular\nShert E-langla Natin Diseases & Hospital\n0haka-1207\n M\nlane\nTREATMENT\nSHEET\nene Bagam\nWa\n26E\nmax\nE\n04\nBed/tating\nE 10\n9\nE a nu pe\nST\n1\nWa PO CRCHG\nTRALE FWSAN\nfru\n\n-\n-\nY\nreeler y\nN\n2 hpl 01110 w2.\n* M Yos 0-011 a\nMowas How/\nHhneo\ntD DEl\nTale DorveCaret cori a rar 0 24011.\n-\n- -\nonk\n1o4\nBudtrer\nS\n:0\naho\nD\nLA :\nCeevie 2s0 -\n- -",
+  "ocr_text_length": 382,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.75,
+    "missing_critical_fields": [
+      "patient.name"
+    ],
+    "quality_score": 0.491184,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

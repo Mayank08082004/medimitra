@@ -1,0 +1,354 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_3878a987d0964a449e504755c5c114f9",
+    "success": true
+  },
+  "document_id": "doc_7e386c53343e43029f5f9b9069ea2e1d",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": "h un",
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "Mostofar Zaman\nDiwimue . ouwPI ATATH\nDoctor\nh un\nunng a M a\nfim\nTure\nHogony\n00 2YS Oae\nokapel\nperEn\nIoE\nFOFD\nYe\nDekta\nA cMeT\n201 30n9\nwV\n\u00e0\nwethigit\nodpay\nDee\nDHP\nP8r\nMO Tub TiYol\n010\nNA\nxomds\n0.tb\n0 Y\notob\n\u00e0\ne 289\notota\n7ele Natfe\n5\nPAO\n9\n16\n:  Kalloa -C\nH1\n2 wwlivbo\nKoat X\naun - (m alvain\nA TATIA inh \u00e0 PUTE  - \u00e0 1 . a\npoub\nDiwimue . ouwPI ATATH\nDoctor\nh un\nunng a M a\nfim\nTure\nHogony\n00 2YS Oae\nokapel\nperEn\nIoE\nFOFD\nYe\nDekta\nA cMeT\n201 3e9\nwV\n\u00e0\nwethigit\nodpay\nDee\nDHP\nP8r\nMO Tub TiYol\n010\nNA\nxomds\n0.tb\n0 Y\notob\n\u00e0\ne 289\notota\n7ele Natfe\n5\nPAO\n9\n16\n:  Kalloa -C\nH1\n2 wwlivbo\nKoat X\naun - (m alvain\nA TATIA inh \u00e0 PUTE  - \u00e0 1 . a\npoub"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": "h un",
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "Mostofar Zaman\nDiwimue . ouwPI ATATH\nDoctor\nh un\nunng a M a\nfim\nTure\nHogony\n00 2YS Oae\nokapel\nperEn\nIoE\nFOFD\nYe\nDekta\nA cMeT\n201 30n9\nwV\n\u00e0\nwethigit\nodpay\nDee\nDHP\nP8r\nMO Tub TiYol\n010\nNA\nxomds\n0.tb\n0 Y\notob\n\u00e0\ne 289\notota\n7ele Natfe\n5\nPAO\n9\n16\n:  Kalloa -C\nH1\n2 wwlivbo\nKoat X\naun - (m alvain\nA TATIA inh \u00e0 PUTE  - \u00e0 1 . a\npoub\nDiwimue . ouwPI ATATH\nDoctor\nh un\nunng a M a\nfim\nTure\nHogony\n00 2YS Oae\nokapel\nperEn\nIoE\nFOFD\nYe\nDekta\nA cMeT\n201 3e9\nwV\n\u00e0\nwethigit\nodpay\nDee\nDHP\nP8r\nMO Tub TiYol\n010\nNA\nxomds\n0.tb\n0 Y\notob\n\u00e0\ne 289\notota\n7ele Natfe\n5\nPAO\n9\n16\n:  Kalloa -C\nH1\n2 wwlivbo\nKoat X\naun - (m alvain\nA TATIA inh \u00e0 PUTE  - \u00e0 1 . a\npoub"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T08:33:03.959215Z",
+    "total_text_regions": 51
+  },
+  "ocr_confidence": 0.413779,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.7183965146541595,
+        "text": "Mostofar Zaman"
+      },
+      {
+        "confidence": 0.4549151696264744,
+        "text": "Diwimue . ouwPI ATATH"
+      },
+      {
+        "confidence": 0.7446128726005554,
+        "text": "Doctor"
+      },
+      {
+        "confidence": 0.2886751890182495,
+        "text": "h un"
+      },
+      {
+        "confidence": 0.3951294869184494,
+        "text": "unng a M a"
+      },
+      {
+        "confidence": 0.49842527508735657,
+        "text": "-"
+      },
+      {
+        "confidence": 0.3312140107154846,
+        "text": "fim"
+      },
+      {
+        "confidence": 0.9900415539741516,
+        "text": "-"
+      },
+      {
+        "confidence": 0.14867012202739716,
+        "text": "Ture"
+      },
+      {
+        "confidence": 0.13673995435237885,
+        "text": "Hogony"
+      },
+      {
+        "confidence": 0.43541279435157776,
+        "text": "00 2YS Oae"
+      },
+      {
+        "confidence": 0.2926240563392639,
+        "text": "okapel"
+      },
+      {
+        "confidence": 0.2530955374240875,
+        "text": "perEn"
+      },
+      {
+        "confidence": 0.27964240312576294,
+        "text": "IoE"
+      },
+      {
+        "confidence": 0.3360322117805481,
+        "text": "FOFD"
+      },
+      {
+        "confidence": 0.4666813313961029,
+        "text": "Ye"
+      },
+      {
+        "confidence": 0.48309797048568726,
+        "text": "Dekta"
+      },
+      {
+        "confidence": 0.3165832385420799,
+        "text": "A cMeT"
+      },
+      {
+        "confidence": 0.4318421483039856,
+        "text": "201 30n9"
+      },
+      {
+        "confidence": 0.3571281135082245,
+        "text": "wV"
+      },
+      {
+        "confidence": 0.35537707805633545,
+        "text": "\u00e0"
+      },
+      {
+        "confidence": 0.4891963601112366,
+        "text": "wethigit"
+      },
+      {
+        "confidence": 0.33367249369621277,
+        "text": "odpay"
+      },
+      {
+        "confidence": 0.3790004551410675,
+        "text": "Dee"
+      },
+      {
+        "confidence": 0.2553326487541199,
+        "text": "DHP"
+      },
+      {
+        "confidence": 0.1903332769870758,
+        "text": "P8r"
+      },
+      {
+        "confidence": 0.5718508114417394,
+        "text": "MO Tub TiYol"
+      },
+      {
+        "confidence": 0.4401688575744629,
+        "text": "010"
+      },
+      {
+        "confidence": 0.2603834867477417,
+        "text": "NA"
+      },
+      {
+        "confidence": 0.3833233416080475,
+        "text": "xomds"
+      },
+      {
+        "confidence": 0.16171227395534515,
+        "text": "0.tb"
+      },
+      {
+        "confidence": 0.39015546441078186,
+        "text": "0 Y"
+      },
+      {
+        "confidence": 0.4358541667461395,
+        "text": "otob"
+      },
+      {
+        "confidence": 0.3774351477622986,
+        "text": "\u00e0"
+      },
+      {
+        "confidence": 0.49799010157585144,
+        "text": "e 289"
+      },
+      {
+        "confidence": 0.5394052937626839,
+        "text": "- 2of"
+      },
+      {
+        "confidence": 0.46567025780677795,
+        "text": "otota"
+      },
+      {
+        "confidence": 0.5195212960243225,
+        "text": "7ele Natfe"
+      },
+      {
+        "confidence": 0.1942911446094513,
+        "text": "5"
+      },
+      {
+        "confidence": 0.38520169258117676,
+        "text": "PAO"
+      },
+      {
+        "confidence": 0.7001843452453613,
+        "text": "9"
+      },
+      {
+        "confidence": 0.5929109454154968,
+        "text": "-"
+      },
+      {
+        "confidence": 0.5507755279541016,
+        "text": "16"
+      },
+      {
+        "confidence": 0.40871958434581757,
+        "text": ":  Kalloa -C"
+      },
+      {
+        "confidence": 0.41853827238082886,
+        "text": "H1"
+      },
+      {
+        "confidence": 0.26000669598579407,
+        "text": "2 wwlivbo"
+      },
+      {
+        "confidence": 0.4640820771455765,
+        "text": "Koat X"
+      },
+      {
+        "confidence": 0.4085656404495239,
+        "text": "- \u00e0"
+      },
+      {
+        "confidence": 0.34134647622704506,
+        "text": "aun - (m alvain"
+      },
+      {
+        "confidence": 0.5218831300735474,
+        "text": "A TATIA inh \u00e0 PUTE  - \u00e0 1 . a"
+      },
+      {
+        "confidence": 0.4508734941482544,
+        "text": "poub"
+      }
+    ]
+  },
+  "ocr_text": "Mostofar Zaman\nDiwimue . ouwPI ATATH\nDoctor\nh un\nunng a M a\n-\nfim\n-\nTure\nHogony\n00 2YS Oae\nokapel\nperEn\nIoE\nFOFD\nYe\nDekta\nA cMeT\n201 30n9\nwV\n\u00e0\nwethigit\nodpay\nDee\nDHP\nP8r\nMO Tub TiYol\n010\nNA\nxomds\n0.tb\n0 Y\notob\n\u00e0\ne 289\n- 2of\notota\n7ele Natfe\n5\nPAO\n9\n-\n16\n:  Kalloa -C\nH1\n2 wwlivbo\nKoat X\n- \u00e0\naun - (m alvain\nA TATIA inh \u00e0 PUTE  - \u00e0 1 . a\npoub",
+  "ocr_text_length": 341,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.25,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "medications"
+    ],
+    "quality_score": 0.413779,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

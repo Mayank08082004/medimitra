@@ -1,0 +1,235 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_b3d29aa562b447bf90bf70fe1bc5d7a9",
+    "success": true
+  },
+  "document_id": "doc_9c97708bf984446a876cc24bdd8d4795",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": null,
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "National Institute of Cardiovascular Diseases and Hospital\nTREATMENT SHEET\ntee TATAMA\na -\na1 . m\n11E1\n -\npler retie\nAn\nPl\nHEJT J snerr - a . -\nLUR\nTEBULATIR\ntn LEKI7\nneA\n2025/9/4\nTreatment Sheet\ntee TATAMA\na -\na1. m\n11E1\n -\npler retie\nAn\nPl\nJ Snerr - a . -\nLUR\nTebulatir\ntn LEKI7\nneA\n2025/9/4"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": null,
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "National Institute of Cardiovascular Diseases and Hospital\nTREATMENT SHEET\ntee TATAMA\na -\na1 . m\n11E1\n -\npler retie\nAn\nPl\nHEJT J snerr - a . -\nLUR\nTEBULATIR\ntn LEKI7\nneA\n2025/9/4\nTreatment Sheet\ntee TATAMA\na -\na1. m\n11E1\n -\npler retie\nAn\nPl\nJ Snerr - a . -\nLUR\nTebulatir\ntn LEKI7\nneA\n2025/9/4"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T08:46:16.450664Z",
+    "total_text_regions": 21
+  },
+  "ocr_confidence": 0.513523,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.6550586819648743,
+        "text": "National ientitute of Cardievascular Diseaies & Hospital"
+      },
+      {
+        "confidence": 0.44836709400018054,
+        "text": "er - haje NAn oale 170X"
+      },
+      {
+        "confidence": 0.8090567290782928,
+        "text": "TREATMENT SHEET"
+      },
+      {
+        "confidence": 0.38003575801849365,
+        "text": "tee TATAMA"
+      },
+      {
+        "confidence": 0.25385746359825134,
+        "text": "h"
+      },
+      {
+        "confidence": 0.6350977569818497,
+        "text": "a -"
+      },
+      {
+        "confidence": 0.4510847528775533,
+        "text": "a1 . m"
+      },
+      {
+        "confidence": 0.15563324093818665,
+        "text": "11E1"
+      },
+      {
+        "confidence": 0.40822236239910126,
+        "text": " -"
+      },
+      {
+        "confidence": 0.312268003821373,
+        "text": "pler retie"
+      },
+      {
+        "confidence": 0.3870351314544678,
+        "text": "- An"
+      },
+      {
+        "confidence": 0.42623549699783325,
+        "text": "Pl"
+      },
+      {
+        "confidence": 0.8058557510375977,
+        "text": "-"
+      },
+      {
+        "confidence": 0.6402458790689707,
+        "text": "HEJT  J snerr - a . -"
+      },
+      {
+        "confidence": 0.47113046050071716,
+        "text": "LUR"
+      },
+      {
+        "confidence": 0.3173472285270691,
+        "text": "TEBULATIR"
+      },
+      {
+        "confidence": 0.8198000987370809,
+        "text": "- - "
+      },
+      {
+        "confidence": 0.33663129806518555,
+        "text": "tn LEKI7"
+      },
+      {
+        "confidence": 0.18132705986499786,
+        "text": "neA"
+      },
+      {
+        "confidence": 0.9947740435600281,
+        "text": "- -"
+      },
+      {
+        "confidence": 0.8949273228645325,
+        "text": "2025/9/4 -"
+      }
+    ]
+  },
+  "ocr_text": "National ientitute of Cardievascular Diseaies & Hospital\ner - haje NAn oale 170X\nTREATMENT SHEET\ntee TATAMA\nh\na -\na1 . m\n11E1\n -\npler retie\n- An\nPl\n-\nHEJT  J snerr - a . -\nLUR\nTEBULATIR\n- - \ntn LEKI7\nneA\n- -\n2025/9/4 -",
+  "ocr_text_length": 218,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.0,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "prescriber.name",
+      "medications"
+    ],
+    "quality_score": 0.513523,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

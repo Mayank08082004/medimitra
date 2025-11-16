@@ -1,0 +1,170 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_97e4ab1ed9904d048597c545e118ef09",
+    "success": true
+  },
+  "document_id": "doc_d5d2d0122f654518a33c868c745d16a9",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [
+        "diabetes"
+      ],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": "of abdominal",
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "4a/\nText:\nSystam/ic diabetes insipidus with nephrogenic response to desmopressin.\nCleaned Text:\nSystemic diabetes insipidus with nephrogenic response to desmopressin.\nText:\nAcute intermittent porphyria with a history of abdominal pain and urine redness.\nCleaned Text:\nAcute intermittent porphyria with a history of abdominal pain and urine redness.\nText:\nAcute intermittent porphyria with abdominal pain and urine redness.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and urine redness.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [
+            "diabetes"
+          ],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": "of abdominal",
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "4a/\nText:\nSystam/ic diabetes insipidus with nephrogenic response to desmopressin.\nCleaned Text:\nSystemic diabetes insipidus with nephrogenic response to desmopressin.\nText:\nAcute intermittent porphyria with a history of abdominal pain and urine redness.\nCleaned Text:\nAcute intermittent porphyria with a history of abdominal pain and urine redness.\nText:\nAcute intermittent porphyria with abdominal pain and urine redness.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and urine redness.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:\nAcute intermittent porphyria with abdominal pain and red urine.\nText:\nAcute intermittent porphyria with abdominal pain and red urine.\nCleaned Text:"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T08:38:57.552612Z",
+    "total_text_regions": 4
+  },
+  "ocr_confidence": 0.682338,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.7550320029258728,
+        "text": "4"
+      },
+      {
+        "confidence": 0.28759023547172546,
+        "text": "a"
+      },
+      {
+        "confidence": 0.7029663920402527,
+        "text": "\u00e0"
+      },
+      {
+        "confidence": 0.9837633371353149,
+        "text": "/"
+      }
+    ]
+  },
+  "ocr_text": "4\na\n\u00e0\n/",
+  "ocr_text_length": 7,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.25,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "medications"
+    ],
+    "quality_score": 0.682338,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

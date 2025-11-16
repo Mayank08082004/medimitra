@@ -1,0 +1,207 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_5144f767282d43238f39740001401b21",
+    "success": true
+  },
+  "document_id": "doc_d3efb0d0d3bd4653981589ebd441cca2",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": null,
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "vascular\nOffice of the\nNational Institute of Cardiovascular Sciences and Hospital\nSherif Fandane\nTreatment Sheet\n2025/814 11:46\nOffice of the\nNational Institute of Cardiovascular Sciences and Hospital\nSherif Fandane\nTreatment Sheet\n2025/814 11:46"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": null,
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "vascular\nOffice of the\nNational Institute of Cardiovascular Sciences and Hospital\nSherif Fandane\nTreatment Sheet\n2025/814 11:46\nOffice of the\nNational Institute of Cardiovascular Sciences and Hospital\nSherif Fandane\nTreatment Sheet\n2025/814 11:46"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T08:19:04.656927Z",
+    "total_text_regions": 14
+  },
+  "ocr_confidence": 0.553927,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.3976903259754181,
+        "text": "ov"
+      },
+      {
+        "confidence": 0.42574912309646606,
+        "text": "ascular"
+      },
+      {
+        "confidence": 0.11288301646709442,
+        "text": "OlEn"
+      },
+      {
+        "confidence": 0.865002453327179,
+        "text": "A -"
+      },
+      {
+        "confidence": 0.587843731045723,
+        "text": "\u00e0 *"
+      },
+      {
+        "confidence": 0.5954568386077881,
+        "text": "E"
+      },
+      {
+        "confidence": 0.9254348874092102,
+        "text": "I"
+      },
+      {
+        "confidence": 0.6294987350702286,
+        "text": "National Institute ofCardiounsoulart Doemn & Honpital"
+      },
+      {
+        "confidence": 0.39011896153291065,
+        "text": "Sherf-fanda  thatelon"
+      },
+      {
+        "confidence": 0.8290205299854279,
+        "text": "TREATMENT SHEET"
+      },
+      {
+        "confidence": 0.4802781939506531,
+        "text": "a"
+      },
+      {
+        "confidence": 0.29240351915359497,
+        "text": "a"
+      },
+      {
+        "confidence": 0.6741711497306824,
+        "text": "ND"
+      },
+      {
+        "confidence": 0.5494298338890076,
+        "text": "2025/814 11:46"
+      }
+    ]
+  },
+  "ocr_text": "ov\nascular\nOlEn\nA -\n\u00e0 *\nE\nI\nNational Institute ofCardiounsoulart Doemn & Honpital\nSherf-fanda  thatelon\nTREATMENT SHEET\na\na\nND\n2025/814 11:46",
+  "ocr_text_length": 141,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.0,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "prescriber.name",
+      "medications"
+    ],
+    "quality_score": 0.553927,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

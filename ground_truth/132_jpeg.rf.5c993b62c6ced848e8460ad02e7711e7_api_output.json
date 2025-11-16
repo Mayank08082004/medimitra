@@ -1,0 +1,318 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_3818b5ae8cf44f9f91e5f7df141b59f4",
+    "success": true
+  },
+  "document_id": "doc_7bee49b3b5ee4fa981d9902d1c12fdfd",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": "You are",
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "You are Doctor. MD Billali Hossain\n4 e\na\nDecase MAUan B\na a a \na\nRe\nOTah Amesenins\n. -\nC\nOT pnegam R Rsm\ntot\n0 Tb Miovi\nOw\n7t03-\nY\nSenEal\n0t>t0\nBom)\nOEP\nL a\nperhe\nt -\nOw\nmo MbS\nIm\n0-of>-\nbm\n(sUp Gavi isel\n\u00e0 bme - DY\nOWS\npla cutog uno a\nR\n59 - - - 4\nDE 3 tor 33 a ar\n4 e\na\na a a \na\nOTah Amesenins\n. -\nC\nOT pnegam R Rsm\ntot\n0 Tb Miovi\nOw\n7t03-\nY\nSenEal\n0t>t0\nBom)\nOEP\nL a\nperhe\nt -\nOw\nmo MbS\nIm\n0-of>-\nbm\n(sUp Gavi isel\n\u00e0 bme - DY\nOWS\npla cutog uno a\nR\n59 - - - 4\nDE 3 tor 33 a ar"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": "You are",
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "You are Doctor. MD Billali Hossain\n4 e\na\nDecase MAUan B\na a a \na\nRe\nOTah Amesenins\n. -\nC\nOT pnegam R Rsm\ntot\n0 Tb Miovi\nOw\n7t03-\nY\nSenEal\n0t>t0\nBom)\nOEP\nL a\nperhe\nt -\nOw\nmo MbS\nIm\n0-of>-\nbm\n(sUp Gavi isel\n\u00e0 bme - DY\nOWS\npla cutog uno a\nR\n59 - - - 4\nDE 3 tor 33 a ar\n4 e\na\na a a \na\nOTah Amesenins\n. -\nC\nOT pnegam R Rsm\ntot\n0 Tb Miovi\nOw\n7t03-\nY\nSenEal\n0t>t0\nBom)\nOEP\nL a\nperhe\nt -\nOw\nmo MbS\nIm\n0-of>-\nbm\n(sUp Gavi isel\n\u00e0 bme - DY\nOWS\npla cutog uno a\nR\n59 - - - 4\nDE 3 tor 33 a ar"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T08:59:45.569556Z",
+    "total_text_regions": 42
+  },
+  "ocr_confidence": 0.510884,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.20357856154441833,
+        "text": "URRE"
+      },
+      {
+        "confidence": 0.7571500688791275,
+        "text": "Doctor. MD BILLALI HOSSAIN"
+      },
+      {
+        "confidence": 0.3829910159111023,
+        "text": "4 e"
+      },
+      {
+        "confidence": 0.42433904111385345,
+        "text": "- E - :"
+      },
+      {
+        "confidence": 0.5044357776641846,
+        "text": "a"
+      },
+      {
+        "confidence": 0.5309946537017822,
+        "text": "-"
+      },
+      {
+        "confidence": 0.5869552493095398,
+        "text": "Decase"
+      },
+      {
+        "confidence": 0.31988444179296494,
+        "text": "MAUan B"
+      },
+      {
+        "confidence": 0.45697398483753204,
+        "text": "a a a "
+      },
+      {
+        "confidence": 0.6314167976379395,
+        "text": "a"
+      },
+      {
+        "confidence": 0.9859946966171265,
+        "text": "-"
+      },
+      {
+        "confidence": 0.9949147701263428,
+        "text": "Re"
+      },
+      {
+        "confidence": 0.39017997682094574,
+        "text": "OTah Amesenins"
+      },
+      {
+        "confidence": 0.3980743885040283,
+        "text": "-"
+      },
+      {
+        "confidence": 0.4721890389919281,
+        "text": ". -"
+      },
+      {
+        "confidence": 0.5419073104858398,
+        "text": "C"
+      },
+      {
+        "confidence": 0.4408247545361519,
+        "text": "OT pnegam R Rsm"
+      },
+      {
+        "confidence": 0.5492370128631592,
+        "text": "tot"
+      },
+      {
+        "confidence": 0.8311180273691813,
+        "text": "0 Tb Miovi"
+      },
+      {
+        "confidence": 0.39455094933509827,
+        "text": "Ow"
+      },
+      {
+        "confidence": 0.32069066166877747,
+        "text": "7t03-"
+      },
+      {
+        "confidence": 0.6558516025543213,
+        "text": "Y"
+      },
+      {
+        "confidence": 0.5350952446460724,
+        "text": " SenEal"
+      },
+      {
+        "confidence": 0.3473866283893585,
+        "text": "0t>t0"
+      },
+      {
+        "confidence": 0.6323268413543701,
+        "text": "Bom)"
+      },
+      {
+        "confidence": 0.6196389198303223,
+        "text": "OEP"
+      },
+      {
+        "confidence": 0.5774647891521454,
+        "text": "L a"
+      },
+      {
+        "confidence": 0.640021026134491,
+        "text": "perhe"
+      },
+      {
+        "confidence": 0.41852059960365295,
+        "text": "t -"
+      },
+      {
+        "confidence": 0.7058229446411133,
+        "text": "Ow"
+      },
+      {
+        "confidence": 0.27816666662693024,
+        "text": "mo MbS"
+      },
+      {
+        "confidence": 0.30127954483032227,
+        "text": "Im"
+      },
+      {
+        "confidence": 0.3487531840801239,
+        "text": "0-of>-"
+      },
+      {
+        "confidence": 0.22493815422058105,
+        "text": "bm"
+      },
+      {
+        "confidence": 0.6668287515640259,
+        "text": "(sUp Gavi isel"
+      },
+      {
+        "confidence": 0.46992991864681244,
+        "text": "\u00e0 bme - DY"
+      },
+      {
+        "confidence": 0.42451009154319763,
+        "text": "OWS"
+      },
+      {
+        "confidence": 0.43042563274502754,
+        "text": "pla cutog uno a"
+      },
+      {
+        "confidence": 0.8925254940986633,
+        "text": "-"
+      },
+      {
+        "confidence": 0.3943100571632385,
+        "text": "R"
+      },
+      {
+        "confidence": 0.3887366622686386,
+        "text": "59 - - - 4"
+      },
+      {
+        "confidence": 0.38619550069173175,
+        "text": "DE 3 tor 33 a ar"
+      }
+    ]
+  },
+  "ocr_text": "URRE\nDoctor. MD BILLALI HOSSAIN\n4 e\n- E - :\na\n-\nDecase\nMAUan B\na a a \na\n-\nRe\nOTah Amesenins\n-\n. -\nC\nOT pnegam R Rsm\ntot\n0 Tb Miovi\nOw\n7t03-\nY\n SenEal\n0t>t0\nBom)\nOEP\nL a\nperhe\nt -\nOw\nmo MbS\nIm\n0-of>-\nbm\n(sUp Gavi isel\n\u00e0 bme - DY\nOWS\npla cutog uno a\n-\nR\n59 - - - 4\nDE 3 tor 33 a ar",
+  "ocr_text_length": 279,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.25,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "medications"
+    ],
+    "quality_score": 0.510884,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

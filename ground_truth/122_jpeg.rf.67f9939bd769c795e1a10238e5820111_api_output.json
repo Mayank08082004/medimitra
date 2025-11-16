@@ -1,0 +1,318 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_2a6b0db993f340f283c240dce9954d9f",
+    "success": true
+  },
+  "document_id": "doc_f6b3266148fd4de989ab4797cecf24cb",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": "Mostota Zaman",
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "Intagnitad Phiypaitian\nFRP a CHRT HAP\nDoctor Mostota Zaman\nM3BS -\nVDI -\nmotor 1. on E\nNate\nshaheda -\nA0E moy Date\nFIODONOX 9B7\nOTub:\nCIC\nopio\nSbeiy onsc- 6 Tubi Pexopen sin\nLONA\nshota 2cv9\nA\nifsacal 78g\ncup\n20ong\notot\nLosides Eocen\n0\n>Sm\nvSe 200\ncosper 28V\n0 wb\nDEP Eug\nDeatac Da\nCup\n2\n3omg\nD10t\nmestns\n== response ==\nIntagnitad Phiypaitian\nFRP a CHRT HAP\nDoctor Mostota Zaman\nM3BS -\nVDI -\nmotor 1. on E\nNate\nshaheda -\nA0E moy Date\nFIODONOX 9B7\nOTub:\nCIC\nopio\nSbeiy onsc- 6 Tubi Pexopen sin\nLONA\nshota 2009\nA\nifsacal 78g\ncup\n20ong\notot\nLosides Eocen\n0\n>Sm\nvSe 2e0\ncosper 28V\n0 wb\nDEP Eug\nDeatac Da\nCup\n2\n3omg\nD10t\nmestns"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": "Mostota Zaman",
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "Intagnitad Phiypaitian\nFRP a CHRT HAP\nDoctor Mostota Zaman\nM3BS -\nVDI -\nmotor 1. on E\nNate\nshaheda -\nA0E moy Date\nFIODONOX 9B7\nOTub:\nCIC\nopio\nSbeiy onsc- 6 Tubi Pexopen sin\nLONA\nshota 2cv9\nA\nifsacal 78g\ncup\n20ong\notot\nLosides Eocen\n0\n>Sm\nvSe 200\ncosper 28V\n0 wb\nDEP Eug\nDeatac Da\nCup\n2\n3omg\nD10t\nmestns\n== response ==\nIntagnitad Phiypaitian\nFRP a CHRT HAP\nDoctor Mostota Zaman\nM3BS -\nVDI -\nmotor 1. on E\nNate\nshaheda -\nA0E moy Date\nFIODONOX 9B7\nOTub:\nCIC\nopio\nSbeiy onsc- 6 Tubi Pexopen sin\nLONA\nshota 2009\nA\nifsacal 78g\ncup\n20ong\notot\nLosides Eocen\n0\n>Sm\nvSe 2e0\ncosper 28V\n0 wb\nDEP Eug\nDeatac Da\nCup\n2\n3omg\nD10t\nmestns"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T08:13:09.106553Z",
+    "total_text_regions": 42
+  },
+  "ocr_confidence": 0.514465,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.6746662855148315,
+        "text": "-"
+      },
+      {
+        "confidence": 0.5284703969955444,
+        "text": "intagnitad Phiypaitian"
+      },
+      {
+        "confidence": 0.4143785499036312,
+        "text": "fRP a CHRT HiAP"
+      },
+      {
+        "confidence": 0.8956462939580282,
+        "text": "Doctor Mostota Zaman"
+      },
+      {
+        "confidence": 0.4030446857213974,
+        "text": "- :"
+      },
+      {
+        "confidence": 0.4928888529539108,
+        "text": "M3BS -"
+      },
+      {
+        "confidence": 0.6567839682102203,
+        "text": "VDI -"
+      },
+      {
+        "confidence": 0.5085964977741242,
+        "text": "mator 1 . on E"
+      },
+      {
+        "confidence": 0.542940029501915,
+        "text": "- - - - d"
+      },
+      {
+        "confidence": 0.7354773283004761,
+        "text": "-"
+      },
+      {
+        "confidence": 0.9300348162651062,
+        "text": "-"
+      },
+      {
+        "confidence": 0.26399531960487366,
+        "text": "Nate"
+      },
+      {
+        "confidence": 0.5053739547729492,
+        "text": "shaheda -"
+      },
+      {
+        "confidence": 0.34772223234176636,
+        "text": "A0E moy Date"
+      },
+      {
+        "confidence": 0.6159893274307251,
+        "text": "Re"
+      },
+      {
+        "confidence": 0.4591035395860672,
+        "text": "FIODONOX 9B7"
+      },
+      {
+        "confidence": 0.32927611470222473,
+        "text": "OTub:"
+      },
+      {
+        "confidence": 0.48774242401123047,
+        "text": "CIC"
+      },
+      {
+        "confidence": 0.4815562069416046,
+        "text": "opio"
+      },
+      {
+        "confidence": 0.40814468264579773,
+        "text": "Sbeiy onsc- 6 Tubi Pexopen sin"
+      },
+      {
+        "confidence": 0.5309202075004578,
+        "text": "LONA"
+      },
+      {
+        "confidence": 0.4391366094350815,
+        "text": "shota 2009"
+      },
+      {
+        "confidence": 0.5369447469711304,
+        "text": "A"
+      },
+      {
+        "confidence": 0.3490930497646332,
+        "text": ""
+      },
+      {
+        "confidence": 0.3626374155282974,
+        "text": "ifsacal 78g"
+      },
+      {
+        "confidence": 0.64409339427948,
+        "text": "-"
+      },
+      {
+        "confidence": 0.4921346753835678,
+        "text": " cup"
+      },
+      {
+        "confidence": 0.5618234872817993,
+        "text": "2oong"
+      },
+      {
+        "confidence": 0.6617552638053894,
+        "text": "otot"
+      },
+      {
+        "confidence": 0.4041057378053665,
+        "text": "Losides Eocen"
+      },
+      {
+        "confidence": 0.47916847467422485,
+        "text": "0"
+      },
+      {
+        "confidence": 0.30449825525283813,
+        "text": ">Sm"
+      },
+      {
+        "confidence": 0.6580585092306137,
+        "text": "vSe 200"
+      },
+      {
+        "confidence": 0.6639909148216248,
+        "text": "cosper 28V"
+      },
+      {
+        "confidence": 0.9364258050918579,
+        "text": "0 wb"
+      },
+      {
+        "confidence": 0.5139116644859314,
+        "text": "DEP Eug"
+      },
+      {
+        "confidence": 0.40748993307352066,
+        "text": "Deatac Da"
+      },
+      {
+        "confidence": 0.42798569798469543,
+        "text": "Cup"
+      },
+      {
+        "confidence": 0.30186328291893005,
+        "text": "2"
+      },
+      {
+        "confidence": 0.6771649718284607,
+        "text": "3omg"
+      },
+      {
+        "confidence": 0.2818712592124939,
+        "text": "D10t"
+      },
+      {
+        "confidence": 0.2906118333339691,
+        "text": "mestns"
+      }
+    ]
+  },
+  "ocr_text": "-\nintagnitad Phiypaitian\nfRP a CHRT HiAP\nDoctor Mostota Zaman\n- :\nM3BS -\nVDI -\nmator 1 . on E\n- - - - d\n-\n-\nNate\nshaheda -\nA0E moy Date\nRe\nFIODONOX 9B7\nOTub:\nCIC\nopio\nSbeiy onsc- 6 Tubi Pexopen sin\nLONA\nshota 2009\nA\n\nifsacal 78g\n-\n cup\n2oong\notot\nLosides Eocen\n0\n>Sm\nvSe 200\ncosper 28V\n0 wb\nDEP Eug\nDeatac Da\nCup\n2\n3omg\nD10t\nmestns",
+  "ocr_text_length": 331,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.25,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "medications"
+    ],
+    "quality_score": 0.514465,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

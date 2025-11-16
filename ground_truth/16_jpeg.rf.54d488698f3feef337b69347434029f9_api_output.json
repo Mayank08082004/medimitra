@@ -1,0 +1,306 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_54126b3871e34130b2850b558db589c8",
+    "success": true
+  },
+  "document_id": "doc_a0974c8581934ca6b554f7df5ef399a1",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": "Mostofa Zaman",
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "Muraler Perme\nError. (H\nDoctor Mostofa Zaman\nMin\n1H04-1 . - .\nAmonqry R\nDate\n\u00e0 plosonredt 96\npHo n\nT2 Ace plos gr\n7P\nWos\nFesofen\n1 Td\nPenev\nEOrO\nont\nDeflacast 7m A\na\n5\n2het\nDeofahc 127\nL cyar\norot) 3owg\n/ >YP\nThenquets\n4Ar\nRel 2A\n1ot5\n605\n70R\nVestrg\nmpb\n011\nAve Maram ( so aa anewle OISIE\nate entre arelt nat ONE GPN, ETIN Retl\nonete oome 134560\nError. (H\nDoctor Mostofa Zaman\nMin\n1H04-1 . - .\nAmonqry R\nDate\n\u00e0 plosonredt 96\npHo n\nT2 Ace plos gr\n7P\nWos\nFesofen\n1 Td\nPenev\nEOrO\nont\nDeflacast 7m A\na\n5\n2het\nDeofahc 127\nL cyar\norot) 3owg\n/ >YP\nThenquets\n4Ar\nRel 2A\n1ot5\n605\n70R\nVestrg\nmpb\n011\nAve Maram (so aa anewle OISIE\nate entre arelt nat ONE GPN, ETIN Retl\nonete oome 13456e)"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": "Mostofa Zaman",
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "Muraler Perme\nError. (H\nDoctor Mostofa Zaman\nMin\n1H04-1 . - .\nAmonqry R\nDate\n\u00e0 plosonredt 96\npHo n\nT2 Ace plos gr\n7P\nWos\nFesofen\n1 Td\nPenev\nEOrO\nont\nDeflacast 7m A\na\n5\n2het\nDeofahc 127\nL cyar\norot) 3owg\n/ >YP\nThenquets\n4Ar\nRel 2A\n1ot5\n605\n70R\nVestrg\nmpb\n011\nAve Maram ( so aa anewle OISIE\nate entre arelt nat ONE GPN, ETIN Retl\nonete oome 134560\nError. (H\nDoctor Mostofa Zaman\nMin\n1H04-1 . - .\nAmonqry R\nDate\n\u00e0 plosonredt 96\npHo n\nT2 Ace plos gr\n7P\nWos\nFesofen\n1 Td\nPenev\nEOrO\nont\nDeflacast 7m A\na\n5\n2het\nDeofahc 127\nL cyar\norot) 3owg\n/ >YP\nThenquets\n4Ar\nRel 2A\n1ot5\n605\n70R\nVestrg\nmpb\n011\nAve Maram (so aa anewle OISIE\nate entre arelt nat ONE GPN, ETIN Retl\nonete oome 13456e)"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T08:27:52.766721Z",
+    "total_text_regions": 39
+  },
+  "ocr_confidence": 0.43692,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.42251598834991455,
+        "text": "mauraler peem"
+      },
+      {
+        "confidence": 0.5239023938775063,
+        "text": "ereree . ( H"
+      },
+      {
+        "confidence": 0.5477369725704193,
+        "text": "Doctor Mostofa Zaman"
+      },
+      {
+        "confidence": 0.4748600125312805,
+        "text": "MIna"
+      },
+      {
+        "confidence": 0.7340281158685684,
+        "text": "1H04-1 . - ."
+      },
+      {
+        "confidence": 0.6902207136154175,
+        "text": ""
+      },
+      {
+        "confidence": 0.42783233523368835,
+        "text": "Int"
+      },
+      {
+        "confidence": 0.5325117856264114,
+        "text": "Aomqny R"
+      },
+      {
+        "confidence": 0.46049490571022034,
+        "text": "Date"
+      },
+      {
+        "confidence": 0.3733711540699005,
+        "text": "\u00e0 plosonredt 96"
+      },
+      {
+        "confidence": 0.25697630643844604,
+        "text": "pHO n"
+      },
+      {
+        "confidence": 0.5087616369128227,
+        "text": "T2 ACe plos gr"
+      },
+      {
+        "confidence": 0.3101767301559448,
+        "text": "7PA"
+      },
+      {
+        "confidence": 0.45892827212810516,
+        "text": "wos "
+      },
+      {
+        "confidence": 0.5746268033981323,
+        "text": "Fesofen"
+      },
+      {
+        "confidence": 0.5075974762439728,
+        "text": "1 Td"
+      },
+      {
+        "confidence": 0.4081803858280182,
+        "text": "penev"
+      },
+      {
+        "confidence": 0.16790570318698883,
+        "text": "EOrO"
+      },
+      {
+        "confidence": 0.2603253424167633,
+        "text": "ont"
+      },
+      {
+        "confidence": 0.46503896266222,
+        "text": "d Deflacast 7m A"
+      },
+      {
+        "confidence": 0.8168125152587891,
+        "text": "a"
+      },
+      {
+        "confidence": 0.6593332290649414,
+        "text": "5"
+      },
+      {
+        "confidence": 0.33006149530410767,
+        "text": "2het"
+      },
+      {
+        "confidence": 0.35797299444675446,
+        "text": "Deofahc 127"
+      },
+      {
+        "confidence": 0.3257519155740738,
+        "text": "L cyar"
+      },
+      {
+        "confidence": 0.44818273186683655,
+        "text": "orot) 3owg"
+      },
+      {
+        "confidence": 0.41569702327251434,
+        "text": "/ >YP"
+      },
+      {
+        "confidence": 0.5793436169624329,
+        "text": "Thenquets"
+      },
+      {
+        "confidence": 0.21538406610488892,
+        "text": "4Ar"
+      },
+      {
+        "confidence": 0.3791288584470749,
+        "text": "RElr 2A"
+      },
+      {
+        "confidence": 0.27704188227653503,
+        "text": "1ot5"
+      },
+      {
+        "confidence": 0.3358302712440491,
+        "text": "605"
+      },
+      {
+        "confidence": 0.3784150183200836,
+        "text": "70R"
+      },
+      {
+        "confidence": 0.5593471527099609,
+        "text": "vestrg"
+      },
+      {
+        "confidence": 0.5274210572242737,
+        "text": "mpb"
+      },
+      {
+        "confidence": 0.22958515584468842,
+        "text": "011"
+      },
+      {
+        "confidence": 0.4288211337157658,
+        "text": "ave Maram ( so aa anewle OISIE"
+      },
+      {
+        "confidence": 0.3368971236050129,
+        "text": "ate entre arelt nat ONE GPN, ETIN ReTl"
+      },
+      {
+        "confidence": 0.33287636935710907,
+        "text": "onete oome 134560"
+      }
+    ]
+  },
+  "ocr_text": "mauraler peem\nereree . ( H\nDoctor Mostofa Zaman\nMIna\n1H04-1 . - .\n\nInt\nAomqny R\nDate\n\u00e0 plosonredt 96\npHO n\nT2 ACe plos gr\n7PA\nwos \nFesofen\n1 Td\npenev\nEOrO\nont\nd Deflacast 7m A\na\n5\n2het\nDeofahc 127\nL cyar\norot) 3owg\n/ >YP\nThenquets\n4Ar\nRElr 2A\n1ot5\n605\n70R\nvestrg\nmpb\n011\nave Maram ( so aa anewle OISIE\nate entre arelt nat ONE GPN, ETIN ReTl\nonete oome 134560",
+  "ocr_text_length": 358,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.25,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "medications"
+    ],
+    "quality_score": 0.43692,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_4c9d405f66d4440db1c80449d98d117c",
+    "success": true
+  },
+  "document_id": "doc_5ce0e937b30d41138b902ef478581cad",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": "Mostota Zamail",
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "Unneil Rysinan\nDoctor Mostota Zamail\nvia A. OUPAL WIM\nna D\nan\nain\nm! weN\nrarive -\nmun HP unt C\nCalcium/e\nTIi\nTelll\nwrv\u00e9o\n. 122\ns\nI thinkie\nwhevy\noror\nDextac\nmice\nOrD SerA:\n\u00e0 4 - . \u00e0\n### Response\nUnneil Rysinan\nDoctor Mostota Zamail\nvia A. OUPAL WIM\nna D\nain\nm! weN\nrarive -\nmun HP unt C\nCalcium/e\nTIi\nTelll\nwrv\u00e9o\n. 122\ns\nI think\nwhevy\noror\nDextac\nmice\nOrD SerA:\n\u00e0 4 - . \u00e0\n(Note: The cleaned text retains the original OCR errors where they are obvious and do not add new information or interpretations.)"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": "Mostota Zamail",
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "Unneil Rysinan\nDoctor Mostota Zamail\nvia A. OUPAL WIM\nna D\nan\nain\nm! weN\nrarive -\nmun HP unt C\nCalcium/e\nTIi\nTelll\nwrv\u00e9o\n. 122\ns\nI thinkie\nwhevy\noror\nDextac\nmice\nOrD SerA:\n\u00e0 4 - . \u00e0\n### Response\nUnneil Rysinan\nDoctor Mostota Zamail\nvia A. OUPAL WIM\nna D\nain\nm! weN\nrarive -\nmun HP unt C\nCalcium/e\nTIi\nTelll\nwrv\u00e9o\n. 122\ns\nI think\nwhevy\noror\nDextac\nmice\nOrD SerA:\n\u00e0 4 - . \u00e0\n(Note: The cleaned text retains the original OCR errors where they are obvious and do not add new information or interpretations.)"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T08:39:12.380531Z",
+    "total_text_regions": 28
+  },
+  "ocr_confidence": 0.448717,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.37232808768749237,
+        "text": "utunneil rysinan"
+      },
+      {
+        "confidence": 0.6179617643356323,
+        "text": "Doctor Mostota Zamail"
+      },
+      {
+        "confidence": 0.4046395756304264,
+        "text": "viau a. OUPAL wIm"
+      },
+      {
+        "confidence": 0.9952179789543152,
+        "text": "-"
+      },
+      {
+        "confidence": 0.3562379479408264,
+        "text": "na D"
+      },
+      {
+        "confidence": 0.753631591796875,
+        "text": "-"
+      },
+      {
+        "confidence": 0.34326595067977905,
+        "text": "an"
+      },
+      {
+        "confidence": 0.38952481746673584,
+        "text": "ain"
+      },
+      {
+        "confidence": 0.32110993564128876,
+        "text": "m! weN"
+      },
+      {
+        "confidence": 0.34118837118148804,
+        "text": "rarive -"
+      },
+      {
+        "confidence": 0.4860792011022568,
+        "text": "mun HP unt C"
+      },
+      {
+        "confidence": 0.8035706877708435,
+        "text": ""
+      },
+      {
+        "confidence": 0.3816002905368805,
+        "text": "kalcsm/e"
+      },
+      {
+        "confidence": 0.16196541488170624,
+        "text": "TIi"
+      },
+      {
+        "confidence": 0.37466102838516235,
+        "text": "Telll"
+      },
+      {
+        "confidence": 0.222086101770401,
+        "text": "wrv\u00e9o"
+      },
+      {
+        "confidence": 0.5227416604757309,
+        "text": ". 122"
+      },
+      {
+        "confidence": 0.3973129689693451,
+        "text": "s"
+      },
+      {
+        "confidence": 0.30922985076904297,
+        "text": ""
+      },
+      {
+        "confidence": 0.43725812435150146,
+        "text": "i thigie"
+      },
+      {
+        "confidence": 0.3575916290283203,
+        "text": "whevy"
+      },
+      {
+        "confidence": 0.5140337646007538,
+        "text": "- atg"
+      },
+      {
+        "confidence": 0.4393579065799713,
+        "text": "oror"
+      },
+      {
+        "confidence": 0.2760716676712036,
+        "text": ""
+      },
+      {
+        "confidence": 0.7054247260093689,
+        "text": "Dextac"
+      },
+      {
+        "confidence": 0.3027770221233368,
+        "text": "mice"
+      },
+      {
+        "confidence": 0.3820786476135254,
+        "text": "OrD SerA:"
+      },
+      {
+        "confidence": 0.5951269626617431,
+        "text": "\u00e0 4 - . \u00e0"
+      }
+    ]
+  },
+  "ocr_text": "utunneil rysinan\nDoctor Mostota Zamail\nviau a. OUPAL wIm\n-\nna D\n-\nan\nain\nm! weN\nrarive -\nmun HP unt C\n\nkalcsm/e\nTIi\nTelll\nwrv\u00e9o\n. 122\ns\n\ni thigie\nwhevy\n- atg\noror\n\nDextac\nmice\nOrD SerA:\n\u00e0 4 - . \u00e0",
+  "ocr_text_length": 195,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.25,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "medications"
+    ],
+    "quality_score": 0.448717,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_362d58e98eed46638cbd277be4fd677f",
+    "success": true
+  },
+  "document_id": "doc_46cebaf7d9cd4798af6dbfb707e5828e",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": "MD Billali Hossain",
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "Doctor MD Billali Hossain\nun\nrur Pomn\n\u00e0\nsomme)\n1 - ndiea\n7=t2 - Cammien\nGmbdeponed\ntoto\nMT\nan Nevmip\nI T\nSom\nQGP\ny\nDerlaer\n21\ntofo\n2m\nLE\na\nTemobie\nTen\nTnb\n4m2\notots\na -n - - - 5r our\na EU a\nsete RIE 0E Mt d 2\nun\nrur Pomn\n\u00e0\nsomme)\n1 - ndiea\n7=t2 - Cammien\nGmbdeponed\ntoto\nMT\nan Nevmip\nI T\nSom\nQGP\ny\nDerlaer\n21\ntofo\n2m\nLE\na\nTemobie\nTen\nTnb\n4m2\notots\na -n - - - 5r our\na EU a\nsete RIE 0E Mt d 2"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": "MD Billali Hossain",
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "Doctor MD Billali Hossain\nun\nrur Pomn\n\u00e0\nsomme)\n1 - ndiea\n7=t2 - Cammien\nGmbdeponed\ntoto\nMT\nan Nevmip\nI T\nSom\nQGP\ny\nDerlaer\n21\ntofo\n2m\nLE\na\nTemobie\nTen\nTnb\n4m2\notots\na -n - - - 5r our\na EU a\nsete RIE 0E Mt d 2\nun\nrur Pomn\n\u00e0\nsomme)\n1 - ndiea\n7=t2 - Cammien\nGmbdeponed\ntoto\nMT\nan Nevmip\nI T\nSom\nQGP\ny\nDerlaer\n21\ntofo\n2m\nLE\na\nTemobie\nTen\nTnb\n4m2\notots\na -n - - - 5r our\na EU a\nsete RIE 0E Mt d 2"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T08:22:08.776810Z",
+    "total_text_regions": 33
+  },
+  "ocr_confidence": 0.494216,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.8882148712873459,
+        "text": "Doctor MD BILLALI HOSSAIN"
+      },
+      {
+        "confidence": 0.39419025182724,
+        "text": "un"
+      },
+      {
+        "confidence": 0.22133909165859222,
+        "text": "-"
+      },
+      {
+        "confidence": 0.668030321598053,
+        "text": "- -"
+      },
+      {
+        "confidence": 0.5170479863882065,
+        "text": "rur Pomn"
+      },
+      {
+        "confidence": 0.20161712169647217,
+        "text": "\u00e0"
+      },
+      {
+        "confidence": 0.312451034784317,
+        "text": "soom)"
+      },
+      {
+        "confidence": 0.6870197504758835,
+        "text": "- ey"
+      },
+      {
+        "confidence": 0.47861960530281067,
+        "text": "1 - ndiea"
+      },
+      {
+        "confidence": 0.5194728076457977,
+        "text": "7=t2 - C"
+      },
+      {
+        "confidence": 0.4890255331993103,
+        "text": "ammien"
+      },
+      {
+        "confidence": 0.3601260781288147,
+        "text": "Gmbdeponed"
+      },
+      {
+        "confidence": 0.5982832312583923,
+        "text": "toto"
+      },
+      {
+        "confidence": 0.2800484001636505,
+        "text": "MT"
+      },
+      {
+        "confidence": 0.5182244181632996,
+        "text": "an Nevmip"
+      },
+      {
+        "confidence": 0.5343455076217651,
+        "text": "I T"
+      },
+      {
+        "confidence": 0.49846401810646057,
+        "text": "Som"
+      },
+      {
+        "confidence": 0.5215612649917603,
+        "text": "QGP"
+      },
+      {
+        "confidence": 0.3557547330856323,
+        "text": "y"
+      },
+      {
+        "confidence": 0.4806717336177826,
+        "text": "Derlaer"
+      },
+      {
+        "confidence": 0.7131345272064209,
+        "text": "21"
+      },
+      {
+        "confidence": 0.6289970874786377,
+        "text": "tofo"
+      },
+      {
+        "confidence": 0.5676794052124023,
+        "text": "2m"
+      },
+      {
+        "confidence": 0.5953851938247681,
+        "text": "LE"
+      },
+      {
+        "confidence": 0.42133966088294983,
+        "text": "a"
+      },
+      {
+        "confidence": 0.782209575176239,
+        "text": "Temobie"
+      },
+      {
+        "confidence": 0.2780154049396515,
+        "text": "Ten"
+      },
+      {
+        "confidence": 0.49806275963783264,
+        "text": "Tnb"
+      },
+      {
+        "confidence": 0.3697214722633362,
+        "text": "4m2"
+      },
+      {
+        "confidence": 0.8335764408111572,
+        "text": "otots"
+      },
+      {
+        "confidence": 0.4087940433195659,
+        "text": "a -n - - - 5r our"
+      },
+      {
+        "confidence": 0.3365201453367869,
+        "text": "a EU a"
+      },
+      {
+        "confidence": 0.35116814928395407,
+        "text": "sete RIE 0E Mt d 2 "
+      }
+    ]
+  },
+  "ocr_text": "Doctor MD BILLALI HOSSAIN\nun\n-\n- -\nrur Pomn\n\u00e0\nsoom)\n- ey\n1 - ndiea\n7=t2 - C\nammien\nGmbdeponed\ntoto\nMT\nan Nevmip\nI T\nSom\nQGP\ny\nDerlaer\n21\ntofo\n2m\nLE\na\nTemobie\nTen\nTnb\n4m2\notots\na -n - - - 5r our\na EU a\nsete RIE 0E Mt d 2 ",
+  "ocr_text_length": 220,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.25,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "medications"
+    ],
+    "quality_score": 0.494216,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

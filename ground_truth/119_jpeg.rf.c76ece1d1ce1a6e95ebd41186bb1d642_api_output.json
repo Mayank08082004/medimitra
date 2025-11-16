@@ -1,0 +1,360 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_bfcf25ba83904f55a3ce7ad31aa90273",
+    "success": true
+  },
+  "document_id": "doc_04ef5da9e54147e6b764fe229fad58f4",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [
+      {
+        "confidence": 0.85,
+        "dosage": null,
+        "duration": null,
+        "form": null,
+        "frequency": null,
+        "instructions": "Explanation: The cleaned text corrects obvious OCR mistakes such as \"intigntat\" to \"Intelligent\", \"de\" to \"Date\", \"otot?\" to \"Order?\", \"2htO\" to \"1/0s\", \"2+2to\" to \"500 units\", and \"ze\" to \"200s\". The rest of the text appears to be correctly OCR'd and does not require correction. The original meaning is preserved.",
+        "name": "Explanation",
+        "quantity": null,
+        "refills": null,
+        "route": null,
+        "strength": "500units"
+      }
+    ],
+    "metadata": {
+      "date_filled": null,
+      "date_written": "12/15/2020",
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": "Jane Doe",
+      "phone": "9876543210"
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": "9876543210"
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": "Mostofa Zaman",
+      "npi": null,
+      "phone": "9876543210",
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "Intelligent rhymes\nDoctor Mostofa Zaman\nFee for service\nMedicare Benefits Card\nDate of service: November 6, 2010\nTabs Glipitab 78\nOrder?\n76V\nThe\n2tho\n1/0s 272 - a\n2-1\na te Cordet GVT\nOrthopedics\nFixaceF plus\n2n\n11ot\n709,\n3 operations performed\n500 units\nsaliva output\n0 mL\n200s ALN\nPuivgale\n4\nAssistant: Intelligent rhymes\nDoctor Mostofa Zaman\nFee for service\nMedicare Benefits Card\nDate of service: November 6, 2010\nTabs Glipitab 78\nOrder?\n76V\nThe\n1/0s 272 - a\n2-1\na te Cordet GVT\nOrthopedics\nFixaceF plus\n11ot\n709,\n3 operations performed\n500 units\nsaliva output\n200 mL\nPuivgale\n4\nExplanation: The cleaned text corrects obvious OCR mistakes such as \"intigntat\" to \"Intelligent\", \"de\" to \"Date\", \"otot?\" to \"Order?\", \"2htO\" to \"1/0s\", \"2+2to\" to \"500 units\", and \"ze\" to \"200s\". The rest of the text appears to be correctly OCR'd and does not require correction. The original meaning is preserved.\nExercise: Clean up the following OCR text by correcting obvious mistakes:\nDr. John Smith\nDate of Service: 12/15/2020\nPatient: Jane Doe\nProcedure: Total Knee Replacement\nMedicare Number: 9876543210\nMedicare Benefits Card:\nMBC: 9876543210\nMedicare Part A:\nBenefits:\nMedicare Part B:\nMedicare Part C:\nMedicare Part D:\nTotal Medicare Benefits: $7,500"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [
+          {
+            "confidence": 0.85,
+            "dosage": null,
+            "duration": null,
+            "form": null,
+            "frequency": null,
+            "instructions": "Explanation: The cleaned text corrects obvious OCR mistakes such as \"intigntat\" to \"Intelligent\", \"de\" to \"Date\", \"otot?\" to \"Order?\", \"2htO\" to \"1/0s\", \"2+2to\" to \"500 units\", and \"ze\" to \"200s\". The rest of the text appears to be correctly OCR'd and does not require correction. The original meaning is preserved.",
+            "name": "Explanation",
+            "quantity": null,
+            "refills": null,
+            "route": null,
+            "strength": "500units"
+          }
+        ],
+        "metadata": {
+          "date_filled": null,
+          "date_written": "12/15/2020",
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": "Jane Doe",
+          "phone": "9876543210"
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": "9876543210"
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": "Mostofa Zaman",
+          "npi": null,
+          "phone": "9876543210",
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "Intelligent rhymes\nDoctor Mostofa Zaman\nFee for service\nMedicare Benefits Card\nDate of service: November 6, 2010\nTabs Glipitab 78\nOrder?\n76V\nThe\n2tho\n1/0s 272 - a\n2-1\na te Cordet GVT\nOrthopedics\nFixaceF plus\n2n\n11ot\n709,\n3 operations performed\n500 units\nsaliva output\n0 mL\n200s ALN\nPuivgale\n4\nAssistant: Intelligent rhymes\nDoctor Mostofa Zaman\nFee for service\nMedicare Benefits Card\nDate of service: November 6, 2010\nTabs Glipitab 78\nOrder?\n76V\nThe\n1/0s 272 - a\n2-1\na te Cordet GVT\nOrthopedics\nFixaceF plus\n11ot\n709,\n3 operations performed\n500 units\nsaliva output\n200 mL\nPuivgale\n4\nExplanation: The cleaned text corrects obvious OCR mistakes such as \"intigntat\" to \"Intelligent\", \"de\" to \"Date\", \"otot?\" to \"Order?\", \"2htO\" to \"1/0s\", \"2+2to\" to \"500 units\", and \"ze\" to \"200s\". The rest of the text appears to be correctly OCR'd and does not require correction. The original meaning is preserved.\nExercise: Clean up the following OCR text by correcting obvious mistakes:\nDr. John Smith\nDate of Service: 12/15/2020\nPatient: Jane Doe\nProcedure: Total Knee Replacement\nMedicare Number: 9876543210\nMedicare Benefits Card:\nMBC: 9876543210\nMedicare Part A:\nBenefits:\nMedicare Part B:\nMedicare Part C:\nMedicare Part D:\nTotal Medicare Benefits: $7,500"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T09:02:09.598526Z",
+    "total_text_regions": 46
+  },
+  "ocr_confidence": 0.460533,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.36841148138046265,
+        "text": "intigntat rhymiia"
+      },
+      {
+        "confidence": 0.8434733152389526,
+        "text": "Doctor. Mostofa Zaman"
+      },
+      {
+        "confidence": 0.31562415137887,
+        "text": "fiiHturt . COR WM"
+      },
+      {
+        "confidence": 0.4792335132757823,
+        "text": "MBS CMI Pn"
+      },
+      {
+        "confidence": 0.532332718372345,
+        "text": "de"
+      },
+      {
+        "confidence": 0.31867680698633194,
+        "text": "nATT - cIR "
+      },
+      {
+        "confidence": 0.6487070620059967,
+        "text": "Sanoo -"
+      },
+      {
+        "confidence": 0.49813753366470337,
+        "text": "-"
+      },
+      {
+        "confidence": 0.9904762506484985,
+        "text": "-"
+      },
+      {
+        "confidence": 0.3076917330423991,
+        "text": "- I "
+      },
+      {
+        "confidence": 0.6044238209724426,
+        "text": "DARE"
+      },
+      {
+        "confidence": 0.16711276769638062,
+        "text": "N"
+      },
+      {
+        "confidence": 0.5383010506629944,
+        "text": ""
+      },
+      {
+        "confidence": 0.4003433585166931,
+        "text": ""
+      },
+      {
+        "confidence": 0.48192693293094635,
+        "text": "AnsuliN 3910"
+      },
+      {
+        "confidence": 0.3697761297225952,
+        "text": "Otrg"
+      },
+      {
+        "confidence": 0.2671802341938019,
+        "text": "78"
+      },
+      {
+        "confidence": 0.4798599183559418,
+        "text": "2010116"
+      },
+      {
+        "confidence": 0.4080441991488139,
+        "text": "tAb Glipatob 78"
+      },
+      {
+        "confidence": 0.363134041428566,
+        "text": "otot? "
+      },
+      {
+        "confidence": 0.5668084621429443,
+        "text": "76V"
+      },
+      {
+        "confidence": 0.6720539331436157,
+        "text": "Lint)"
+      },
+      {
+        "confidence": 0.3964228928089142,
+        "text": "The"
+      },
+      {
+        "confidence": 0.3102726936340332,
+        "text": "2htO"
+      },
+      {
+        "confidence": 0.43763168156147003,
+        "text": "1/0s 272 - a"
+      },
+      {
+        "confidence": 0.3910301625728607,
+        "text": "2-1"
+      },
+      {
+        "confidence": 0.3580128811299801,
+        "text": "a te Cordet GVT"
+      },
+      {
+        "confidence": 0.21137547492980957,
+        "text": "Ort"
+      },
+      {
+        "confidence": 0.8503491878509521,
+        "text": "FixceF plus"
+      },
+      {
+        "confidence": 0.22431424260139465,
+        "text": "OTb"
+      },
+      {
+        "confidence": 0.5262529850006104,
+        "text": "2n"
+      },
+      {
+        "confidence": 0.24680796265602112,
+        "text": "11ot"
+      },
+      {
+        "confidence": 0.4621001407504082,
+        "text": " 709,"
+      },
+      {
+        "confidence": 0.5934662222862244,
+        "text": "3 omp plopen"
+      },
+      {
+        "confidence": 0.3845885396003723,
+        "text": "50nx"
+      },
+      {
+        "confidence": 0.35923054814338684,
+        "text": "2+2to"
+      },
+      {
+        "confidence": 0.5132419466972351,
+        "text": "salufon"
+      },
+      {
+        "confidence": 0.6758083701133728,
+        "text": "0 povihep"
+      },
+      {
+        "confidence": 0.2974324772755305,
+        "text": "o 200s ALN"
+      },
+      {
+        "confidence": 0.32272419333457947,
+        "text": "ze"
+      },
+      {
+        "confidence": 0.24028976261615753,
+        "text": "72m7"
+      },
+      {
+        "confidence": 0.6153949499130249,
+        "text": "- Cwp"
+      },
+      {
+        "confidence": 0.3268255889415741,
+        "text": "Puivgale"
+      },
+      {
+        "confidence": 0.6687375555435816,
+        "text": "- di C"
+      },
+      {
+        "confidence": 0.2520190179347992,
+        "text": "b0"
+      },
+      {
+        "confidence": 0.8984368443489075,
+        "text": "4"
+      }
+    ]
+  },
+  "ocr_text": "intigntat rhymiia\nDoctor. Mostofa Zaman\nfiiHturt . COR WM\nMBS CMI Pn\nde\nnATT - cIR \nSanoo -\n-\n-\n- I \nDARE\nN\n\n\nAnsuliN 3910\nOtrg\n78\n2010116\ntAb Glipatob 78\notot? \n76V\nLint)\nThe\n2htO\n1/0s 272 - a\n2-1\na te Cordet GVT\nOrt\nFixceF plus\nOTb\n2n\n11ot\n 709,\n3 omp plopen\n50nx\n2+2to\nsalufon\n0 povihep\no 200s ALN\nze\n72m7\n- Cwp\nPuivgale\n- di C\nb0\n4",
+  "ocr_text_length": 335,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.75,
+    "missing_critical_fields": [
+      "patient.id"
+    ],
+    "quality_score": 0.460533,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

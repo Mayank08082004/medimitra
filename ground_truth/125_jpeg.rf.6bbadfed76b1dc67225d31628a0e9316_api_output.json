@@ -1,0 +1,246 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_8174cb16374048c086d2656c07233e7a",
+    "success": true
+  },
+  "document_id": "doc_2fd2c1b6917c4f4caeba76014ee7070f",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": "MD Billali Hossan",
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "Doctor MD Billali Hossan\nKx\nL250\na mpa\nGET\nDAf (CP .\nfer TLE\nbum\nP\nnan\na 1 ins\n### Response\nDoctor MD Billali Hossan\nL250\na mpa\nGET\nDAf (CP .\nfer TLE\nbum\nP\na 1 ins"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": "MD Billali Hossan",
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "Doctor MD Billali Hossan\nKx\nL250\na mpa\nGET\nDAf (CP .\nfer TLE\nbum\nP\nnan\na 1 ins\n### Response\nDoctor MD Billali Hossan\nL250\na mpa\nGET\nDAf (CP .\nfer TLE\nbum\nP\na 1 ins"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T08:33:12.546799Z",
+    "total_text_regions": 24
+  },
+  "ocr_confidence": 0.549706,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.4940423518419266,
+        "text": "a -"
+      },
+      {
+        "confidence": 0.9596492648124695,
+        "text": "-"
+      },
+      {
+        "confidence": 0.7138146013021469,
+        "text": "Doctor MD BILLALI HOSSAN"
+      },
+      {
+        "confidence": 0.6002222895622253,
+        "text": "-"
+      },
+      {
+        "confidence": 0.4407060444355011,
+        "text": "Kx"
+      },
+      {
+        "confidence": 0.521796464920044,
+        "text": "e"
+      },
+      {
+        "confidence": 0.468107134103775,
+        "text": "L"
+      },
+      {
+        "confidence": 0.5213676691055298,
+        "text": "250"
+      },
+      {
+        "confidence": 0.5108519047498703,
+        "text": "a mpa"
+      },
+      {
+        "confidence": 0.6568310856819153,
+        "text": "fatfe -"
+      },
+      {
+        "confidence": 0.45982179045677185,
+        "text": "GET"
+      },
+      {
+        "confidence": 0.9739346504211426,
+        "text": "-"
+      },
+      {
+        "confidence": 0.4815059006214142,
+        "text": " - mi"
+      },
+      {
+        "confidence": 0.4540047546227773,
+        "text": "DAf (CP ."
+      },
+      {
+        "confidence": 0.454912930727005,
+        "text": "fer TLE"
+      },
+      {
+        "confidence": 0.6732854843139648,
+        "text": "- I"
+      },
+      {
+        "confidence": 0.49960678815841675,
+        "text": "bum"
+      },
+      {
+        "confidence": 0.3581348955631256,
+        "text": "P"
+      },
+      {
+        "confidence": 0.6944107909997305,
+        "text": "- 2 2v"
+      },
+      {
+        "confidence": 0.7289205193519592,
+        "text": "-"
+      },
+      {
+        "confidence": 0.24695179611444473,
+        "text": "PM2 MC"
+      },
+      {
+        "confidence": 0.5308662056922913,
+        "text": "nan"
+      },
+      {
+        "confidence": 0.34456779559453327,
+        "text": "a 1 ins"
+      },
+      {
+        "confidence": 0.40463171899318695,
+        "text": "- \u00e0"
+      }
+    ]
+  },
+  "ocr_text": "a -\n-\nDoctor MD BILLALI HOSSAN\n-\nKx\ne\nL\n250\na mpa\nfatfe -\nGET\n-\n - mi\nDAf (CP .\nfer TLE\n- I\nbum\nP\n- 2 2v\n-\nPM2 MC\nnan\na 1 ins\n- \u00e0",
+  "ocr_text_length": 129,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.25,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "medications"
+    ],
+    "quality_score": 0.549706,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

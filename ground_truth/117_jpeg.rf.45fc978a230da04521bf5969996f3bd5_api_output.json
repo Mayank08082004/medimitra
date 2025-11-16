@@ -1,0 +1,341 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": "Chee",
+    "record_id": "rec_05f57feb97884816980fe7aff205feaa",
+    "success": true
+  },
+  "document_id": "doc_c1aabeaacfdd4e5dadd61962e4694e79",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": "Chee",
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": "MD Billal Hossaim",
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "Church Road Primary Care Association\nDunder thach\nI E - - 1013 lego\nDoctor MD Billal Hossaim\nAmounti ie\nNumber\nNiD\nChee\nAtrle\nHi\nRy reg Vues\nA Paterson,\nNManterhe -13 Ohhaa\nan amcainine\n19\nDee\nOtah, Nopeow Room\nO-tofs\nQimo Kernal\nLoom\n2-tu to\n2\nomb Sme-Zie.\n1e -\na myp\nQCP partae\n4\nm\nDrm Kioclon\nO-tofs\nQSP ervy yep\nErtu\nOORO\nCib o\nee\nI:\nA\nVU  b \nALZ T wites\n1 E o 023\ndilime NE 1 e -\n### response\nChurch Road Primary Care Association\nDunder thach\nI E - - 1013 lego\nDoctor MD Billal Hossaim\nAmounti ie\nNumber\nNiD\nChee\nAtrle\nHi\nRy reg Vues\nA Paterson,\nNManterhe -13 Ohhaa\namcainine\n19\nDee\nOtah, Nopeow Room\nO-tofs\nQimo Kernal\nLoom\n2-tu to\n2\nomb Sme-Zie.\n1e -\na myp\nQCP partae\n4\nm\nDrm Kioclon\nO-tofs\nQSP ervy yep\nErtu\nOORO\nCib o\nee\nI:\nA\nVU  b \nALZ T wites\n1 E o 023\ndilime NE 1 e -"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": "Chee",
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": "MD Billal Hossaim",
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "Church Road Primary Care Association\nDunder thach\nI E - - 1013 lego\nDoctor MD Billal Hossaim\nAmounti ie\nNumber\nNiD\nChee\nAtrle\nHi\nRy reg Vues\nA Paterson,\nNManterhe -13 Ohhaa\nan amcainine\n19\nDee\nOtah, Nopeow Room\nO-tofs\nQimo Kernal\nLoom\n2-tu to\n2\nomb Sme-Zie.\n1e -\na myp\nQCP partae\n4\nm\nDrm Kioclon\nO-tofs\nQSP ervy yep\nErtu\nOORO\nCib o\nee\nI:\nA\nVU  b \nALZ T wites\n1 E o 023\ndilime NE 1 e -\n### response\nChurch Road Primary Care Association\nDunder thach\nI E - - 1013 lego\nDoctor MD Billal Hossaim\nAmounti ie\nNumber\nNiD\nChee\nAtrle\nHi\nRy reg Vues\nA Paterson,\nNManterhe -13 Ohhaa\namcainine\n19\nDee\nOtah, Nopeow Room\nO-tofs\nQimo Kernal\nLoom\n2-tu to\n2\nomb Sme-Zie.\n1e -\na myp\nQCP partae\n4\nm\nDrm Kioclon\nO-tofs\nQSP ervy yep\nErtu\nOORO\nCib o\nee\nI:\nA\nVU  b \nALZ T wites\n1 E o 023\ndilime NE 1 e -"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T08:26:26.280144Z",
+    "total_text_regions": 48
+  },
+  "ocr_confidence": 0.471541,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.31588906794786453,
+        "text": "-. CH RdPt GPARN"
+      },
+      {
+        "confidence": 0.21011970937252045,
+        "text": "dnder thch"
+      },
+      {
+        "confidence": 0.3585266595085462,
+        "text": "iE - - a 1013 lego"
+      },
+      {
+        "confidence": 0.7716643661260605,
+        "text": "Doctor MD BILLAL HOSSAIN"
+      },
+      {
+        "confidence": 0.3543606574336688,
+        "text": "- aumnti ie"
+      },
+      {
+        "confidence": 0.5453021824359894,
+        "text": "- noum"
+      },
+      {
+        "confidence": 0.40590834617614746,
+        "text": "Heta lentomtin the"
+      },
+      {
+        "confidence": 0.2762444317340851,
+        "text": "niD"
+      },
+      {
+        "confidence": 0.6037300750613213,
+        "text": "- CHEE"
+      },
+      {
+        "confidence": 0.8135654330253601,
+        "text": "- a"
+      },
+      {
+        "confidence": 0.2882890999317169,
+        "text": "Atrle"
+      },
+      {
+        "confidence": 0.42103444039821625,
+        "text": "i Hni"
+      },
+      {
+        "confidence": 0.4193766415119171,
+        "text": "."
+      },
+      {
+        "confidence": 0.4591420392195384,
+        "text": "Ry rueg Veus"
+      },
+      {
+        "confidence": 0.4537428021430969,
+        "text": "a Paatrs,"
+      },
+      {
+        "confidence": 0.37785545984903973,
+        "text": "NManterhe -13 Ohaa"
+      },
+      {
+        "confidence": 0.2918893098831177,
+        "text": "a \u00e0 amcauine"
+      },
+      {
+        "confidence": 0.2672223746776581,
+        "text": "1"
+      },
+      {
+        "confidence": 0.48480549454689026,
+        "text": "19"
+      },
+      {
+        "confidence": 0.4869972765445709,
+        "text": "Dee"
+      },
+      {
+        "confidence": 0.8023090362548828,
+        "text": "yw"
+      },
+      {
+        "confidence": 0.5646794040997823,
+        "text": "Otah, Nopeow Room"
+      },
+      {
+        "confidence": 0.6341965794563293,
+        "text": "o-tofs"
+      },
+      {
+        "confidence": 0.44080953299999237,
+        "text": "Qimo Kernal"
+      },
+      {
+        "confidence": 0.5929787158966064,
+        "text": "Loom"
+      },
+      {
+        "confidence": 0.6774962395429611,
+        "text": "2-tu to"
+      },
+      {
+        "confidence": 0.6520836353302002,
+        "text": "2"
+      },
+      {
+        "confidence": 0.50539331138134,
+        "text": "omb Sme-Zie."
+      },
+      {
+        "confidence": 0.6380492299795151,
+        "text": "1e -"
+      },
+      {
+        "confidence": 0.49653424322605133,
+        "text": "a myp"
+      },
+      {
+        "confidence": 0.5246247351169586,
+        "text": "QCP partae"
+      },
+      {
+        "confidence": 0.9293274879455566,
+        "text": "4"
+      },
+      {
+        "confidence": 0.2984953224658966,
+        "text": "m"
+      },
+      {
+        "confidence": 0.49091194570064545,
+        "text": "Drm Kioclon"
+      },
+      {
+        "confidence": 0.39419108629226685,
+        "text": ""
+      },
+      {
+        "confidence": 0.3717900514602661,
+        "text": "o-tofs"
+      },
+      {
+        "confidence": 0.2887250930070877,
+        "text": "QSP ervy yep"
+      },
+      {
+        "confidence": 0.4336976706981659,
+        "text": "Ertu"
+      },
+      {
+        "confidence": 0.3979279696941376,
+        "text": "OORO"
+      },
+      {
+        "confidence": 0.29444216191768646,
+        "text": "Cib o"
+      },
+      {
+        "confidence": 0.488868772983551,
+        "text": "ee"
+      },
+      {
+        "confidence": 0.5735430866479874,
+        "text": "I  I"
+      },
+      {
+        "confidence": 0.6925175189971924,
+        "text": ":"
+      },
+      {
+        "confidence": 0.28914493322372437,
+        "text": "A"
+      },
+      {
+        "confidence": 0.29556096717715263,
+        "text": "VU  b "
+      },
+      {
+        "confidence": 0.2955458462238312,
+        "text": "ALZ T wites"
+      },
+      {
+        "confidence": 0.4942963197827339,
+        "text": "1 E o 023"
+      },
+      {
+        "confidence": 0.47016640901565554,
+        "text": "dilime NE 1 e -"
+      }
+    ]
+  },
+  "ocr_text": "-. CH RdPt GPARN\ndnder thch\niE - - a 1013 lego\nDoctor MD BILLAL HOSSAIN\n- aumnti ie\n- noum\nHeta lentomtin the\nniD\n- CHEE\n- a\nAtrle\ni Hni\n.\nRy rueg Veus\na Paatrs,\nNManterhe -13 Ohaa\na \u00e0 amcauine\n1\n19\nDee\nyw\nOtah, Nopeow Room\no-tofs\nQimo Kernal\nLoom\n2-tu to\n2\nomb Sme-Zie.\n1e -\na myp\nQCP partae\n4\nm\nDrm Kioclon\n\no-tofs\nQSP ervy yep\nErtu\nOORO\nCib o\nee\nI  I\n:\nA\nVU  b \nALZ T wites\n1 E o 023\ndilime NE 1 e -",
+  "ocr_text_length": 402,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.5,
+    "missing_critical_fields": [
+      "patient.name",
+      "medications"
+    ],
+    "quality_score": 0.471541,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

@@ -1,0 +1,345 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": "Dextac",
+    "record_id": "rec_84590b2b3f9a4d77a47dd62073809930",
+    "success": true
+  },
+  "document_id": "doc_7e62de167f64416ba94d41068dfb5f4b",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [
+      {
+        "confidence": 0.85,
+        "dosage": null,
+        "duration": null,
+        "form": "injection",
+        "frequency": null,
+        "instructions": "Injection, Decision, Mostant Zaman",
+        "name": "Injection",
+        "quantity": null,
+        "refills": null,
+        "route": null,
+        "strength": null
+      },
+      {
+        "confidence": 0.85,
+        "dosage": null,
+        "duration": null,
+        "form": null,
+        "frequency": null,
+        "instructions": "Unit 3541 D",
+        "name": "Unit",
+        "quantity": null,
+        "refills": null,
+        "route": null,
+        "strength": null
+      },
+      {
+        "confidence": 0.85,
+        "dosage": null,
+        "duration": null,
+        "form": null,
+        "frequency": null,
+        "instructions": "Unit 3541 D",
+        "name": "Unit",
+        "quantity": null,
+        "refills": null,
+        "route": null,
+        "strength": null
+      }
+    ],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": "251860",
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": "Dextac",
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": null,
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "Injection, Decision, Mostant Zaman\nin\nShmhe\nUnit 3541 D\nThull primary 9W\n21072 - L\nToh Ale pleas 9V\n7 dvap 2\n\u00e0 Comorbid Dextac\net al) 30rg\nToe Kalceha\nPIE\nPtto P20k ONINS\n\u00e0 Tab\nVesHo\nwn\npEetS orx\n251860 5 42\nVO Tud Fexopen\n22 - a 707\net al)\n07\nEU\na -\nFot\nin\nShmhe\nUnit 3541 D\nThull primary 9W\n21072 - L\nToh Ale pleas 9V\n7 dvap 2\n\u00e0 Comorbid Dextac\net al) 30rg\nToe Kalceha\nPIE\nPtto P20k ONINS\n\u00e0 Tab\nVesHo\nwn\npEetS orx\n251860 5 42\nVO Tud Fexopen\n22 - a 707\net al)\n07\nEU\na -\nFot"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [
+          {
+            "confidence": 0.85,
+            "dosage": null,
+            "duration": null,
+            "form": "injection",
+            "frequency": null,
+            "instructions": "Injection, Decision, Mostant Zaman",
+            "name": "Injection",
+            "quantity": null,
+            "refills": null,
+            "route": null,
+            "strength": null
+          },
+          {
+            "confidence": 0.85,
+            "dosage": null,
+            "duration": null,
+            "form": null,
+            "frequency": null,
+            "instructions": "Unit 3541 D",
+            "name": "Unit",
+            "quantity": null,
+            "refills": null,
+            "route": null,
+            "strength": null
+          },
+          {
+            "confidence": 0.85,
+            "dosage": null,
+            "duration": null,
+            "form": null,
+            "frequency": null,
+            "instructions": "Unit 3541 D",
+            "name": "Unit",
+            "quantity": null,
+            "refills": null,
+            "route": null,
+            "strength": null
+          }
+        ],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": "251860",
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": "Dextac",
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": null,
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "Injection, Decision, Mostant Zaman\nin\nShmhe\nUnit 3541 D\nThull primary 9W\n21072 - L\nToh Ale pleas 9V\n7 dvap 2\n\u00e0 Comorbid Dextac\net al) 30rg\nToe Kalceha\nPIE\nPtto P20k ONINS\n\u00e0 Tab\nVesHo\nwn\npEetS orx\n251860 5 42\nVO Tud Fexopen\n22 - a 707\net al)\n07\nEU\na -\nFot\nin\nShmhe\nUnit 3541 D\nThull primary 9W\n21072 - L\nToh Ale pleas 9V\n7 dvap 2\n\u00e0 Comorbid Dextac\net al) 30rg\nToe Kalceha\nPIE\nPtto P20k ONINS\n\u00e0 Tab\nVesHo\nwn\npEetS orx\n251860 5 42\nVO Tud Fexopen\n22 - a 707\net al)\n07\nEU\na -\nFot"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T08:32:03.251872Z",
+    "total_text_regions": 29
+  },
+  "ocr_confidence": 0.442521,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.3315284587442875,
+        "text": "ierefenr a, HUE :"
+      },
+      {
+        "confidence": 0.5282645722230276,
+        "text": "Decion, Mostnta Zaman"
+      },
+      {
+        "confidence": 0.18652521073818207,
+        "text": "-"
+      },
+      {
+        "confidence": 0.227518230676651,
+        "text": "in"
+      },
+      {
+        "confidence": 0.47257304191589355,
+        "text": "-"
+      },
+      {
+        "confidence": 0.3985387086868286,
+        "text": "Shmhe"
+      },
+      {
+        "confidence": 0.3927064339319865,
+        "text": "Un 3541 D"
+      },
+      {
+        "confidence": 0.4643724858760834,
+        "text": "Tull puinox 9W"
+      },
+      {
+        "confidence": 0.4484492242336273,
+        "text": "21072 - L"
+      },
+      {
+        "confidence": 0.4980619549751282,
+        "text": "Toh Ale ples 9V"
+      },
+      {
+        "confidence": 0.3541281620661418,
+        "text": "7 dvap 2"
+      },
+      {
+        "confidence": 0.5909681916236877,
+        "text": "\u00e0 cmor Dextac"
+      },
+      {
+        "confidence": 0.3634823262691498,
+        "text": ""
+      },
+      {
+        "confidence": 0.30738872786362964,
+        "text": "e atot) 30rg"
+      },
+      {
+        "confidence": 0.38202691078186035,
+        "text": "Toe Kalceha"
+      },
+      {
+        "confidence": 0.723200261592865,
+        "text": "PIE"
+      },
+      {
+        "confidence": 0.33808352053165436,
+        "text": "Ptto P20k ONINS"
+      },
+      {
+        "confidence": 0.5695325136184692,
+        "text": "\u00e0 Tab"
+      },
+      {
+        "confidence": 0.516620397567749,
+        "text": "VesHo"
+      },
+      {
+        "confidence": 0.4038844108581543,
+        "text": "wn"
+      },
+      {
+        "confidence": 0.3614577651023865,
+        "text": "pEetS orx"
+      },
+      {
+        "confidence": 0.7202386856079102,
+        "text": "251860 5 42"
+      },
+      {
+        "confidence": 0.5330645541350046,
+        "text": "VO Tud Fexopen"
+      },
+      {
+        "confidence": 0.42279208078980446,
+        "text": "22 - a 707"
+      },
+      {
+        "confidence": 0.3644687533378601,
+        "text": "otot)"
+      },
+      {
+        "confidence": 0.4707348942756653,
+        "text": "07"
+      },
+      {
+        "confidence": 0.4924691915512085,
+        "text": "EU"
+      },
+      {
+        "confidence": 0.5763359367847443,
+        "text": "a -"
+      },
+      {
+        "confidence": 0.39368394017219543,
+        "text": "Fot"
+      }
+    ]
+  },
+  "ocr_text": "ierefenr a, HUE :\nDecion, Mostnta Zaman\n-\nin\n-\nShmhe\nUn 3541 D\nTull puinox 9W\n21072 - L\nToh Ale ples 9V\n7 dvap 2\n\u00e0 cmor Dextac\n\ne atot) 30rg\nToe Kalceha\nPIE\nPtto P20k ONINS\n\u00e0 Tab\nVesHo\nwn\npEetS orx\n251860 5 42\nVO Tud Fexopen\n22 - a 707\notot)\n07\nEU\na -\nFot",
+  "ocr_text_length": 255,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.5,
+    "missing_critical_fields": [
+      "patient.name",
+      "prescriber.name"
+    ],
+    "quality_score": 0.442521,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

@@ -1,0 +1,335 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_d3360464b1224febb0870714d7bfa2af",
+    "success": true
+  },
+  "document_id": "doc_09fbe9dc86174b2e86b7481e239f60b0",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": null,
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "National Institute of Cardiovascran Diseases & Hospital\nShar-Edangal Naga Dhata-1707 hent Rr\nTREATMENT SHEET\na\nWant 3\nladCabe\nine a a655\nFS IN . I -\nTH\n38) PoD\nF/o 13-905 1am\nDicr - Nuunal,\nwislien\nhevira DHR\nNepmem \u00e0\nFhachex ston\nKaun 5001 V T\nDo\nNape\n1 e\n100\nlAkA (20-1) omr\nlab pitand 257 - E . Eo\nTak- Belaitc\nTabl feniv (eu\nnt Wanin 6\nJab- Nomemenn\n CREVH (2508\nTabiovotal-\n1410\nDmpan ta\nE\nNebuletalion E ne\nA tont\nthost Physodte MFt\na \u00e0\nn,\nA\n/\nde\n### Response\nNational Institute of Cardiovascular Diseases & Hospital\nShar-Edangal Naga Dhata-1707 hent Rr\nTREATMENT SHEET\na\nWant 3\nladCabe\nine a 655\nFS IN . I -\nTH\n38) PoD\nF/o 13-905 1am\nDicr - Nonual,\nwislien\nhevira DHR\nNepmem \u00e0\nFhachex ston\nKaun 5001 V T\nDo\nNape\n1 e\n100\nlAkA (20-1) omr\nlab pitand 257 - E . Eo\nTak- Belaitc\nTabl feniv (eu\nnt Wanin 6\nJab- Nomemenn\nCREVH (2508\nTabiovotal-\n1410\nDmpan ta\nE\nNebuletalion E ne\nA tont\nthost Physodte MFt\na \u00e0\nn,\nA\n/\nde"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": null,
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "National Institute of Cardiovascran Diseases & Hospital\nShar-Edangal Naga Dhata-1707 hent Rr\nTREATMENT SHEET\na\nWant 3\nladCabe\nine a a655\nFS IN . I -\nTH\n38) PoD\nF/o 13-905 1am\nDicr - Nuunal,\nwislien\nhevira DHR\nNepmem \u00e0\nFhachex ston\nKaun 5001 V T\nDo\nNape\n1 e\n100\nlAkA (20-1) omr\nlab pitand 257 - E . Eo\nTak- Belaitc\nTabl feniv (eu\nnt Wanin 6\nJab- Nomemenn\n CREVH (2508\nTabiovotal-\n1410\nDmpan ta\nE\nNebuletalion E ne\nA tont\nthost Physodte MFt\na \u00e0\nn,\nA\n/\nde\n### Response\nNational Institute of Cardiovascular Diseases & Hospital\nShar-Edangal Naga Dhata-1707 hent Rr\nTREATMENT SHEET\na\nWant 3\nladCabe\nine a 655\nFS IN . I -\nTH\n38) PoD\nF/o 13-905 1am\nDicr - Nonual,\nwislien\nhevira DHR\nNepmem \u00e0\nFhachex ston\nKaun 5001 V T\nDo\nNape\n1 e\n100\nlAkA (20-1) omr\nlab pitand 257 - E . Eo\nTak- Belaitc\nTabl feniv (eu\nnt Wanin 6\nJab- Nomemenn\nCREVH (2508\nTabiovotal-\n1410\nDmpan ta\nE\nNebuletalion E ne\nA tont\nthost Physodte MFt\na \u00e0\nn,\nA\n/\nde"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T09:07:35.047969Z",
+    "total_text_regions": 46
+  },
+  "ocr_confidence": 0.492584,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.8019331395626068,
+        "text": "a8 146"
+      },
+      {
+        "confidence": 0.4363781809806824,
+        "text": "a"
+      },
+      {
+        "confidence": 0.791915625333786,
+        "text": "National Institute of Cardiovascular Diseases & Hospital"
+      },
+      {
+        "confidence": 0.48702074885368346,
+        "text": "Shar-Edangal Naga Dhata-1707 hent Rr"
+      },
+      {
+        "confidence": 0.9917485415935516,
+        "text": "TREATMENT SHEET"
+      },
+      {
+        "confidence": 0.5059828261534373,
+        "text": "- Ruma Akduc"
+      },
+      {
+        "confidence": 0.2765633165836334,
+        "text": "a"
+      },
+      {
+        "confidence": 0.42114733159542084,
+        "text": "Want 3"
+      },
+      {
+        "confidence": 0.37459221482276917,
+        "text": "ladCabe"
+      },
+      {
+        "confidence": 0.45578107982873917,
+        "text": "ine a aas a655"
+      },
+      {
+        "confidence": 0.4325827032327652,
+        "text": "FS IN . I -"
+      },
+      {
+        "confidence": 0.21948371827602386,
+        "text": "TH"
+      },
+      {
+        "confidence": 0.5256286263465881,
+        "text": "-"
+      },
+      {
+        "confidence": 0.5254993885755539,
+        "text": "38) PoD"
+      },
+      {
+        "confidence": 0.5280702213446299,
+        "text": "F/o 13-905 1am"
+      },
+      {
+        "confidence": 0.32135693232218426,
+        "text": "Dicr - Nuunal,"
+      },
+      {
+        "confidence": 0.3611312508583069,
+        "text": "wislien"
+      },
+      {
+        "confidence": 0.3541819155216217,
+        "text": "hevira DHR"
+      },
+      {
+        "confidence": 0.515637993812561,
+        "text": "Nepmem \u00e0"
+      },
+      {
+        "confidence": 0.3945232629776001,
+        "text": "Fhachex ston"
+      },
+      {
+        "confidence": 0.5703687556087971,
+        "text": "Kaun 5001 V T"
+      },
+      {
+        "confidence": 0.16079317033290863,
+        "text": "Do"
+      },
+      {
+        "confidence": 0.6453855633735657,
+        "text": "Nape"
+      },
+      {
+        "confidence": 0.5210989415645599,
+        "text": "1 e"
+      },
+      {
+        "confidence": 0.45298436284065247,
+        "text": "100"
+      },
+      {
+        "confidence": 0.5576137602329254,
+        "text": "lAkA (20-1) omr"
+      },
+      {
+        "confidence": 0.43831307760306765,
+        "text": "lab pitand 257 - E . Eo"
+      },
+      {
+        "confidence": 0.4001094549894333,
+        "text": "Tak- Belaitc"
+      },
+      {
+        "confidence": 0.38455813626448315,
+        "text": "Tabl feniv (eu"
+      },
+      {
+        "confidence": 0.6176230112711588,
+        "text": "nt Wanin 6"
+      },
+      {
+        "confidence": 0.9733814597129822,
+        "text": "-"
+      },
+      {
+        "confidence": 0.35762564837932587,
+        "text": "Jab- Nomemenn"
+      },
+      {
+        "confidence": 0.3197262187798818,
+        "text": " CREVH (2508"
+      },
+      {
+        "confidence": 0.42971155047416687,
+        "text": "Tabiovotal-"
+      },
+      {
+        "confidence": 0.5133351683616638,
+        "text": "1410"
+      },
+      {
+        "confidence": 0.4270121455192566,
+        "text": "Dmpan ta"
+      },
+      {
+        "confidence": 0.44195666909217834,
+        "text": "E"
+      },
+      {
+        "confidence": 0.4279312193393707,
+        "text": "Nebuletalion E ne"
+      },
+      {
+        "confidence": 0.6374417841434479,
+        "text": "A tont"
+      },
+      {
+        "confidence": 0.904100239276886,
+        "text": "-"
+      },
+      {
+        "confidence": 0.3209570646286011,
+        "text": "thost Physodte MFt"
+      },
+      {
+        "confidence": 0.6925833225250244,
+        "text": "a \u00e0"
+      },
+      {
+        "confidence": 0.14875589311122894,
+        "text": "n,"
+      },
+      {
+        "confidence": 0.6587440967559814,
+        "text": "A"
+      },
+      {
+        "confidence": 0.4578491747379303,
+        "text": "/"
+      },
+      {
+        "confidence": 0.47773027420043945,
+        "text": "de"
+      }
+    ]
+  },
+  "ocr_text": "a8 146\na\nNational Institute of Cardiovascular Diseases & Hospital\nShar-Edangal Naga Dhata-1707 hent Rr\nTREATMENT SHEET\n- Ruma Akduc\na\nWant 3\nladCabe\nine a aas a655\nFS IN . I -\nTH\n-\n38) PoD\nF/o 13-905 1am\nDicr - Nuunal,\nwislien\nhevira DHR\nNepmem \u00e0\nFhachex ston\nKaun 5001 V T\nDo\nNape\n1 e\n100\nlAkA (20-1) omr\nlab pitand 257 - E . Eo\nTak- Belaitc\nTabl feniv (eu\nnt Wanin 6\n-\nJab- Nomemenn\n CREVH (2508\nTabiovotal-\n1410\nDmpan ta\nE\nNebuletalion E ne\nA tont\n-\nthost Physodte MFt\na \u00e0\nn,\nA\n/\nde",
+  "ocr_text_length": 485,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.0,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "prescriber.name",
+      "medications"
+    ],
+    "quality_score": 0.492584,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

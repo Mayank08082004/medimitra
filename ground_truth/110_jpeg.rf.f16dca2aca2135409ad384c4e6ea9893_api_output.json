@@ -1,0 +1,327 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_59c3b7c2fed54d47af7aea2eb5be438f",
+    "success": true
+  },
+  "document_id": "doc_7ff170dd322642699b020e476572e59f",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": "ation",
+      "name": null,
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "National Institute of Cardiovascular Diseases 8 Hospital\nSher-Edangal Nagar, Dhaka-1207\nTREATMENT SHEET\n4h Ruma Akluat\nA\nNantladcbe\n\u00e0 a3s A5\nF I 1 m mh\nmm\n2441 PoD\n1/0 3 925 1am\nDuctal,\nan\nhevira DVR\nNerpmem \u20acm\nARTY on\n\u00e0\nKAI\n500\nt\n100\nA\n(201 gm\nlab prutand 255 - \nah Belaite\nno Feik (ou\nne Wanin de\njab Norememn\npe CeH (2s0a)\nTab. 1410\nDmpan a\nNebulication E\nA tost\nchost Physodeneet na\nan\n* a\na\n\u00e0\n### Response\nNational Institute of Cardiovasc Written by:\nSher-Edangal Nagar, Dhaka-1207\nTREATMENT SHEET\n4h Ruma Akluat\nA\nNantladcbe\n\u00e0 a3s A5\nF I 1 m mh\nmm\n2441 PoD\n1/0 3 925 1am\nDuctal,\nan\nhevira DVR\nNerpmem \u20acm\nARTY on\n\u00e0\nKAI\n500\nt\n100\nA\n(201 gm\nlab prutand 255 - \nah Belaite\nno Feik (ou\nne Wanin de\njab Norememn\npe CeH (2s0a)\nTab. 1410\nDmpan a\nNebulication E\nA tost\nchost Physodeneet na\nan\n* a\na\n\u00e0\nCleaned:\nNational Institute of Cardiovascular Diseases 8 Hospital\nSher-Edangal Nagar, Dhaka-1207\nTREATMENT SHEET\n4h Ruma Akluat\nA\nNantladcbe\n\u00e0 a3s A5\nF I 1 m mh\nmm\n2441 PoD\n1/0 3 925 1am\nDuctal,\nan\nhevira DVR\nNerpmem \u20acm\nARTY on\n\u00e0\nKAI\n500\nt\n100\nA\n(201 gm\nlab prutand 255 - \nah Belaite\nno Feik (ou\nne Wanin de\njab Norememn\npe CeH (2s0a)\nTab. 1410\nDmpan a\nNebulication E\nA tost\nchost Physodeneet na\nan\n* a\na\n\u00e0"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": "ation",
+          "name": null,
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "National Institute of Cardiovascular Diseases 8 Hospital\nSher-Edangal Nagar, Dhaka-1207\nTREATMENT SHEET\n4h Ruma Akluat\nA\nNantladcbe\n\u00e0 a3s A5\nF I 1 m mh\nmm\n2441 PoD\n1/0 3 925 1am\nDuctal,\nan\nhevira DVR\nNerpmem \u20acm\nARTY on\n\u00e0\nKAI\n500\nt\n100\nA\n(201 gm\nlab prutand 255 - \nah Belaite\nno Feik (ou\nne Wanin de\njab Norememn\npe CeH (2s0a)\nTab. 1410\nDmpan a\nNebulication E\nA tost\nchost Physodeneet na\nan\n* a\na\n\u00e0\n### Response\nNational Institute of Cardiovasc Written by:\nSher-Edangal Nagar, Dhaka-1207\nTREATMENT SHEET\n4h Ruma Akluat\nA\nNantladcbe\n\u00e0 a3s A5\nF I 1 m mh\nmm\n2441 PoD\n1/0 3 925 1am\nDuctal,\nan\nhevira DVR\nNerpmem \u20acm\nARTY on\n\u00e0\nKAI\n500\nt\n100\nA\n(201 gm\nlab prutand 255 - \nah Belaite\nno Feik (ou\nne Wanin de\njab Norememn\npe CeH (2s0a)\nTab. 1410\nDmpan a\nNebulication E\nA tost\nchost Physodeneet na\nan\n* a\na\n\u00e0\nCleaned:\nNational Institute of Cardiovascular Diseases 8 Hospital\nSher-Edangal Nagar, Dhaka-1207\nTREATMENT SHEET\n4h Ruma Akluat\nA\nNantladcbe\n\u00e0 a3s A5\nF I 1 m mh\nmm\n2441 PoD\n1/0 3 925 1am\nDuctal,\nan\nhevira DVR\nNerpmem \u20acm\nARTY on\n\u00e0\nKAI\n500\nt\n100\nA\n(201 gm\nlab prutand 255 - \nah Belaite\nno Feik (ou\nne Wanin de\njab Norememn\npe CeH (2s0a)\nTab. 1410\nDmpan a\nNebulication E\nA tost\nchost Physodeneet na\nan\n* a\na\n\u00e0"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T08:40:02.562269Z",
+    "total_text_regions": 44
+  },
+  "ocr_confidence": 0.498805,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.6238296329975128,
+        "text": "- d-"
+      },
+      {
+        "confidence": 0.8671943289893014,
+        "text": "National Institute of Cardiovascular Diseases 8 Hospital"
+      },
+      {
+        "confidence": 0.5698949337005615,
+        "text": "SherEdangal Nagar Dhala-1207, he -"
+      },
+      {
+        "confidence": 0.98639315366745,
+        "text": "TREATMENT SHEET"
+      },
+      {
+        "confidence": 0.428376962741216,
+        "text": "4h Ruma Aklut"
+      },
+      {
+        "confidence": 0.6385237574577332,
+        "text": "A"
+      },
+      {
+        "confidence": 0.31760451197624207,
+        "text": "Nant"
+      },
+      {
+        "confidence": 0.39093688130378723,
+        "text": "ladCbe"
+      },
+      {
+        "confidence": 0.47288720682263374,
+        "text": " \u00e0 a3s A5"
+      },
+      {
+        "confidence": 0.40297481417655945,
+        "text": "F I 1 m mh"
+      },
+      {
+        "confidence": 0.16330918669700623,
+        "text": "mm"
+      },
+      {
+        "confidence": 0.5153858661651611,
+        "text": "-"
+      },
+      {
+        "confidence": 0.5187845379114151,
+        "text": "2441 PoD"
+      },
+      {
+        "confidence": 0.4124321863055229,
+        "text": "1/0 3 925 1am"
+      },
+      {
+        "confidence": 0.4391990453004837,
+        "text": "Dict Auunal,"
+      },
+      {
+        "confidence": 0.21363112330436707,
+        "text": "an"
+      },
+      {
+        "confidence": 0.6187876611948013,
+        "text": "hevira DVR"
+      },
+      {
+        "confidence": 0.43059414625167847,
+        "text": "Nerpmem \u20acm"
+      },
+      {
+        "confidence": 0.553166076540947,
+        "text": "AARTY on"
+      },
+      {
+        "confidence": 0.5156580209732056,
+        "text": "\u00e0"
+      },
+      {
+        "confidence": 0.7087242007255554,
+        "text": "KAI"
+      },
+      {
+        "confidence": 0.42086073756217957,
+        "text": "500"
+      },
+      {
+        "confidence": 0.39579248428344727,
+        "text": "t"
+      },
+      {
+        "confidence": 0.4224395155906677,
+        "text": "100"
+      },
+      {
+        "confidence": 0.43658649921417236,
+        "text": "A"
+      },
+      {
+        "confidence": 0.8441555798053741,
+        "text": "(201 gm"
+      },
+      {
+        "confidence": 0.4635534226894379,
+        "text": "lab prutand 255 - "
+      },
+      {
+        "confidence": 0.39236782491207123,
+        "text": "ah Belaite"
+      },
+      {
+        "confidence": 0.40685654679934186,
+        "text": "no Feik (ou"
+      },
+      {
+        "confidence": 0.9870322942733765,
+        "text": "-"
+      },
+      {
+        "confidence": 0.5392834146817526,
+        "text": "ne Wanin de"
+      },
+      {
+        "confidence": 0.410163477063179,
+        "text": "jab Norememn"
+      },
+      {
+        "confidence": 0.3161136855681737,
+        "text": "pe CeH (2s0a)"
+      },
+      {
+        "confidence": 0.49410560727119446,
+        "text": "Tab.ovotal-"
+      },
+      {
+        "confidence": 0.5146595239639282,
+        "text": "1410"
+      },
+      {
+        "confidence": 0.6692417412996292,
+        "text": "Dmpan a"
+      },
+      {
+        "confidence": 0.44843971729278564,
+        "text": "Nebulicahion E "
+      },
+      {
+        "confidence": 0.44919970631599426,
+        "text": "A tort"
+      },
+      {
+        "confidence": 0.442414124806722,
+        "text": "chost Physodeneet nA"
+      },
+      {
+        "confidence": 0.13227929174900055,
+        "text": "oo"
+      },
+      {
+        "confidence": 0.1648053675889969,
+        "text": "an"
+      },
+      {
+        "confidence": 0.3567411005496979,
+        "text": "* a"
+      },
+      {
+        "confidence": 0.5099737048149109,
+        "text": "a"
+      },
+      {
+        "confidence": 0.9420591592788696,
+        "text": "\u00e0"
+      }
+    ]
+  },
+  "ocr_text": "- d-\nNational Institute of Cardiovascular Diseases 8 Hospital\nSherEdangal Nagar Dhala-1207, he -\nTREATMENT SHEET\n4h Ruma Aklut\nA\nNant\nladCbe\n \u00e0 a3s A5\nF I 1 m mh\nmm\n-\n2441 PoD\n1/0 3 925 1am\nDict Auunal,\nan\nhevira DVR\nNerpmem \u20acm\nAARTY on\n\u00e0\nKAI\n500\nt\n100\nA\n(201 gm\nlab prutand 255 - \nah Belaite\nno Feik (ou\n-\nne Wanin de\njab Norememn\npe CeH (2s0a)\nTab.ovotal-\n1410\nDmpan a\nNebulicahion E \nA tort\nchost Physodeneet nA\noo\nan\n* a\na\n\u00e0",
+  "ocr_text_length": 428,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.0,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "prescriber.name",
+      "medications"
+    ],
+    "quality_score": 0.498805,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

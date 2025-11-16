@@ -1,0 +1,302 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_5861115190204b31874427f7c1e01715",
+    "success": true
+  },
+  "document_id": "doc_4f697905e5c34aac8b5b126e73405132",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {
+        "hr": "10"
+      }
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": "Re no",
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "Mopur 6. Groet MNR\nImagratot hyactn\nEm 244\nDoctor, Mostofa Zaman\nnat - 7 TVel\nFIBBION a\na\nL RU a\nlme Jobaida\nAper 60MES Dunn\nK\nETuS Atrnvpt CAr\no 920 A\nRe nopa ore amn\n772/2 Sgar 3\nRAS yenty 20fn\nsboto\nRofn\n0 -\nCUF peotac\n1101 Bamg\n\u20ac Tal. Cosalmet 2\n+ fo\n2oyhy\n21 2e79\n2oyn\nmte picolax\nhr 10VX\nomh mm (WT) ente emm Dime\natr oue - Rt OT om, upper,\n1 Us aur\nAitil\nImagratot hyactn\nEm 244\nDoctor, Mostofa Zaman\nnat - 7 TVel\nFIBBION a\na\nL RU a\nlme Jobaida\nAper 6eM Dunn\nK\nETuS Atrnvpt CAr\no 920 A\nRe nopa ore amn\n772/2 Sgar 3\nRAS yenty 20fn\nsboto\nRofn\n0 -\nCUF peotac\n1101 Bamg\n\u20ac Tal. Cosalmet 2\n+ fo\n2oyhy\n21 2079\n2oyn\nmte picolax\nhr 10VX\nomh mm (WT) ente emm Dime\natr oue - Rt OT om, upper,\n1 Us aur\nAitil"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {
+            "hr": "10"
+          }
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": "Re no",
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "Mopur 6. Groet MNR\nImagratot hyactn\nEm 244\nDoctor, Mostofa Zaman\nnat - 7 TVel\nFIBBION a\na\nL RU a\nlme Jobaida\nAper 60MES Dunn\nK\nETuS Atrnvpt CAr\no 920 A\nRe nopa ore amn\n772/2 Sgar 3\nRAS yenty 20fn\nsboto\nRofn\n0 -\nCUF peotac\n1101 Bamg\n\u20ac Tal. Cosalmet 2\n+ fo\n2oyhy\n21 2e79\n2oyn\nmte picolax\nhr 10VX\nomh mm (WT) ente emm Dime\natr oue - Rt OT om, upper,\n1 Us aur\nAitil\nImagratot hyactn\nEm 244\nDoctor, Mostofa Zaman\nnat - 7 TVel\nFIBBION a\na\nL RU a\nlme Jobaida\nAper 6eM Dunn\nK\nETuS Atrnvpt CAr\no 920 A\nRe nopa ore amn\n772/2 Sgar 3\nRAS yenty 20fn\nsboto\nRofn\n0 -\nCUF peotac\n1101 Bamg\n\u20ac Tal. Cosalmet 2\n+ fo\n2oyhy\n21 2079\n2oyn\nmte picolax\nhr 10VX\nomh mm (WT) ente emm Dime\natr oue - Rt OT om, upper,\n1 Us aur\nAitil"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T09:20:10.846090Z",
+    "total_text_regions": 37
+  },
+  "ocr_confidence": 0.441409,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.6758495569229126,
+        "text": "."
+      },
+      {
+        "confidence": 0.25567005574703217,
+        "text": "MUPUR 6. GREUT MNR"
+      },
+      {
+        "confidence": 0.3550201430916786,
+        "text": "Imagratot hyactn"
+      },
+      {
+        "confidence": 0.17644485086202621,
+        "text": "Em 244"
+      },
+      {
+        "confidence": 0.839356541633606,
+        "text": "Doctor, Mostofa Zaman"
+      },
+      {
+        "confidence": 0.43860383704304695,
+        "text": "nat - 7 TVel"
+      },
+      {
+        "confidence": 0.5796626408894857,
+        "text": "FIBBION  a"
+      },
+      {
+        "confidence": 0.3417932093143463,
+        "text": "-"
+      },
+      {
+        "confidence": 0.6038232445716858,
+        "text": "a"
+      },
+      {
+        "confidence": 0.25220486521720886,
+        "text": "-"
+      },
+      {
+        "confidence": 0.4378413259983063,
+        "text": "L RU a"
+      },
+      {
+        "confidence": 0.5403105616569519,
+        "text": "- PRER mu ith \u00e0"
+      },
+      {
+        "confidence": 0.5270401239395142,
+        "text": "lme Jobaida"
+      },
+      {
+        "confidence": 0.59892405072848,
+        "text": "Aper 60MES Dunn"
+      },
+      {
+        "confidence": 0.5209488272666931,
+        "text": "K"
+      },
+      {
+        "confidence": 0.2738809287548065,
+        "text": "ETuS Atrnvpt CAr"
+      },
+      {
+        "confidence": 0.2978987842798233,
+        "text": "o 920 A"
+      },
+      {
+        "confidence": 0.8152481913566589,
+        "text": ""
+      },
+      {
+        "confidence": 0.515289805829525,
+        "text": "Re nopa ore amn"
+      },
+      {
+        "confidence": 0.4242338041464488,
+        "text": "772/2 Sgar 3"
+      },
+      {
+        "confidence": 0.3098274419705073,
+        "text": "RAS yenty 20fn"
+      },
+      {
+        "confidence": 0.3359479308128357,
+        "text": "sboto"
+      },
+      {
+        "confidence": 0.37507060170173645,
+        "text": "Rofn"
+      },
+      {
+        "confidence": 0.2957383766770363,
+        "text": "0 -"
+      },
+      {
+        "confidence": 0.527986690402031,
+        "text": "CUF peotac"
+      },
+      {
+        "confidence": 0.4113250970840454,
+        "text": "1101 Bamg"
+      },
+      {
+        "confidence": 0.4809536449611187,
+        "text": "\u20ac Tal. Cosalmet 2"
+      },
+      {
+        "confidence": 0.698553055524826,
+        "text": "+ fo"
+      },
+      {
+        "confidence": 0.3335022032260895,
+        "text": "2oyhy"
+      },
+      {
+        "confidence": 0.4558866173028946,
+        "text": "21 2079"
+      },
+      {
+        "confidence": 0.320571631193161,
+        "text": "2oyn"
+      },
+      {
+        "confidence": 0.5596421584486961,
+        "text": "mte picolax"
+      },
+      {
+        "confidence": 0.4553864151239395,
+        "text": "hr 10VX"
+      },
+      {
+        "confidence": 0.29383668800195056,
+        "text": "omh mm (WT) ente emm Dime"
+      },
+      {
+        "confidence": 0.3750906011887959,
+        "text": "atr oue - Rt OT om, upper,"
+      },
+      {
+        "confidence": 0.441620796918869,
+        "text": "1 Us aur"
+      },
+      {
+        "confidence": 0.19116075336933136,
+        "text": "Aitil"
+      }
+    ]
+  },
+  "ocr_text": ".\nMUPUR 6. GREUT MNR\nImagratot hyactn\nEm 244\nDoctor, Mostofa Zaman\nnat - 7 TVel\nFIBBION  a\n-\na\n-\nL RU a\n- PRER mu ith \u00e0\nlme Jobaida\nAper 60MES Dunn\nK\nETuS Atrnvpt CAr\no 920 A\n\nRe nopa ore amn\n772/2 Sgar 3\nRAS yenty 20fn\nsboto\nRofn\n0 -\nCUF peotac\n1101 Bamg\n\u20ac Tal. Cosalmet 2\n+ fo\n2oyhy\n21 2079\n2oyn\nmte picolax\nhr 10VX\nomh mm (WT) ente emm Dime\natr oue - Rt OT om, upper,\n1 Us aur\nAitil",
+  "ocr_text_length": 385,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.25,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "medications"
+    ],
+    "quality_score": 0.441409,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

@@ -1,0 +1,426 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_63ab9dd73de8424fbe8e95bb8013127f",
+    "success": true
+  },
+  "document_id": "doc_69abb6c2e55c4eed87d070365e8ca2d6",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [
+        "COUGH"
+      ],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [
+      {
+        "confidence": 0.85,
+        "dosage": null,
+        "duration": null,
+        "form": null,
+        "frequency": null,
+        "instructions": "DOXOMA lo ml",
+        "name": "DOXOMA",
+        "quantity": null,
+        "refills": null,
+        "route": null,
+        "strength": null
+      },
+      {
+        "confidence": 0.85,
+        "dosage": null,
+        "duration": null,
+        "form": null,
+        "frequency": null,
+        "instructions": "DOXOMA lo ml",
+        "name": "DOXOMA",
+        "quantity": null,
+        "refills": null,
+        "route": null,
+        "strength": null
+      },
+      {
+        "confidence": 0.85,
+        "dosage": null,
+        "duration": null,
+        "form": null,
+        "frequency": null,
+        "instructions": "DOXOMA lo ml",
+        "name": "DOXOMA",
+        "quantity": null,
+        "refills": null,
+        "route": null,
+        "strength": null
+      }
+    ],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": null,
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "25\nGITS GTTYT\n26\neviferet\n2\nroi\nR\nRT T atH 3 nn\nd  o RAEe a 33\nfeca T Au  AA -\nERTCVATT on TeTRiT A\nOAT   sir a RS\nC/C\n&\nRI71 2 A! ST\nFeres\nSYP EVOFIX 50 \nCOUGH\n8(: FR1 to+86IM 9151\nCOLD\nSYP ACE OR) \u00e0 6ome 2607\n22 tyarb XC Gay 951\nea AY gaim wrta 41\nOE\nSYP pop MIRAPEX los n\nS61\nBP\nNE Bart tot BArb 8\nPulse.\nt -\nR/R.\nDOXOMA lo ml\n5Yr\nJaundice.\n> G fm 2V 0o CREAULY\nAnemia\n2 avs. mam\n33 (ava\nAdv.\nTAB MONAS. 1 MOFT :\n2 0 -\nA -\n2r\nL\nNalfLs\n(54i38 TT STTeTT HICAU, fagia CAIY, HINOT 41614, NC249; HAnEl\ncain B aR afofer 714101-9.0 CV 05 b.oofs q4 frati-801 200 do 01 RIN\n25\nGITS GTTYT\n26\neviferet\n2\nroi\nR\nRT T atH 3 nn\nd  o RAEe a 33\nfeca T Au  AA -\nERTCVATT on TeTRiT A\nOAT   sir a RS\nC/C\n&\nRI71 2 A! ST\nFeres\nSYP EVOFIX 50\nCOUGH\n8(: FR1 to+86IM 9151\nCOLD\nSYP ACE OR) \u00e0 6ome 2607\n22 tyarb XC Gay 951\nea AY gaim wrta 41\nOE\nSYP pop MIRAPEX los n\nS61\nBP\nNE Bart tot BArb 8\nPulse.\nR/R.\nDOXOMA lo ml\n5Yr\nJaundice.\n> G fm 2V 0o CREAULY\nAnemia\n2 avs. mam\n33 (ava\nAdv.\nTAB MONAS. 1 MOFT :\n2 0 -\nA -\n2r\nL\nNalfLs\n(54i38 TT STTeTT HICAU, fagia CAIY, HINOT 41614, NC249; HAnEl\ncain B aR afofer 714101-9.0 CV 05 b.oofs q4 frati-801 200 do 01 RIN\n25\nGITS GTTYT\n26\neviferet\n2\nroi\nR\nRT T atH 3 nn\nd  o RAEe a 33\nfeca T Au  AA -\nERTCVATT on TeTRiT A\nOAT   sir a RS\nC/C\n&\nRI71 2 A! ST\nFeres\nSYP EVOFIX 50\nCOUGH\n8(: FR1 to+86IM 9151\nCOLD\nSYP ACE OR) \u00e0 6ome 2607\n22 tyarb XC Gay 951\nea AY gaim wrta 41\nOE\nSYP pop MIRAPEX los n\nS61\nBP\nNE Bart tot BArb 8\nPulse.\nR/R.\nDOXOMA lo ml\n5Yr\nJaundice.\n> G fm 2V 0o CREAULY\nAnemia\n2 avs. mam\n33 (ava\nAdv.\nTAB MONAS. 1 MOFT :\n2 0 -\nA -\n2r\nL\nNalfLs\n(54i38 TT STTeTT HICAU, fagia CAIY, HINOT 41614, NC249; HAnEl\ncain B aR afofer 714101-9.0 CV 05 b.oofs q4 frati-801 200 do 01 RIN\nThere are no obvious OCR mistakes that need correction, so the text remains unchanged."
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [
+            "COUGH"
+          ],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [
+          {
+            "confidence": 0.85,
+            "dosage": null,
+            "duration": null,
+            "form": null,
+            "frequency": null,
+            "instructions": "DOXOMA lo ml",
+            "name": "DOXOMA",
+            "quantity": null,
+            "refills": null,
+            "route": null,
+            "strength": null
+          },
+          {
+            "confidence": 0.85,
+            "dosage": null,
+            "duration": null,
+            "form": null,
+            "frequency": null,
+            "instructions": "DOXOMA lo ml",
+            "name": "DOXOMA",
+            "quantity": null,
+            "refills": null,
+            "route": null,
+            "strength": null
+          },
+          {
+            "confidence": 0.85,
+            "dosage": null,
+            "duration": null,
+            "form": null,
+            "frequency": null,
+            "instructions": "DOXOMA lo ml",
+            "name": "DOXOMA",
+            "quantity": null,
+            "refills": null,
+            "route": null,
+            "strength": null
+          }
+        ],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": null,
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "25\nGITS GTTYT\n26\neviferet\n2\nroi\nR\nRT T atH 3 nn\nd  o RAEe a 33\nfeca T Au  AA -\nERTCVATT on TeTRiT A\nOAT   sir a RS\nC/C\n&\nRI71 2 A! ST\nFeres\nSYP EVOFIX 50 \nCOUGH\n8(: FR1 to+86IM 9151\nCOLD\nSYP ACE OR) \u00e0 6ome 2607\n22 tyarb XC Gay 951\nea AY gaim wrta 41\nOE\nSYP pop MIRAPEX los n\nS61\nBP\nNE Bart tot BArb 8\nPulse.\nt -\nR/R.\nDOXOMA lo ml\n5Yr\nJaundice.\n> G fm 2V 0o CREAULY\nAnemia\n2 avs. mam\n33 (ava\nAdv.\nTAB MONAS. 1 MOFT :\n2 0 -\nA -\n2r\nL\nNalfLs\n(54i38 TT STTeTT HICAU, fagia CAIY, HINOT 41614, NC249; HAnEl\ncain B aR afofer 714101-9.0 CV 05 b.oofs q4 frati-801 200 do 01 RIN\n25\nGITS GTTYT\n26\neviferet\n2\nroi\nR\nRT T atH 3 nn\nd  o RAEe a 33\nfeca T Au  AA -\nERTCVATT on TeTRiT A\nOAT   sir a RS\nC/C\n&\nRI71 2 A! ST\nFeres\nSYP EVOFIX 50\nCOUGH\n8(: FR1 to+86IM 9151\nCOLD\nSYP ACE OR) \u00e0 6ome 2607\n22 tyarb XC Gay 951\nea AY gaim wrta 41\nOE\nSYP pop MIRAPEX los n\nS61\nBP\nNE Bart tot BArb 8\nPulse.\nR/R.\nDOXOMA lo ml\n5Yr\nJaundice.\n> G fm 2V 0o CREAULY\nAnemia\n2 avs. mam\n33 (ava\nAdv.\nTAB MONAS. 1 MOFT :\n2 0 -\nA -\n2r\nL\nNalfLs\n(54i38 TT STTeTT HICAU, fagia CAIY, HINOT 41614, NC249; HAnEl\ncain B aR afofer 714101-9.0 CV 05 b.oofs q4 frati-801 200 do 01 RIN\n25\nGITS GTTYT\n26\neviferet\n2\nroi\nR\nRT T atH 3 nn\nd  o RAEe a 33\nfeca T Au  AA -\nERTCVATT on TeTRiT A\nOAT   sir a RS\nC/C\n&\nRI71 2 A! ST\nFeres\nSYP EVOFIX 50\nCOUGH\n8(: FR1 to+86IM 9151\nCOLD\nSYP ACE OR) \u00e0 6ome 2607\n22 tyarb XC Gay 951\nea AY gaim wrta 41\nOE\nSYP pop MIRAPEX los n\nS61\nBP\nNE Bart tot BArb 8\nPulse.\nR/R.\nDOXOMA lo ml\n5Yr\nJaundice.\n> G fm 2V 0o CREAULY\nAnemia\n2 avs. mam\n33 (ava\nAdv.\nTAB MONAS. 1 MOFT :\n2 0 -\nA -\n2r\nL\nNalfLs\n(54i38 TT STTeTT HICAU, fagia CAIY, HINOT 41614, NC249; HAnEl\ncain B aR afofer 714101-9.0 CV 05 b.oofs q4 frati-801 200 do 01 RIN\nThere are no obvious OCR mistakes that need correction, so the text remains unchanged."
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T08:48:24.983594Z",
+    "total_text_regions": 48
+  },
+  "ocr_confidence": 0.566074,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.7810425758361816,
+        "text": "-"
+      },
+      {
+        "confidence": 0.9843761920928955,
+        "text": "25"
+      },
+      {
+        "confidence": 0.388913556933403,
+        "text": "GITS GTTYT"
+      },
+      {
+        "confidence": 0.6684432029724121,
+        "text": "26"
+      },
+      {
+        "confidence": 0.4193378984928131,
+        "text": "eviferet"
+      },
+      {
+        "confidence": 0.683401882648468,
+        "text": "2"
+      },
+      {
+        "confidence": 0.38998278975486755,
+        "text": "roi"
+      },
+      {
+        "confidence": 0.21581439673900604,
+        "text": "R"
+      },
+      {
+        "confidence": 0.36975158751010895,
+        "text": "RT T atH 3 nn"
+      },
+      {
+        "confidence": 0.33345748235781986,
+        "text": "d  o RAEe a 33"
+      },
+      {
+        "confidence": 0.39148415873448056,
+        "text": "feca T Au  AA -"
+      },
+      {
+        "confidence": 0.3122751750051975,
+        "text": "ERTCVATT on TeTRiT A"
+      },
+      {
+        "confidence": 0.34203167259693146,
+        "text": "OAT   sir a RS"
+      },
+      {
+        "confidence": 0.7467130422592163,
+        "text": "C/C"
+      },
+      {
+        "confidence": 0.4441155791282654,
+        "text": "&"
+      },
+      {
+        "confidence": 0.4849714934825897,
+        "text": "RI71 2 A! ST"
+      },
+      {
+        "confidence": 0.48232850432395935,
+        "text": "Feres"
+      },
+      {
+        "confidence": 0.6683737114071846,
+        "text": "SYP EVOFIX 50 "
+      },
+      {
+        "confidence": 0.8752669095993042,
+        "text": "COUGH"
+      },
+      {
+        "confidence": 0.4028511494398117,
+        "text": "8(: FR1 to+86IM 9151"
+      },
+      {
+        "confidence": 0.4333394765853882,
+        "text": "COLD"
+      },
+      {
+        "confidence": 0.5662180731693903,
+        "text": "SYP ACE OR) \u00e0 6ome 2607"
+      },
+      {
+        "confidence": 0.31584378480911257,
+        "text": "22 tyarb XC Gay 951"
+      },
+      {
+        "confidence": 0.5464979231357574,
+        "text": "ea AY gaim wrta 41"
+      },
+      {
+        "confidence": 0.998235821723938,
+        "text": "OE"
+      },
+      {
+        "confidence": 0.7788015484809876,
+        "text": "SYP pop MIRAPEX los n"
+      },
+      {
+        "confidence": 0.1652480959892273,
+        "text": "S61"
+      },
+      {
+        "confidence": 0.8994473218917847,
+        "text": "BP"
+      },
+      {
+        "confidence": 0.536231005191803,
+        "text": "NE Bart tot BArb 8"
+      },
+      {
+        "confidence": 0.6510568261146545,
+        "text": "Pulse."
+      },
+      {
+        "confidence": 0.5666912943124771,
+        "text": "t -"
+      },
+      {
+        "confidence": 0.611973762512207,
+        "text": "R/R."
+      },
+      {
+        "confidence": 0.7735694050788879,
+        "text": "DOXOMA lo ml"
+      },
+      {
+        "confidence": 0.4800267815589905,
+        "text": "5Yr"
+      },
+      {
+        "confidence": 0.9777387976646423,
+        "text": "Jaundice."
+      },
+      {
+        "confidence": 0.5476463586091995,
+        "text": "> G fm 2V 0o CREAULY"
+      },
+      {
+        "confidence": 0.9427305459976196,
+        "text": "Anemia"
+      },
+      {
+        "confidence": 0.6402343511581421,
+        "text": "2 avs. mam"
+      },
+      {
+        "confidence": 0.521882489323616,
+        "text": "33 (ava"
+      },
+      {
+        "confidence": 0.6190543174743652,
+        "text": "Adv."
+      },
+      {
+        "confidence": 0.865717101097107,
+        "text": "TAB MONAS. 1 MOFT :"
+      },
+      {
+        "confidence": 0.7427508433659872,
+        "text": "2 0 -"
+      },
+      {
+        "confidence": 0.5276998728513718,
+        "text": "A -"
+      },
+      {
+        "confidence": 0.3806602358818054,
+        "text": "2r"
+      },
+      {
+        "confidence": 0.7953314185142517,
+        "text": "L"
+      },
+      {
+        "confidence": 0.22915767133235931,
+        "text": "NalfLs"
+      },
+      {
+        "confidence": 0.28122992515563966,
+        "text": "(54i38 TT STTeTT HICAU, fagia CAIY, HINOT 41614, NC249; HAnEl"
+      },
+      {
+        "confidence": 0.3915916589590219,
+        "text": "cain B aR afofer 714101-9.0078 E05 b.oofs q4 frati-801 200 do 01 RIN"
+      }
+    ]
+  },
+  "ocr_text": "-\n25\nGITS GTTYT\n26\neviferet\n2\nroi\nR\nRT T atH 3 nn\nd  o RAEe a 33\nfeca T Au  AA -\nERTCVATT on TeTRiT A\nOAT   sir a RS\nC/C\n&\nRI71 2 A! ST\nFeres\nSYP EVOFIX 50 \nCOUGH\n8(: FR1 to+86IM 9151\nCOLD\nSYP ACE OR) \u00e0 6ome 2607\n22 tyarb XC Gay 951\nea AY gaim wrta 41\nOE\nSYP pop MIRAPEX los n\nS61\nBP\nNE Bart tot BArb 8\nPulse.\nt -\nR/R.\nDOXOMA lo ml\n5Yr\nJaundice.\n> G fm 2V 0o CREAULY\nAnemia\n2 avs. mam\n33 (ava\nAdv.\nTAB MONAS. 1 MOFT :\n2 0 -\nA -\n2r\nL\nNalfLs\n(54i38 TT STTeTT HICAU, fagia CAIY, HINOT 41614, NC249; HAnEl\ncain B aR afofer 714101-9.0078 E05 b.oofs q4 frati-801 200 do 01 RIN",
+  "ocr_text_length": 570,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.25,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "prescriber.name"
+    ],
+    "quality_score": 0.566074,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

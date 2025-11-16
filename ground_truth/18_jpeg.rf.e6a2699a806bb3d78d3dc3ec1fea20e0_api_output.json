@@ -1,0 +1,334 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_c79ed3b68c6f47579da6956a8fd6f8bf",
+    "success": true
+  },
+  "document_id": "doc_42263bd31e444406adebcb1cec8b45ab",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": "45",
+      "allergies": [],
+      "dob": null,
+      "gender": "Male",
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": "Frl CRPIREL",
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "Tepee Phvies\nW Cit Frl CRPIREL\nDoctor. MD Billal Hossain\nD. Male - age 45 (rg)\nMaus OMI GMU AN/DURI\nMajoon-Bungentt RUSGA\n14\n#h1 Ahmummay how\nCommittant in order\nAhnis Knen Wiw Nog anit\nLau Thgmy. Vetn OsrE Slooin, Pariyan\nNMA-Wembershpt NO-PI35 Dhaie\nNiger N BTFRC-49368\nOum\nYE\nKo\nFurzET\nRO Esonzur 27\nCluder\nd - nb, ende\n24m\n240to\n@mb Ki dient Po-toto\naaf Derte -\nSomil\n2-t0t>\nDh\n7b Xia OIV\n/ In\nB\n syp\nSavisel\nRIMb KONY\net tW a\n10PS\nOEB 1721 Henes\nHE n  55 Ra\neb\n### Response\nTepee Phvies\nW Cit Frl CRPIREL\nDoctor. MD Billal Hossain\nD. Male - age 45 (rg)\nMaus OMI GMU AN/DURI\nMajoon-Bungentt RUSGA\n14\n#h1 Ahmummay how\nCommittant in order\nAhnis Knen Wiw Nog anit\nLau Thgmy. Vetn OsrE Slooin, Pariyan\nNMA-Wembershpt NO-PI35 Dhaie\nNiger N BTFRC-493e38\nOum\nYE\nKo\nFurzET\nRO Esonzur 27\nCluder\nd - nb, ende\n24m\n240to\n@mb Ki dient Po-toto\naaf Derte -\nSomil\n2-t0t>\nDh\n7b Xia OIV\n/ In\nB\n syp\nSavisel\nRIMb KONY\net tW a\n10PS\nOEB 1721 Henes\nHE n  55 Ra\neb"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": "45",
+          "allergies": [],
+          "dob": null,
+          "gender": "Male",
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": "Frl CRPIREL",
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "Tepee Phvies\nW Cit Frl CRPIREL\nDoctor. MD Billal Hossain\nD. Male - age 45 (rg)\nMaus OMI GMU AN/DURI\nMajoon-Bungentt RUSGA\n14\n#h1 Ahmummay how\nCommittant in order\nAhnis Knen Wiw Nog anit\nLau Thgmy. Vetn OsrE Slooin, Pariyan\nNMA-Wembershpt NO-PI35 Dhaie\nNiger N BTFRC-49368\nOum\nYE\nKo\nFurzET\nRO Esonzur 27\nCluder\nd - nb, ende\n24m\n240to\n@mb Ki dient Po-toto\naaf Derte -\nSomil\n2-t0t>\nDh\n7b Xia OIV\n/ In\nB\n syp\nSavisel\nRIMb KONY\net tW a\n10PS\nOEB 1721 Henes\nHE n  55 Ra\neb\n### Response\nTepee Phvies\nW Cit Frl CRPIREL\nDoctor. MD Billal Hossain\nD. Male - age 45 (rg)\nMaus OMI GMU AN/DURI\nMajoon-Bungentt RUSGA\n14\n#h1 Ahmummay how\nCommittant in order\nAhnis Knen Wiw Nog anit\nLau Thgmy. Vetn OsrE Slooin, Pariyan\nNMA-Wembershpt NO-PI35 Dhaie\nNiger N BTFRC-493e38\nOum\nYE\nKo\nFurzET\nRO Esonzur 27\nCluder\nd - nb, ende\n24m\n240to\n@mb Ki dient Po-toto\naaf Derte -\nSomil\n2-t0t>\nDh\n7b Xia OIV\n/ In\nB\n syp\nSavisel\nRIMb KONY\net tW a\n10PS\nOEB 1721 Henes\nHE n  55 Ra\neb"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T08:31:20.925420Z",
+    "total_text_regions": 46
+  },
+  "ocr_confidence": 0.483384,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.7407084852457047,
+        "text": "a -"
+      },
+      {
+        "confidence": 0.38636425137519836,
+        "text": "tepeet Phveies"
+      },
+      {
+        "confidence": 0.2172790989279747,
+        "text": "W Cit Frl CRPIREL"
+      },
+      {
+        "confidence": 0.8476995676755905,
+        "text": "Doctor. MD BILLAL HOSSAIN"
+      },
+      {
+        "confidence": 0.4074077989373888,
+        "text": "d . ManL - ma AmTh (rg"
+      },
+      {
+        "confidence": 0.6702324450016022,
+        "text": "Maus OMI GMU AN/DURI"
+      },
+      {
+        "confidence": 0.9427613019943237,
+        "text": "-"
+      },
+      {
+        "confidence": 0.4259567856788635,
+        "text": "Majoin-Bungentt RUSGA"
+      },
+      {
+        "confidence": 0.23124514520168304,
+        "text": "14"
+      },
+      {
+        "confidence": 0.3124321500460307,
+        "text": "#h1 Ahmummay h"
+      },
+      {
+        "confidence": 0.4552394151687622,
+        "text": "Committant i onaiony"
+      },
+      {
+        "confidence": 0.3444362014532089,
+        "text": "Ahnis Knen Wiw Nog anit"
+      },
+      {
+        "confidence": 0.23296214640140533,
+        "text": ""
+      },
+      {
+        "confidence": 0.43354957302411395,
+        "text": "Lau Thgmy. Vetn OsrE Slooin, Pariyan"
+      },
+      {
+        "confidence": 0.43259578943252563,
+        "text": "NMA-Wembershpt NO-PI35 Dhaie"
+      },
+      {
+        "confidence": 0.45457257827123004,
+        "text": "Nig N BTFRC-49368"
+      },
+      {
+        "confidence": 0.7117496132850647,
+        "text": "Oum"
+      },
+      {
+        "confidence": 0.3851984739303589,
+        "text": "YE"
+      },
+      {
+        "confidence": 0.496598482131958,
+        "text": "Ko"
+      },
+      {
+        "confidence": 0.38504093885421753,
+        "text": "FurzET"
+      },
+      {
+        "confidence": 0.33500051001707715,
+        "text": "RO Esonzur 27"
+      },
+      {
+        "confidence": 0.45290595293045044,
+        "text": "-"
+      },
+      {
+        "confidence": 0.6585639119148254,
+        "text": "Cluder"
+      },
+      {
+        "confidence": 0.5697878524661064,
+        "text": "d - nb, ende"
+      },
+      {
+        "confidence": 0.9155638217926025,
+        "text": "24m"
+      },
+      {
+        "confidence": 0.27659714221954346,
+        "text": "240to"
+      },
+      {
+        "confidence": 0.6333785057067871,
+        "text": "@mb Kiw dient P"
+      },
+      {
+        "confidence": 0.3568267226219177,
+        "text": "o-toto"
+      },
+      {
+        "confidence": 0.45136989156405133,
+        "text": "aaf Derte -"
+      },
+      {
+        "confidence": 0.6294307708740234,
+        "text": "Somil"
+      },
+      {
+        "confidence": 0.31164827942848206,
+        "text": "2-t0t>"
+      },
+      {
+        "confidence": 0.8430172204971313,
+        "text": "Dh"
+      },
+      {
+        "confidence": 0.4485364655653636,
+        "text": "7b Xia OIV"
+      },
+      {
+        "confidence": 0.7207995802164078,
+        "text": "/ In"
+      },
+      {
+        "confidence": 0.4030624330043793,
+        "text": "B"
+      },
+      {
+        "confidence": 0.6548378765583038,
+        "text": " syp"
+      },
+      {
+        "confidence": 0.29104483127593994,
+        "text": "Savisel"
+      },
+      {
+        "confidence": 0.44891151785850525,
+        "text": "RIMb KONY"
+      },
+      {
+        "confidence": 0.637010395526886,
+        "text": "-"
+      },
+      {
+        "confidence": 0.5943089053034782,
+        "text": "- JeT"
+      },
+      {
+        "confidence": 0.35163163642088574,
+        "text": "et tW a"
+      },
+      {
+        "confidence": 0.20538611710071564,
+        "text": "10PS"
+      },
+      {
+        "confidence": 0.2695935070514679,
+        "text": "OEB 1721 Hences"
+      },
+      {
+        "confidence": 0.40266913672288257,
+        "text": "- a - \u00e0 4 n6"
+      },
+      {
+        "confidence": 0.4031450808048248,
+        "text": "HE n  55 Ra"
+      },
+      {
+        "confidence": 0.45661208033561707,
+        "text": "eb"
+      }
+    ]
+  },
+  "ocr_text": "a -\ntepeet Phveies\nW Cit Frl CRPIREL\nDoctor. MD BILLAL HOSSAIN\nd . ManL - ma AmTh (rg\nMaus OMI GMU AN/DURI\n-\nMajoin-Bungentt RUSGA\n14\n#h1 Ahmummay h\nCommittant i onaiony\nAhnis Knen Wiw Nog anit\n\nLau Thgmy. Vetn OsrE Slooin, Pariyan\nNMA-Wembershpt NO-PI35 Dhaie\nNig N BTFRC-49368\nOum\nYE\nKo\nFurzET\nRO Esonzur 27\n-\nCluder\nd - nb, ende\n24m\n240to\n@mb Kiw dient P\no-toto\naaf Derte -\nSomil\n2-t0t>\nDh\n7b Xia OIV\n/ In\nB\n syp\nSavisel\nRIMb KONY\n-\n- JeT\net tW a\n10PS\nOEB 1721 Hences\n- a - \u00e0 4 n6\nHE n  55 Ra\neb",
+  "ocr_text_length": 498,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.25,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "medications"
+    ],
+    "quality_score": 0.483384,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

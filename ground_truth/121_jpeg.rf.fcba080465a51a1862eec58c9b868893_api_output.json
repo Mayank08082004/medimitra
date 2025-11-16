@@ -1,0 +1,290 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_456ed3f6ceb241c791f79988df1e8101",
+    "success": true
+  },
+  "document_id": "doc_47f8ad6907504f879c136ac472498186",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": "Zamoni Mostota",
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "Doctor Zamoni Mostota\n1 A\nwhose\na - AV \u00e0 jute\nDnl Limpy\npsvr\n/e\nPH\n6ma\nGlipajab\nde beupe Tiebe\nPHI\nCL\na Tab nce plos\nFobeies\na1r\n2122\n4NAO - a\nOuub- Aziwac\nCA\n8001\nototo\nclowe\nCAY\n2 m0\n0o5\nb1t.\nS\nTH\n379 fenrd\nONTEI nmone n per a cmee 97\nRE pips MEE a\nEP CRIE\n1 A\nwhose\na - AV \u00e0 jute\nDnl Limpy\npsvr\n/e\nPH\n6ma\nGlipajab\nde beupe Tiebe\nPHI\nCL\na Tab nce plos\nFobeies\na1r\n2122\n4NAO - a\nOuub- Aziwac\nCA\n8001\nototo\nclowe\nCAY\n2 m0\n0o5\nb1t.\nS\nTH\n379 fenrd\nONTEI nmone n per a cmee 97\nRE pips MEE a\nEP CRIE"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": "Zamoni Mostota",
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "Doctor Zamoni Mostota\n1 A\nwhose\na - AV \u00e0 jute\nDnl Limpy\npsvr\n/e\nPH\n6ma\nGlipajab\nde beupe Tiebe\nPHI\nCL\na Tab nce plos\nFobeies\na1r\n2122\n4NAO - a\nOuub- Aziwac\nCA\n8001\nototo\nclowe\nCAY\n2 m0\n0o5\nb1t.\nS\nTH\n379 fenrd\nONTEI nmone n per a cmee 97\nRE pips MEE a\nEP CRIE\n1 A\nwhose\na - AV \u00e0 jute\nDnl Limpy\npsvr\n/e\nPH\n6ma\nGlipajab\nde beupe Tiebe\nPHI\nCL\na Tab nce plos\nFobeies\na1r\n2122\n4NAO - a\nOuub- Aziwac\nCA\n8001\nototo\nclowe\nCAY\n2 m0\n0o5\nb1t.\nS\nTH\n379 fenrd\nONTEI nmone n per a cmee 97\nRE pips MEE a\nEP CRIE"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T08:29:42.404870Z",
+    "total_text_regions": 35
+  },
+  "ocr_confidence": 0.392361,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.4598391056060791,
+        "text": "Doctor Mostota Zamoni"
+      },
+      {
+        "confidence": 0.4869101122021675,
+        "text": ". a 1 A"
+      },
+      {
+        "confidence": 0.3969835638999939,
+        "text": "whos"
+      },
+      {
+        "confidence": 0.44140306711196897,
+        "text": "a - AV \u00e0 jute"
+      },
+      {
+        "confidence": 0.39849775036176044,
+        "text": "- BEt a"
+      },
+      {
+        "confidence": 0.36651183664798737,
+        "text": "Dnl Limpy"
+      },
+      {
+        "confidence": 0.34776851534843445,
+        "text": "psvr"
+      },
+      {
+        "confidence": 0.32131800055503845,
+        "text": "/e"
+      },
+      {
+        "confidence": 0.322897732257843,
+        "text": "PH"
+      },
+      {
+        "confidence": 0.2630135416984558,
+        "text": "6ma"
+      },
+      {
+        "confidence": 0.3084227740764618,
+        "text": "Glipajab"
+      },
+      {
+        "confidence": 0.29560526212056476,
+        "text": "de beupe Tiebe"
+      },
+      {
+        "confidence": 0.46007995307445526,
+        "text": "- YOX"
+      },
+      {
+        "confidence": 0.3454163372516632,
+        "text": "PHI"
+      },
+      {
+        "confidence": 0.24667388200759888,
+        "text": "CL"
+      },
+      {
+        "confidence": 0.8658339381217957,
+        "text": "a Tab nce plos"
+      },
+      {
+        "confidence": 0.35137274861335754,
+        "text": "Fobeies"
+      },
+      {
+        "confidence": 0.2979219853878021,
+        "text": "a1r"
+      },
+      {
+        "confidence": 0.20431630313396454,
+        "text": "2122"
+      },
+      {
+        "confidence": 0.552338441212972,
+        "text": "4NAO - a"
+      },
+      {
+        "confidence": 0.501623198390007,
+        "text": "Ouub- Aziwac"
+      },
+      {
+        "confidence": 0.8821269869804382,
+        "text": "CA"
+      },
+      {
+        "confidence": 0.30459317564964294,
+        "text": "8001"
+      },
+      {
+        "confidence": 0.5797044634819031,
+        "text": "ototo"
+      },
+      {
+        "confidence": 0.28110283613204956,
+        "text": "clowe"
+      },
+      {
+        "confidence": 0.5413374304771423,
+        "text": "CAY"
+      },
+      {
+        "confidence": 0.47031107544898987,
+        "text": "2 m0"
+      },
+      {
+        "confidence": 0.2912416160106659,
+        "text": "0o5"
+      },
+      {
+        "confidence": 0.2920815348625183,
+        "text": "b1t."
+      },
+      {
+        "confidence": 0.5474188923835754,
+        "text": "S"
+      },
+      {
+        "confidence": 0.11187409609556198,
+        "text": "TH"
+      },
+      {
+        "confidence": 0.32429133355617523,
+        "text": "379 fenrd"
+      },
+      {
+        "confidence": 0.3189915099314281,
+        "text": "ONTEI nmone n per a cmee 97"
+      },
+      {
+        "confidence": 0.2925213612616062,
+        "text": "RE pips MEE a"
+      },
+      {
+        "confidence": 0.2602761685848236,
+        "text": "EP CRIE"
+      }
+    ]
+  },
+  "ocr_text": "Doctor Mostota Zamoni\n. a 1 A\nwhos\na - AV \u00e0 jute\n- BEt a\nDnl Limpy\npsvr\n/e\nPH\n6ma\nGlipajab\nde beupe Tiebe\n- YOX\nPHI\nCL\na Tab nce plos\nFobeies\na1r\n2122\n4NAO - a\nOuub- Aziwac\nCA\n8001\nototo\nclowe\nCAY\n2 m0\n0o5\nb1t.\nS\nTH\n379 fenrd\nONTEI nmone n per a cmee 97\nRE pips MEE a\nEP CRIE",
+  "ocr_text_length": 275,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.25,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "medications"
+    ],
+    "quality_score": 0.392361,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

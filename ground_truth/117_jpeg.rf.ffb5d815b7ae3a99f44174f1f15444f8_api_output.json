@@ -1,0 +1,362 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_e7f913d52f7b45eba4dcb3f18011a354",
+    "success": true
+  },
+  "document_id": "doc_3a9af1965719430294b1bb7a5e546d43",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": "MD BILLAL HOSSAIN",
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "W. cir FeRITPeT CAPHICT\nDoctor MD BILLAL HOSSAIN\nA dulss Aitom the\nAs\nE Hant\nay Tikuvg MS\nmates\nNMAMantente \u00e0 - Ghaa\nlg N umic 3018\n019\na \u00e0 55 Delecy\ncyw\nOTah, Nopeow loom\ncatofs\nGumo Kermal\nDoom\n2tu to\n2\npmb Sme-\nTP\nQCAP per a ne\nEn\nom Koclon A\nXX4\no-tofs\nQSP Ceyon\nEmEu\nMO\nZib pop\nYA\nL\n2825\nmRE\nJURESTTE \nate\nEPFMOT 0E - . UE\n20an\nTepRs l L tir 9ud\nantter 444b E\nSOMTIAA Roitit\nro 0093 \u00e0 we\ndilim 5m 10\na A1F E 1\n### Response\nW. cir FeRITPeT CAPHICT\nDoctor MD BILLAL HOSSAIN\nA dulss Aitom the\nAs\nE Hant\nay Tikuvg MS\nmates\nNMAMantente \u00e0 - Ghaa\nlg N umic 3e18\n019\na \u00e0 55 Delecy\ncyw\nOTah, Nopeow loom\ncatofs\nGumo Kermal\nDoom\n2tu to\n2\npmb Sme-\nTP\nQCAP per a ne\nEn\nom Koclon A\nXX4\no-tofs\nQSP Ceyon\nEmEu\nMO\nZib pop\nYA\nL\n2825\nmRE\nJURESTTE \nate\nEPFMOT 0E - . UE\n20an\nTepRs l L tir 9ud\nantter 444b E\nSOMTIAA Roitit\nro 0093 \u00e0 we\ndilim 5m 10\na A1F E 1"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": "MD BILLAL HOSSAIN",
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "W. cir FeRITPeT CAPHICT\nDoctor MD BILLAL HOSSAIN\nA dulss Aitom the\nAs\nE Hant\nay Tikuvg MS\nmates\nNMAMantente \u00e0 - Ghaa\nlg N umic 3018\n019\na \u00e0 55 Delecy\ncyw\nOTah, Nopeow loom\ncatofs\nGumo Kermal\nDoom\n2tu to\n2\npmb Sme-\nTP\nQCAP per a ne\nEn\nom Koclon A\nXX4\no-tofs\nQSP Ceyon\nEmEu\nMO\nZib pop\nYA\nL\n2825\nmRE\nJURESTTE \nate\nEPFMOT 0E - . UE\n20an\nTepRs l L tir 9ud\nantter 444b E\nSOMTIAA Roitit\nro 0093 \u00e0 we\ndilim 5m 10\na A1F E 1\n### Response\nW. cir FeRITPeT CAPHICT\nDoctor MD BILLAL HOSSAIN\nA dulss Aitom the\nAs\nE Hant\nay Tikuvg MS\nmates\nNMAMantente \u00e0 - Ghaa\nlg N umic 3e18\n019\na \u00e0 55 Delecy\ncyw\nOTah, Nopeow loom\ncatofs\nGumo Kermal\nDoom\n2tu to\n2\npmb Sme-\nTP\nQCAP per a ne\nEn\nom Koclon A\nXX4\no-tofs\nQSP Ceyon\nEmEu\nMO\nZib pop\nYA\nL\n2825\nmRE\nJURESTTE \nate\nEPFMOT 0E - . UE\n20an\nTepRs l L tir 9ud\nantter 444b E\nSOMTIAA Roitit\nro 0093 \u00e0 we\ndilim 5m 10\na A1F E 1"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T09:17:59.611833Z",
+    "total_text_regions": 53
+  },
+  "ocr_confidence": 0.463179,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.46259045600891113,
+        "text": "."
+      },
+      {
+        "confidence": 0.2145776003599167,
+        "text": "W. cir FeRITPeT CAPHICT"
+      },
+      {
+        "confidence": 0.5706908504168192,
+        "text": "-  a"
+      },
+      {
+        "confidence": 0.4002797842025757,
+        "text": "AREN a I 1 fagn"
+      },
+      {
+        "confidence": 0.8693961724638939,
+        "text": "Doctor MD BILLAL HOSSAIN"
+      },
+      {
+        "confidence": 0.488338698943456,
+        "text": "- mnh ."
+      },
+      {
+        "confidence": 0.2508592903614044,
+        "text": "A"
+      },
+      {
+        "confidence": 0.43893349170684814,
+        "text": "dulss Aitom the"
+      },
+      {
+        "confidence": 0.2031119465827942,
+        "text": "As"
+      },
+      {
+        "confidence": 0.49781353771686554,
+        "text": "E Hant"
+      },
+      {
+        "confidence": 0.41164998213450116,
+        "text": "ay Tikuvg MS"
+      },
+      {
+        "confidence": 0.5738418102264404,
+        "text": "mates"
+      },
+      {
+        "confidence": 0.484122671186924,
+        "text": "NMAMantente \u00e0 - Ghaa"
+      },
+      {
+        "confidence": 0.39653030037879944,
+        "text": "lg N umic 3018"
+      },
+      {
+        "confidence": 0.5465824604034424,
+        "text": "-"
+      },
+      {
+        "confidence": 0.5265198349952698,
+        "text": "019"
+      },
+      {
+        "confidence": 0.5548513531684875,
+        "text": "a \u00e0 55 Dele"
+      },
+      {
+        "confidence": 0.7314803004264832,
+        "text": "cyw"
+      },
+      {
+        "confidence": 0.6156739989916483,
+        "text": "OTah, Nopeow loom"
+      },
+      {
+        "confidence": 0.25490841269493103,
+        "text": "catofs"
+      },
+      {
+        "confidence": 0.3878834694623947,
+        "text": "Gumo Kermal"
+      },
+      {
+        "confidence": 0.8403310179710388,
+        "text": "Doom"
+      },
+      {
+        "confidence": 0.7206827849149704,
+        "text": "2tu to"
+      },
+      {
+        "confidence": 0.4359009563922882,
+        "text": "2"
+      },
+      {
+        "confidence": 0.6837359666824341,
+        "text": "pmb Sme-"
+      },
+      {
+        "confidence": 0.7608126997947693,
+        "text": "TP"
+      },
+      {
+        "confidence": 0.5177566334605217,
+        "text": "QCAP per a ne"
+      },
+      {
+        "confidence": 0.33713284134864807,
+        "text": "En"
+      },
+      {
+        "confidence": 0.8765252828598022,
+        "text": "-17"
+      },
+      {
+        "confidence": 0.4238048692544301,
+        "text": "om Koclon A"
+      },
+      {
+        "confidence": 0.36865487694740295,
+        "text": "XX4"
+      },
+      {
+        "confidence": 0.544162929058075,
+        "text": "o-tofs"
+      },
+      {
+        "confidence": 0.3416145294904709,
+        "text": "QSP Ceyon"
+      },
+      {
+        "confidence": 0.28795531392097473,
+        "text": "EmEu"
+      },
+      {
+        "confidence": 0.2631426453590393,
+        "text": "MO"
+      },
+      {
+        "confidence": 0.23132115602493286,
+        "text": "Zib pop"
+      },
+      {
+        "confidence": 0.627323567867279,
+        "text": "YA"
+      },
+      {
+        "confidence": 0.24920102953910828,
+        "text": ""
+      },
+      {
+        "confidence": 0.6149498224258423,
+        "text": "-"
+      },
+      {
+        "confidence": 0.9150694310665131,
+        "text": "- - - 2"
+      },
+      {
+        "confidence": 0.5814687013626099,
+        "text": "L"
+      },
+      {
+        "confidence": 0.2142506241798401,
+        "text": "2825"
+      },
+      {
+        "confidence": 0.3059849143028259,
+        "text": "mRE"
+      },
+      {
+        "confidence": 0.3855232447385788,
+        "text": "JURESTTE "
+      },
+      {
+        "confidence": 0.6879056096076965,
+        "text": "ate"
+      },
+      {
+        "confidence": 0.49864883422851564,
+        "text": "EPFMOT 0E - . UE"
+      },
+      {
+        "confidence": 0.1335979551076889,
+        "text": "20an"
+      },
+      {
+        "confidence": 0.22623258233070373,
+        "text": "TepRs l L tir 9ud"
+      },
+      {
+        "confidence": 0.2132559617360433,
+        "text": "antter 444b E"
+      },
+      {
+        "confidence": 0.23824096471071243,
+        "text": "SOMTIAA Roitit"
+      },
+      {
+        "confidence": 0.3534395135939121,
+        "text": "ro 0093 \u00e0 we"
+      },
+      {
+        "confidence": 0.40351853768030804,
+        "text": "dilim 5m 10"
+      },
+      {
+        "confidence": 0.3856932297348976,
+        "text": "a A1F E 1"
+      }
+    ]
+  },
+  "ocr_text": ".\nW. cir FeRITPeT CAPHICT\n-  a\nAREN a I 1 fagn\nDoctor MD BILLAL HOSSAIN\n- mnh .\nA\ndulss Aitom the\nAs\nE Hant\nay Tikuvg MS\nmates\nNMAMantente \u00e0 - Ghaa\nlg N umic 3018\n-\n019\na \u00e0 55 Dele\ncyw\nOTah, Nopeow loom\ncatofs\nGumo Kermal\nDoom\n2tu to\n2\npmb Sme-\nTP\nQCAP per a ne\nEn\n-17\nom Koclon A\nXX4\no-tofs\nQSP Ceyon\nEmEu\nMO\nZib pop\nYA\n\n-\n- - - 2\nL\n2825\nmRE\nJURESTTE \nate\nEPFMOT 0E - . UE\n20an\nTepRs l L tir 9ud\nantter 444b E\nSOMTIAA Roitit\nro 0093 \u00e0 we\ndilim 5m 10\na A1F E 1",
+  "ocr_text_length": 460,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.25,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "medications"
+    ],
+    "quality_score": 0.463179,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

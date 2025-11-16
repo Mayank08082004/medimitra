@@ -1,0 +1,390 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_02dc620b4bda4224b7029da584300213",
+    "success": true
+  },
+  "document_id": "doc_a3ae834276934a76aadacf4a18d3c6c7",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": "seP",
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": "17",
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": "Mostota Zaman",
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "Doctor Mostota Zaman\nAge: 17\nFlucomot TAN\nLonb\nPT 710 years Wr\nTP A a\nTRs\n2g0n1\nFeropeN\nMotot? rand\nW Tue DeFe en\nGBD\nU\n7401\nX\nPankas\nKe -\nVA\nototo 0\nThergtet 30hr\nLoseP\n28166200\n720A\nD.5ec\nLeseue\n30hr\nTtot\n9\nRPY\nOwe\nAceti\ntica\nVinyes\ndes\nOtbor\norot7 GNAO A\nDRP\nConpan\nWTU\n0-5 5\no1ot7\nMIINENTM 4 POTR L ucV 10H feritil\noEn\nTT ne o do LMR\nwis\nate putes\na7\n74412\n### Response\nDoctor Mostota Zaman\nAge: 17\nFlucomot TAN\nLonb\nPT 710 years Wr\nTP A a\nTRs\n2g0n1\nFeropeN\nMotot? rand\nW Tue DeFe en\nGBD\nU\n7401\nX\nPankas\nKe -\nVA\nototo 0\nThergtet 30hr\nLoseP\n28166200\n720A\nD.5ec\nLeseue\n30hr\nTtot\n9\nRPY\nOwe\nAceti\ntica\nVinyes\ndes\nOtbor\norot7 GNAO A\nDRP\nConpan\nWTU\n0-5 5\no1ot7\nMIINENTM 4 POTR L ucV 10H feritil\noEn\nTT ne o do LMR\nwis\nate putes\na7\n74412\n(Note: The cleaned text retains the original OCR errors as per the rules provided. No new information, medications, diagnoses, procedures, or interpretations were added.)"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": "seP",
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": "17",
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": "Mostota Zaman",
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "Doctor Mostota Zaman\nAge: 17\nFlucomot TAN\nLonb\nPT 710 years Wr\nTP A a\nTRs\n2g0n1\nFeropeN\nMotot? rand\nW Tue DeFe en\nGBD\nU\n7401\nX\nPankas\nKe -\nVA\nototo 0\nThergtet 30hr\nLoseP\n28166200\n720A\nD.5ec\nLeseue\n30hr\nTtot\n9\nRPY\nOwe\nAceti\ntica\nVinyes\ndes\nOtbor\norot7 GNAO A\nDRP\nConpan\nWTU\n0-5 5\no1ot7\nMIINENTM 4 POTR L ucV 10H feritil\noEn\nTT ne o do LMR\nwis\nate putes\na7\n74412\n### Response\nDoctor Mostota Zaman\nAge: 17\nFlucomot TAN\nLonb\nPT 710 years Wr\nTP A a\nTRs\n2g0n1\nFeropeN\nMotot? rand\nW Tue DeFe en\nGBD\nU\n7401\nX\nPankas\nKe -\nVA\nototo 0\nThergtet 30hr\nLoseP\n28166200\n720A\nD.5ec\nLeseue\n30hr\nTtot\n9\nRPY\nOwe\nAceti\ntica\nVinyes\ndes\nOtbor\norot7 GNAO A\nDRP\nConpan\nWTU\n0-5 5\no1ot7\nMIINENTM 4 POTR L ucV 10H feritil\noEn\nTT ne o do LMR\nwis\nate putes\na7\n74412\n(Note: The cleaned text retains the original OCR errors as per the rules provided. No new information, medications, diagnoses, procedures, or interpretations were added.)"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T08:55:12.989761Z",
+    "total_text_regions": 60
+  },
+  "ocr_confidence": 0.446627,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.673184851805369,
+        "text": "- ame lyuc"
+      },
+      {
+        "confidence": 0.816753109296163,
+        "text": "Doctor Mostota Zaman"
+      },
+      {
+        "confidence": 0.6621642311414083,
+        "text": " - A"
+      },
+      {
+        "confidence": 0.6477781782547632,
+        "text": "vooR CM Phe - A des"
+      },
+      {
+        "confidence": 0.5563602447509766,
+        "text": "-"
+      },
+      {
+        "confidence": 0.9962174296379089,
+        "text": "-"
+      },
+      {
+        "confidence": 0.9121030569076538,
+        "text": "-"
+      },
+      {
+        "confidence": 0.4699430763721466,
+        "text": "- -"
+      },
+      {
+        "confidence": 0.7690201997756958,
+        "text": "- -"
+      },
+      {
+        "confidence": 0.6626637578010559,
+        "text": ")"
+      },
+      {
+        "confidence": 0.6359345763921738,
+        "text": "N Gy 17 Date"
+      },
+      {
+        "confidence": 0.3524273782968521,
+        "text": "Flasomot TAN"
+      },
+      {
+        "confidence": 0.6615773439407349,
+        "text": "LOnb"
+      },
+      {
+        "confidence": 0.34509873886903125,
+        "text": "pt710 yorr Wr"
+      },
+      {
+        "confidence": 0.5143399039904276,
+        "text": "TP A a"
+      },
+      {
+        "confidence": 0.3783451318740845,
+        "text": "TRs"
+      },
+      {
+        "confidence": 0.47910749912261963,
+        "text": "2g0n1"
+      },
+      {
+        "confidence": 0.4219558835029602,
+        "text": "FeropeN"
+      },
+      {
+        "confidence": 0.34989604353904724,
+        "text": "M"
+      },
+      {
+        "confidence": 0.31929947435855865,
+        "text": "otot? rand"
+      },
+      {
+        "confidence": 0.35668856278061867,
+        "text": "W Tue DeFe en"
+      },
+      {
+        "confidence": 0.1640598326921463,
+        "text": "Gbd"
+      },
+      {
+        "confidence": 0.8253609538078308,
+        "text": "U"
+      },
+      {
+        "confidence": 0.17632940411567688,
+        "text": "7401"
+      },
+      {
+        "confidence": 0.5865763425827026,
+        "text": "X"
+      },
+      {
+        "confidence": 0.18110910058021545,
+        "text": "pankas"
+      },
+      {
+        "confidence": 0.6983315944671631,
+        "text": "Ke -"
+      },
+      {
+        "confidence": 0.2623111307621002,
+        "text": "VA"
+      },
+      {
+        "confidence": 0.49189846217632294,
+        "text": "ototo 0"
+      },
+      {
+        "confidence": 0.5171443969011307,
+        "text": "Thergtet 30hr"
+      },
+      {
+        "confidence": 0.24323350191116333,
+        "text": "LoSyP"
+      },
+      {
+        "confidence": 0.32411110401153564,
+        "text": "28166200"
+      },
+      {
+        "confidence": 0.29275840520858765,
+        "text": "720A"
+      },
+      {
+        "confidence": 0.5173460841178894,
+        "text": "D.5ec"
+      },
+      {
+        "confidence": 0.4266884922981262,
+        "text": "Leseue"
+      },
+      {
+        "confidence": 0.26742494106292725,
+        "text": "30rh"
+      },
+      {
+        "confidence": 0.22982072830200195,
+        "text": "Ttot"
+      },
+      {
+        "confidence": 0.533101499080658,
+        "text": "9"
+      },
+      {
+        "confidence": 0.38042277097702026,
+        "text": "RPY"
+      },
+      {
+        "confidence": 0.3197352886199951,
+        "text": "owe"
+      },
+      {
+        "confidence": 0.5142842531204224,
+        "text": "Aceti"
+      },
+      {
+        "confidence": 0.3183920681476593,
+        "text": "tica"
+      },
+      {
+        "confidence": 0.23880048096179962,
+        "text": "VINY"
+      },
+      {
+        "confidence": 0.453407883644104,
+        "text": "des"
+      },
+      {
+        "confidence": 0.282690167427063,
+        "text": "Otb"
+      },
+      {
+        "confidence": 0.3023888369401296,
+        "text": "orot7 GNAO A"
+      },
+      {
+        "confidence": 0.396701842546463,
+        "text": "DRP"
+      },
+      {
+        "confidence": 0.3831019997596741,
+        "text": "Conpan"
+      },
+      {
+        "confidence": 0.3320856988430023,
+        "text": "WTU"
+      },
+      {
+        "confidence": 0.5624257326126099,
+        "text": "0-5 5"
+      },
+      {
+        "confidence": 0.5305601358413696,
+        "text": "o1ot7"
+      },
+      {
+        "confidence": 0.3453052874122347,
+        "text": "MIINENTM 4 POTR L ucV 10H feritil"
+      },
+      {
+        "confidence": 0.24525873363018036,
+        "text": "oEn"
+      },
+      {
+        "confidence": 0.35324866771698,
+        "text": "TT ne o do LMR"
+      },
+      {
+        "confidence": 0.34185346961021423,
+        "text": "- Yau"
+      },
+      {
+        "confidence": 0.5462189316749573,
+        "text": "wis"
+      },
+      {
+        "confidence": 0.39305970072746277,
+        "text": "ate putes"
+      },
+      {
+        "confidence": 0.19475454092025757,
+        "text": "a7"
+      },
+      {
+        "confidence": 0.2802985906600952,
+        "text": "-"
+      },
+      {
+        "confidence": 0.3641437292098999,
+        "text": "74412"
+      }
+    ]
+  },
+  "ocr_text": "- ame lyuc\nDoctor Mostota Zaman\n - A\nvooR CM Phe - A des\n-\n-\n-\n- -\n- -\n)\nN Gy 17 Date\nFlasomot TAN\nLOnb\npt710 yorr Wr\nTP A a\nTRs\n2g0n1\nFeropeN\nM\notot? rand\nW Tue DeFe en\nGbd\nU\n7401\nX\npankas\nKe -\nVA\nototo 0\nThergtet 30hr\nLoSyP\n28166200\n720A\nD.5ec\nLeseue\n30rh\nTtot\n9\nRPY\nowe\nAceti\ntica\nVINY\ndes\nOtb\norot7 GNAO A\nDRP\nConpan\nWTU\n0-5 5\no1ot7\nMIINENTM 4 POTR L ucV 10H feritil\noEn\nTT ne o do LMR\n- Yau\nwis\nate putes\na7\n-\n74412",
+  "ocr_text_length": 420,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.25,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "medications"
+    ],
+    "quality_score": 0.446627,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

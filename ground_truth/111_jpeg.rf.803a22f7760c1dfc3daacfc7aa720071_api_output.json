@@ -1,0 +1,202 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_8d7afcbe7cf646e8923e948a3990437a",
+    "success": true
+  },
+  "document_id": "doc_00f46dff49024b4b9b149adb0fe33cb6",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": "COPT",
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "ANTE\nSITTCH COPT\nAKUMD\n<\nGB- Fos dlal 250\nPtata ORnOtA\nGB- Etenac Gor)\n2-0+0 /U\nap- X-Lar son\n2+9+0 R\n27"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": "COPT",
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "ANTE\nSITTCH COPT\nAKUMD\n<\nGB- Fos dlal 250\nPtata ORnOtA\nGB- Etenac Gor)\n2-0+0 /U\nap- X-Lar son\n2+9+0 R\n27"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T08:25:08.161360Z",
+    "total_text_regions": 13
+  },
+  "ocr_confidence": 0.498599,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.5392710447311402,
+        "text": "- . \u00e0 Ale a"
+      },
+      {
+        "confidence": 0.4569343328475952,
+        "text": "ANTE"
+      },
+      {
+        "confidence": 0.3236483484506607,
+        "text": "SITRHT CUOPT"
+      },
+      {
+        "confidence": 0.5979412247737249,
+        "text": "- I Riins  - 19"
+      },
+      {
+        "confidence": 0.5413578152656555,
+        "text": "AKUmD"
+      },
+      {
+        "confidence": 0.5986936092376709,
+        "text": "<"
+      },
+      {
+        "confidence": 0.5234061703085899,
+        "text": "Gb- Fos dlal 250"
+      },
+      {
+        "confidence": 0.30134571592013043,
+        "text": "Ptata ORnOtA "
+      },
+      {
+        "confidence": 0.5379683474699656,
+        "text": "Gb- Etenac Gor)"
+      },
+      {
+        "confidence": 0.3732696771621704,
+        "text": "2-0+0 /U "
+      },
+      {
+        "confidence": 0.4197259147961934,
+        "text": "ap- X-Lar son"
+      },
+      {
+        "confidence": 0.5440705865621567,
+        "text": "2+9+0 R"
+      },
+      {
+        "confidence": 0.7241510152816772,
+        "text": "27"
+      }
+    ]
+  },
+  "ocr_text": "- . \u00e0 Ale a\nANTE\nSITRHT CUOPT\n- I Riins  - 19\nAKUmD\n<\nGb- Fos dlal 250\nPtata ORnOtA \nGb- Etenac Gor)\n2-0+0 /U \nap- X-Lar son\n2+9+0 R\n27",
+  "ocr_text_length": 135,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.25,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "medications"
+    ],
+    "quality_score": 0.498599,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

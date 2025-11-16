@@ -1,0 +1,255 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_a0ef7f7c113f4d659f82d4a945dd7d3c",
+    "success": true
+  },
+  "document_id": "doc_a4e719d724104ecda54eebb70cfd2d76",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": null,
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": null,
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "National Institute of Cardiovascular Diseases and Hospitals\nSha'er Range Street, No. 1207\nTreatment Sheet\nAAN ICLE\nU.S. No. 281972, 101\nDate: 2025/9/4 11:46\ninstitute of Cardiovascular\nDiseases & Hospitals\nSha'er Range\npr. Chats-1207\nna\nut a\nTREATMENTSHEET\naan\nICLE\n281972\nan 101\n. -\nN -\nCm\nm-\nJI -\nHace\na\nD\nla\n2025/9/4 11:46"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": null,
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": null,
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "National Institute of Cardiovascular Diseases and Hospitals\nSha'er Range Street, No. 1207\nTreatment Sheet\nAAN ICLE\nU.S. No. 281972, 101\nDate: 2025/9/4 11:46\ninstitute of Cardiovascular\nDiseases & Hospitals\nSha'er Range\npr. Chats-1207\nna\nut a\nTREATMENTSHEET\naan\nICLE\n281972\nan 101\n. -\nN -\nCm\nm-\nJI -\nHace\na\nD\nla\n2025/9/4 11:46"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T09:02:20.245204Z",
+    "total_text_regions": 26
+  },
+  "ocr_confidence": 0.525431,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.7986509799957275,
+        "text": "- Na"
+      },
+      {
+        "confidence": 0.9417740106582642,
+        "text": "National"
+      },
+      {
+        "confidence": 0.8519436518351237,
+        "text": "institute of Cardiovascular"
+      },
+      {
+        "confidence": 0.7041771213213602,
+        "text": "Diseases & Hespital"
+      },
+      {
+        "confidence": 0.4396016523241997,
+        "text": "Sha ERange pr. Chats-1207"
+      },
+      {
+        "confidence": 0.2147580236196518,
+        "text": "na"
+      },
+      {
+        "confidence": 0.4468270540237427,
+        "text": "ut a"
+      },
+      {
+        "confidence": 0.8947868347167969,
+        "text": "TREATMENTSHEET"
+      },
+      {
+        "confidence": 0.30634257197380066,
+        "text": "aan"
+      },
+      {
+        "confidence": 0.5963882207870483,
+        "text": "ICLE"
+      },
+      {
+        "confidence": 0.5554583892226219,
+        "text": "- U"
+      },
+      {
+        "confidence": 0.45760995149612427,
+        "text": "281972"
+      },
+      {
+        "confidence": 0.46289554238319397,
+        "text": "an 101"
+      },
+      {
+        "confidence": 0.679034024477005,
+        "text": ". -"
+      },
+      {
+        "confidence": 0.3812507390975952,
+        "text": "- -"
+      },
+      {
+        "confidence": 0.5047437250614166,
+        "text": "N -"
+      },
+      {
+        "confidence": 0.2684318423271179,
+        "text": "Cm"
+      },
+      {
+        "confidence": 0.19970884919166565,
+        "text": "m-"
+      },
+      {
+        "confidence": 0.6238433122634888,
+        "text": "JI -"
+      },
+      {
+        "confidence": 0.5774216651916504,
+        "text": "Hace"
+      },
+      {
+        "confidence": 0.3861388564109802,
+        "text": "a"
+      },
+      {
+        "confidence": 0.5156271457672119,
+        "text": "-"
+      },
+      {
+        "confidence": 0.25790300965309143,
+        "text": "-"
+      },
+      {
+        "confidence": 0.24626217782497406,
+        "text": "D"
+      },
+      {
+        "confidence": 0.4678652584552765,
+        "text": "la"
+      },
+      {
+        "confidence": 0.8817585706710815,
+        "text": "2025/9/4 11:46"
+      }
+    ]
+  },
+  "ocr_text": "- Na\nNational\ninstitute of Cardiovascular\nDiseases & Hespital\nSha ERange pr. Chats-1207\nna\nut a\nTREATMENTSHEET\naan\nICLE\n- U\n281972\nan 101\n. -\n- -\nN -\nCm\nm-\nJI -\nHace\na\n-\n-\nD\nla\n2025/9/4 11:46",
+  "ocr_text_length": 191,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.0,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "prescriber.name",
+      "medications"
+    ],
+    "quality_score": 0.525431,
+    "validation_status": "PENDING_REVIEW"
+  }
+}

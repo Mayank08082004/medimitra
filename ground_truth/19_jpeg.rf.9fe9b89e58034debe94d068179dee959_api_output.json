@@ -1,0 +1,314 @@
+{
+  "classification": {
+    "document_category": "prescription",
+    "is_electronic": false,
+    "prescription_type": "standard"
+  },
+  "database_result": {
+    "matched_existing_patient": false,
+    "patient_id": null,
+    "record_id": "rec_1c053950bb4748c08ea7c93710c0e742",
+    "success": true
+  },
+  "document_id": "doc_25fecb34dc3e4bc6b5e618bd3a4735eb",
+  "extraction": {
+    "clinical_info": {
+      "diagnosis": [],
+      "icd_codes": [],
+      "lab_results": {},
+      "notes": null,
+      "vital_signs": {}
+    },
+    "medications": [],
+    "metadata": {
+      "date_filled": null,
+      "date_written": null,
+      "expiration_date": null,
+      "is_electronic": false,
+      "is_original": true,
+      "language": "en",
+      "prescription_number": null,
+      "prescription_type": "standard"
+    },
+    "ml_entities_count": 0,
+    "patient": {
+      "address": null,
+      "age": "216",
+      "allergies": [],
+      "dob": null,
+      "gender": null,
+      "id": null,
+      "insurance": null,
+      "name": null,
+      "phone": null
+    },
+    "pharmacy": {
+      "address": null,
+      "license": null,
+      "name": null,
+      "phone": null
+    },
+    "prescriber": {
+      "address": null,
+      "dea": null,
+      "id": null,
+      "license": null,
+      "name": "in all",
+      "npi": null,
+      "phone": null,
+      "signature_present": false,
+      "specialty": null
+    },
+    "refined_text": "Montota Zaman\nin all Doctor. CMI n0 - A odia\nN SY 17 DAE\nTAN\nOn0 plasomox\noPO 4or Mr\nd\n2g0n1\nFexopaw\nTHS\natot? ran\nU Tud pereonp Reinf\n710t\nX\nAankast\notr+ to A\nThenalet 30\nyr\n21660200\nn007\nD-5e0\negeue\n50M\nJtop\n9\nAceti pwe\ngimy\nA\nLOrb\n>rot7 AO\nDRP\nCorpan\nWOEL\n0-5\notot?\nDEE umrEce du -\nmithl\na -\nE\nin all Doctor. CMI n0 - A odia\nN SY 17 DAE\nTAN\nOn0 plasomox\noPO 4or Mr\nd\n2g0n1\nFexopaw\nTHS\natot? ran\nU Tud pereonp Reinf\n710t\nX\nAankast\notr+ to A\nThenalet 3e0\nyr\n21660200\nn007\nD-5e0\negeue\n50M\nJtop\n9\nAceti pwe\ngimy\nA\nLOrb\n>rot7 AO\nDRP\nCorpan\nWOEL\n0-5\notot?\nDEE umrEce du -\nmithl\na -\nE"
+  },
+  "extraction_per_page": [
+    {
+      "extraction": {
+        "clinical_info": {
+          "diagnosis": [],
+          "icd_codes": [],
+          "lab_results": {},
+          "notes": null,
+          "vital_signs": {}
+        },
+        "medications": [],
+        "metadata": {
+          "date_filled": null,
+          "date_written": null,
+          "expiration_date": null,
+          "is_electronic": false,
+          "is_original": true,
+          "language": "en",
+          "prescription_number": null,
+          "prescription_type": "standard"
+        },
+        "ml_entities_count": 0,
+        "patient": {
+          "address": null,
+          "age": "216",
+          "allergies": [],
+          "dob": null,
+          "gender": null,
+          "id": null,
+          "insurance": null,
+          "name": null,
+          "phone": null
+        },
+        "pharmacy": {
+          "address": null,
+          "license": null,
+          "name": null,
+          "phone": null
+        },
+        "prescriber": {
+          "address": null,
+          "dea": null,
+          "id": null,
+          "license": null,
+          "name": "in all",
+          "npi": null,
+          "phone": null,
+          "signature_present": false,
+          "specialty": null
+        },
+        "refined_text": "Montota Zaman\nin all Doctor. CMI n0 - A odia\nN SY 17 DAE\nTAN\nOn0 plasomox\noPO 4or Mr\nd\n2g0n1\nFexopaw\nTHS\natot? ran\nU Tud pereonp Reinf\n710t\nX\nAankast\notr+ to A\nThenalet 30\nyr\n21660200\nn007\nD-5e0\negeue\n50M\nJtop\n9\nAceti pwe\ngimy\nA\nLOrb\n>rot7 AO\nDRP\nCorpan\nWOEL\n0-5\notot?\nDEE umrEce du -\nmithl\na -\nE\nin all Doctor. CMI n0 - A odia\nN SY 17 DAE\nTAN\nOn0 plasomox\noPO 4or Mr\nd\n2g0n1\nFexopaw\nTHS\natot? ran\nU Tud pereonp Reinf\n710t\nX\nAankast\notr+ to A\nThenalet 3e0\nyr\n21660200\nn007\nD-5e0\negeue\n50M\nJtop\n9\nAceti pwe\ngimy\nA\nLOrb\n>rot7 AO\nDRP\nCorpan\nWOEL\n0-5\notot?\nDEE umrEce du -\nmithl\na -\nE"
+      },
+      "page": 0
+    }
+  ],
+  "meta": {
+    "api_version": "3.0 + LLM",
+    "ml_entities_detected": 0,
+    "page_count": 1,
+    "processing_timestamp": "2025-11-15T08:58:38.334015Z",
+    "total_text_regions": 41
+  },
+  "ocr_confidence": 0.449609,
+  "ocr_raw": {
+    "page_0": [
+      {
+        "confidence": 0.752130538225174,
+        "text": "Montota Zaman"
+      },
+      {
+        "confidence": 0.6225829720497131,
+        "text": "-"
+      },
+      {
+        "confidence": 0.4251755880458014,
+        "text": "inall Doctor. CMI n0 -n A odia"
+      },
+      {
+        "confidence": 0.7293526828289032,
+        "text": "N SY 17 Dae"
+      },
+      {
+        "confidence": 0.8116322159767151,
+        "text": "TAN"
+      },
+      {
+        "confidence": 0.4493225961923599,
+        "text": "On0 plasomox"
+      },
+      {
+        "confidence": 0.37279138962427777,
+        "text": "oPO 4or Mr"
+      },
+      {
+        "confidence": 0.1950756311416626,
+        "text": "d"
+      },
+      {
+        "confidence": 0.29972103238105774,
+        "text": "2g0n1"
+      },
+      {
+        "confidence": 0.4830999970436096,
+        "text": "Fexopaw"
+      },
+      {
+        "confidence": 0.27809634804725647,
+        "text": "THs"
+      },
+      {
+        "confidence": 0.3943466544151306,
+        "text": "atot? ran"
+      },
+      {
+        "confidence": 0.398503839969635,
+        "text": "U Tud pereonp Reinf"
+      },
+      {
+        "confidence": 0.4226124584674835,
+        "text": "710t"
+      },
+      {
+        "confidence": 0.4640379548072815,
+        "text": "X"
+      },
+      {
+        "confidence": 0.4446314573287964,
+        "text": "Aankast"
+      },
+      {
+        "confidence": 0.500669797261556,
+        "text": "otr+ to A"
+      },
+      {
+        "confidence": 0.429804265499115,
+        "text": "Thenalet 30"
+      },
+      {
+        "confidence": 0.6961676478385925,
+        "text": "yr"
+      },
+      {
+        "confidence": 0.5906049013137817,
+        "text": "21660200"
+      },
+      {
+        "confidence": 0.2886884808540344,
+        "text": "n007"
+      },
+      {
+        "confidence": 0.4233827590942383,
+        "text": "D-5e0"
+      },
+      {
+        "confidence": 0.47791212797164917,
+        "text": "egeue"
+      },
+      {
+        "confidence": 0.4944858253002167,
+        "text": "50M"
+      },
+      {
+        "confidence": 0.16414780914783478,
+        "text": "Jtop"
+      },
+      {
+        "confidence": 0.6403232216835022,
+        "text": "9"
+      },
+      {
+        "confidence": 0.4104393273591995,
+        "text": "Aceti pwe"
+      },
+      {
+        "confidence": 0.29448264837265015,
+        "text": "gimy"
+      },
+      {
+        "confidence": 0.6537119746208191,
+        "text": "A"
+      },
+      {
+        "confidence": 0.1550559401512146,
+        "text": "LOrb"
+      },
+      {
+        "confidence": 0.2988428547978401,
+        "text": ">rot7 AO"
+      },
+      {
+        "confidence": 0.21682262420654297,
+        "text": "DRP"
+      },
+      {
+        "confidence": 0.44646626710891724,
+        "text": "Corpan"
+      },
+      {
+        "confidence": 0.21665699779987335,
+        "text": "WOEL"
+      },
+      {
+        "confidence": 0.8796669840812683,
+        "text": "0-5"
+      },
+      {
+        "confidence": 0.43838924169540405,
+        "text": "otot?"
+      },
+      {
+        "confidence": 0.5233034566044807,
+        "text": "DEE umrEce du -"
+      },
+      {
+        "confidence": 0.4287097752094269,
+        "text": "mithl"
+      },
+      {
+        "confidence": 0.43967533111572266,
+        "text": "a -"
+      },
+      {
+        "confidence": 0.3169059455394745,
+        "text": "E"
+      },
+      {
+        "confidence": 0.46552445739507675,
+        "text": "- "
+      }
+    ]
+  },
+  "ocr_text": "Montota Zaman\n-\ninall Doctor. CMI n0 -n A odia\nN SY 17 Dae\nTAN\nOn0 plasomox\noPO 4or Mr\nd\n2g0n1\nFexopaw\nTHs\natot? ran\nU Tud pereonp Reinf\n710t\nX\nAankast\notr+ to A\nThenalet 30\nyr\n21660200\nn007\nD-5e0\negeue\n50M\nJtop\n9\nAceti pwe\ngimy\nA\nLOrb\n>rot7 AO\nDRP\nCorpan\nWOEL\n0-5\notot?\nDEE umrEce du -\nmithl\na -\nE\n- ",
+  "ocr_text_length": 301,
+  "routing_decision": {
+    "action": "MANUAL_REVIEW",
+    "priority": "high",
+    "reason": "Low OCR confidence",
+    "requires_pharmacist_review": false
+  },
+  "success": true,
+  "validation": {
+    "completeness_score": 0.25,
+    "missing_critical_fields": [
+      "patient.name",
+      "patient.id",
+      "medications"
+    ],
+    "quality_score": 0.449609,
+    "validation_status": "PENDING_REVIEW"
+  }
+}
